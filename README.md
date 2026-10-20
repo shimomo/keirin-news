@@ -1,6 +1,6 @@
 # keirin-news
 
-競輪の選手ニュースを中心に、新聞・競輪メディア・公式・競輪場の見出しを 1 時間ごとに集めて、1 日ごとに 1 ページで眺めるための仕組み。
+競輪の選手ニュースを中心に、新聞・競輪メディア・公式・競輪場の見出しを GitHub Actions で定期的に（実際は 1 日に数回）集めて、1 日ごとに 1 ページで眺めるための仕組み。
 収集には [keirin-news-collector](https://github.com/shimomo/keirin-news-collector) を使う。オートレース版の [autorace-news](https://github.com/shimomo/autorace-news) と同じ作り。
 GitHub Actions が収集してリポジトリにコミットし、GitHub Pages がそれを配信する。サーバーもデータベースも使わない。
 

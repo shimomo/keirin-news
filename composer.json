@@ -1,6 +1,6 @@
 {
     "name": "shimomo/keirin-news",
-    "description": "Hourly list of Keirin news headlines and links, published on GitHub Pages.",
+    "description": "Daily pages of Keirin news headlines and links, collected by GitHub Actions and published on GitHub Pages.",
     "license": "MIT",
     "type": "project",
     "authors": [
