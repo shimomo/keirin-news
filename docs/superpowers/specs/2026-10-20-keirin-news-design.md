@@ -71,8 +71,8 @@ autorace-news の設計書 `~/github/shimomo/autorace-news/docs/superpowers/spec
 autorace-news（`main` の `54f2d12` 以降）のコードを写し、名前を競輪向けに変える。
 
 - 名前空間 `Shimomo\AutoraceNews` → `Shimomo\KeirinNews`、ライブラリの名前空間 `Shimomo\AutoraceNewsCollector` → `Shimomo\KeirinNewsCollector`
-- そのまま写すもの（中身は同じ）: `StoredArticle`、`ArticleMerger`、`MergeResult`、`FailureSummary`、`DataStore`、`CollectRun`、`RunReport`、`bin/collect`、それぞれのテスト、`tests/Support/`、`.github/workflows/`（cron だけ変える）、`.editorconfig`・`.gitignore`・`pint.json`・`phpunit.xml.dist`・`psalm.xml.dist`・`LICENSE`
-- 変えるもの: `FailureNotice`（5.4）、`CollectorFactory`（5.3）、`docs/`（6 章）、`README.md`
+- そのまま写すもの（中身は同じ）: `StoredArticle`、`ArticleMerger`、`MergeResult`、`DataStore`、`bin/collect`、それぞれのテスト、`tests/Support/`、`.github/workflows/`（cron だけ変える）、`.editorconfig`・`.gitignore`・`pint.json`・`phpunit.xml.dist`・`psalm.xml.dist`・`LICENSE`
+- 変えるもの: `FailureNotice`・`FailureSummary`・`CollectRun`・`RunReport`（5.4）、`CollectorFactory`（5.3）、`docs/`（6 章）、`README.md`
 - 写さないもの: `KawaguchiFeedSource` とそのテスト・フィクスチャ（オートレース固有）
 
 ## 5. 収集
@@ -102,7 +102,7 @@ autorace-news と同じ（初回は `since` なし、2 回目以降は現在時�
 
 | key | 表示名（`FeedSite` の name） | フィード URL | 追加の設定 |
 |---|---|---|---|
-| `keirin-web` | 月刊競輪WEB | `https://keirin-web.com/feed/` | |
+| `keirin-web` | 月刊競輪WEB | `https://keirin-web.com/feed/` と `https://keirin-web.com/feed/?paged=2` | 2 ページ読む（実装時の追加。毎週まとめて 8 本ほど出し、10 件では溢れかけるため。重なりは `(source, id)` で吸収） |
 | `iwakidaira` | いわき平競輪 | `https://tairakeirin.com/feed/` | |
 | `chiba` | PIST6（千葉） | `https://chiba.pist6.com/feed` | 末尾 `/` なし（`/feed/` は 301 でここへ転送される） |
 | `nagoya` | 名古屋競輪 | `https://nagoyakeirin.com/feed/` | |
@@ -128,12 +128,13 @@ autorace-news と同じ（記事が返ってきている URL の失敗は数え�
 **実装時の追加（2026-10-20）:** 例外を伴わない失敗（記事 1 件のデータ不備。必須項目の欠落、日付の読み取り失敗、空のタイトルなど）は、その配信元から記事が 1 件も返らなかったときだけ数える。
 KEIRIN.JP のトピック一覧に必須項目の欠けた項目が 1 つ残っており、毎回の収集で同じ失敗が出てページの注意が消えなくなるため（作者の PC から 48 時間分で確認）。
 書式が変わって全件が読めなくなった場合は記事が 0 件になるので、注意は出る。取得の失敗（HTTP エラーなど、例外を伴うもの）は今までどおり数える。
+ページに出さない不備は、Actions の job summary に配信元ごとに出す（`FailureSummary::itemDefects()` → `RunReport`）。一部の項目だけ読めない場合や、同じキーに複数のフィードがある競輪場（玉野・函館・平塚など）で 1 つのフィードの全項目が読めない場合は、ページには出ず job summary でだけ分かる。
 
 **KEIRIN.JP は例外で、失敗として数える（作者が受け入れ済み）:**
 
 - トピックスの本文断片（`/pc/dfw/portal/guest/news/…html`）の取得に失敗すると、失敗の URL は断片の URL、記事の URL は `/pc/topicsdetail?nnum=…` で一致しない。見出しとリンクは載るが、ページに「KEIRIN.JP の取得に失敗しました」の注意が出る
 - グレードレースレポートは、ページが取れないと記事自体が返らないので、当然失敗に数える
-- 2026-10-20 の 2 回の収集（作者の PC と Actions）では KEIRIN.JP の失敗は 0 件。一時的な失敗のときだけ注意が出る。`FailureSummary` は autorace-news から変えずに写す（URL の形で除く案は、本物の失敗まで隠れるので採らない。ライブラリを直す案も今回は採らない）
+- 2026-10-20 の 2 回の収集（作者の PC と Actions）では KEIRIN.JP の失敗は 0 件。一時的な失敗のときだけ注意が出る（URL の形で除く案は、本物の失敗まで隠れるので採らない。ライブラリを直す案も今回は採らない）
 
 **autorace-news との違い:** `index.json` の `failures` に配信元の表示名を持たせる。
 
@@ -260,6 +261,7 @@ autorace-news と同じ手順。ただし push は SSH（`git@github.com:shimomo
 
 - 熊本の RSS 版で「発売レース情報ピックアップ」を除く（ライブラリの REST 版と同じ結果にするため）
 - `failures[]` に `sourceName` を持たせ、表にない配信元も名前で出す（5.4）
+- 実装時の追加: 記事が返った配信元の 1 件単位の不備はページに出さず job summary にだけ出す（5.4）。月刊競輪WEB は RSS を 2 ページ読む（5.3）
 - 表にない source は「競輪場のお知らせ」に入れる（6.2）
 - フッターの情報源は主な 4 つ＋ライブラリの一覧へのリンク（6.5）
 - `stripTrailingHashtags` は写さない
