@@ -2,7 +2,8 @@
 // 純粋関数は export してテストから使う。DOM を触るのは main() だけ。
 
 const WEEKDAYS = ["日", "月", "火", "水", "木", "金", "土"];
-const STALE_AFTER_MS = 3 * 60 * 60 * 1000;
+/** GitHub Actions の定期実行は 1 日に数回しか動かないので、丸 1 日動いていなければ止まっているとみなす */
+const STALE_AFTER_MS = 24 * 60 * 60 * 1000;
 
 /** 段の並び（固定）。選手の話題が多い新聞・メディアを先頭に、競輪場の案内を最後に置く。表にない source は track。 */
 export const SECTIONS = [
@@ -126,7 +127,7 @@ export function resolveDate(hash, dates) {
 }
 
 /**
- * 最後の収集から 3 時間を超えていたら true（GitHub の cron の遅れを見込む）。
+ * 最後の収集から 24 時間を超えていたら true。
  * @param {string} checkedAt
  * @param {Date} now
  */

@@ -152,6 +152,8 @@ autorace-news と同じ形（日ファイルの記事は 7 項目、`index.json`
 
 ## 6. ページ
 
+**2026-10-20 公開後の変更（作者の決定）:** 「収集が止まっている可能性があります」の警告は、`checkedAt` が 24 時間より前になったら出す（autorace-news の 3 時間から変更）。GitHub Actions の定期実行が 1 日に数回しか動かないため。実行の間隔があくと、日刊スポーツの Atom（最新 10 件）が G1 開催中に溢れて取りこぼす可能性がある。ページは 1 日 1 ページのまま（1 週間表示にしたのは autorace-news だけ）。
+
 画面見本: `~/github/shimomo/autorace-news/.superpowers/brainstorm/*/content/keirin-layout.html`（作業フォルダにだけある。git 管理外）。作者が確認済み。
 
 autorace-news の `docs/` を写し、次を変える。

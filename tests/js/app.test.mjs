@@ -78,10 +78,10 @@ test("formatsTimesInTokyoWith24HourClock", () => {
   assert.equal(dateLabel("2026-10-19"), "2026-10-19 (月)");
 });
 
-test("isStale after more than three hours", () => {
+test("isStale after more than twenty-four hours", () => {
   const checkedAt = "2026-10-20T09:47:00+09:00";
-  assert.equal(isStale(checkedAt, new Date("2026-10-20T12:47:00+09:00")), false);
-  assert.equal(isStale(checkedAt, new Date("2026-10-20T12:47:01+09:00")), true);
+  assert.equal(isStale(checkedAt, new Date("2026-10-21T09:47:00+09:00")), false);
+  assert.equal(isStale(checkedAt, new Date("2026-10-21T09:47:01+09:00")), true);
 });
 
 test("resolveDate falls back to the latest", () => {
