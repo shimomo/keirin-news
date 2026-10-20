@@ -158,4 +158,28 @@ final class FailureSummaryTest extends TestCase
 
         self::assertEquals([new FailureNotice('tamano', '玉野競輪', 'GET ... returned HTTP 503.')], FailureSummary::fromResult($result, self::NAMES));
     }
+
+    /**
+     * ページに出さない「1件のデータ不備」は、Actions の job summary に出すために別に取り出す。
+     *
+     * @return void
+     */
+    #[Test]
+    public function itemDefectsListsWhatThePageHides(): void
+    {
+        $result = new CollectResult(
+            [Articles::library('keirin.jp', '1', '2026-10-20 00:00:00'), Articles::library('tamano', '2', '2026-10-20 10:00:00')],
+            [
+                new SourceFailure('keirin.jp', null, 'Topic entry is missing newsNo, keisaiSDate, newsTitle, or filePathPc.'),
+                new SourceFailure('keirin.jp', null, 'Topic entry title is empty.'),
+                new SourceFailure('tamano', null, 'GET ... returned HTTP 503.', new RuntimeException('HTTP 503')),
+                new SourceFailure('aomori', null, 'Post entry is not an object.'),
+            ],
+        );
+
+        self::assertEquals(
+            [new FailureNotice('keirin.jp', 'KEIRIN.JP', 'Topic entry is missing newsNo, keisaiSDate, newsTitle, or filePathPc.')],
+            FailureSummary::itemDefects($result, self::NAMES),
+        );
+    }
 }

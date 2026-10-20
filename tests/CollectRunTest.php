@@ -161,6 +161,24 @@ final class CollectRunTest extends TestCase
     }
 
     /**
+     * 記事が返った配信元の1件単位の不備はページ（index.json）に出さず、job summary にだけ出す。
+     *
+     * @return void
+     */
+    #[Test]
+    public function summaryListsHiddenItemDefects(): void
+    {
+        $report = $this->collect([new ArraySource('keirin.jp', 'KEIRIN.JP', [Articles::library('keirin.jp', '1', '2026-10-20 00:00:00')], [
+            new SourceFailure('keirin.jp', null, 'Topic entry is missing newsNo, keisaiSDate, newsTitle, or filePathPc.'),
+        ])]);
+        $index = json_decode((string) file_get_contents($this->dir . '/index.json'), true, flags: JSON_THROW_ON_ERROR);
+
+        self::assertIsArray($index);
+        self::assertSame([], $index['failures']);
+        self::assertStringContainsString('Topic entry is missing', $report->summary());
+    }
+
+    /**
      * @param list<\Shimomo\KeirinNewsCollector\Contracts\Source> $sources
      * @return \Shimomo\KeirinNews\RunReport
      */

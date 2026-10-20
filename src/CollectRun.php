@@ -47,7 +47,8 @@ final class CollectRun
             $this->store->loadArticles(),
             array_map(StoredArticle::fromArticle(...), $result->articles),
         );
-        $failures = FailureSummary::fromResult($result, $this->names());
+        $names = $this->names();
+        $failures = FailureSummary::fromResult($result, $names);
 
         $this->store->save(
             $merged->articles,
@@ -63,6 +64,7 @@ final class CollectRun
             $merged->updated,
             $failures,
             $keys !== [] && count($failures) === count($keys),
+            FailureSummary::itemDefects($result, $names),
         );
     }
 

@@ -17,6 +17,7 @@ final readonly class RunReport
      * @param int $updated 既存から中身が変わった件数
      * @param list<FailureNotice> $failures
      * @param bool $allFailed すべての配信元キーが失敗した
+     * @param list<FailureNotice> $itemDefects ページに出さない1件単位の不備（FailureSummary::itemDefects()）
      */
     public function __construct(
         public int $collected,
@@ -24,6 +25,7 @@ final readonly class RunReport
         public int $updated,
         public array $failures,
         public bool $allFailed,
+        public array $itemDefects = [],
     ) {
     }
 
@@ -55,6 +57,14 @@ final readonly class RunReport
 
             foreach ($this->failures as $failure) {
                 $lines[] = sprintf('  - `%s`: %s', $failure->source, $failure->message);
+            }
+        }
+
+        if ($this->itemDefects !== []) {
+            $lines[] = '- 1件単位の不備（その配信元の記事は取れているので、ページには出さない）:';
+
+            foreach ($this->itemDefects as $defect) {
+                $lines[] = sprintf('  - `%s`: %s', $defect->source, $defect->message);
             }
         }
 
