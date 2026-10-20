@@ -16,7 +16,7 @@ final class TempDirectory
      */
     public static function path(): string
     {
-        return sys_get_temp_dir() . '/autorace-news-test-' . bin2hex(random_bytes(6));
+        return sys_get_temp_dir() . '/keirin-news-test-' . bin2hex(random_bytes(6));
     }
 
     /**

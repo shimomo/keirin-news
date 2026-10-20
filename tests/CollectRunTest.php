@@ -54,8 +54,8 @@ final class CollectRunTest extends TestCase
     #[Test]
     public function firstRunTakesEverything(): void
     {
-        $old = Articles::library('kawaguchi', '1', '2026-07-01 10:00:00');
-        $this->collect([new ArraySource('kawaguchi', '川口', [$old])]);
+        $old = Articles::library('tamano', '1', '2026-07-01 10:00:00');
+        $this->collect([new ArraySource('tamano', '玉野競輪', [$old])]);
 
         self::assertFileExists($this->dir . '/2026-07-01.json');
     }
@@ -115,7 +115,7 @@ final class CollectRunTest extends TestCase
     }
 
     /**
-     * 川口は news と interview の2つの Source が同じキーを持つので、キー単位で数える。
+     * 玉野は posts・preexamination などの Source が同じキーを持つので、キー単位で数える。
      *
      * @return void
      */
@@ -123,8 +123,8 @@ final class CollectRunTest extends TestCase
     public function allSourcesFailedExitsNonZero(): void
     {
         $report = $this->collect([
-            new ArraySource('kawaguchi', '川口', [], [new SourceFailure('kawaguchi', null, 'news down')]),
-            new ArraySource('kawaguchi', '川口', [], [new SourceFailure('kawaguchi', null, 'interview down')]),
+            new ArraySource('tamano', '玉野競輪', [], [new SourceFailure('tamano', null, 'posts down')]),
+            new ArraySource('tamano', '玉野競輪', [], [new SourceFailure('tamano', null, 'preexamination down')]),
             new ArraySource('sanyo', '山陽', [], [new SourceFailure('sanyo', null, 'down')]),
         ]);
 
