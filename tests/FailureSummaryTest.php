@@ -6,6 +6,7 @@ namespace Shimomo\KeirinNews\Tests;
 
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
+use RuntimeException;
 use Shimomo\KeirinNews\FailureNotice;
 use Shimomo\KeirinNews\FailureSummary;
 use Shimomo\KeirinNews\Tests\Support\Articles;
@@ -110,5 +111,51 @@ final class FailureSummaryTest extends TestCase
         $result = new CollectResult([], [new SourceFailure('newtrack', null, 'down')]);
 
         self::assertEquals([new FailureNotice('newtrack', 'newtrack', 'down')], FailureSummary::fromResult($result, []));
+    }
+
+    /**
+     * KEIRIN.JP のトピック一覧に壊れた項目が1つ残っていると、毎回の収集で同じ失敗が出る。
+     * 記事が返っている配信元の「1件のデータ不備」（例外を伴わない失敗）は、取得の失敗ではないので出さない。
+     *
+     * @return void
+     */
+    #[Test]
+    public function ignoresItemFailuresWhenSourceReturnedArticles(): void
+    {
+        $result = new CollectResult(
+            [Articles::library('keirin.jp', '1', '2026-10-20 00:00:00')],
+            [new SourceFailure('keirin.jp', null, 'Topic entry is missing newsNo, keisaiSDate, newsTitle, or filePathPc.')],
+        );
+
+        self::assertSame([], FailureSummary::fromResult($result, self::NAMES));
+    }
+
+    /**
+     * 書式が変わって全件が読めなくなった場合は、記事が0件になるので気づけるように出す。
+     *
+     * @return void
+     */
+    #[Test]
+    public function keepsItemFailuresWhenSourceReturnedNothing(): void
+    {
+        $result = new CollectResult([], [new SourceFailure('aomori', 'https://aomorikeirin.com/1/', 'Unparseable date_gmt "x".')]);
+
+        self::assertEquals([new FailureNotice('aomori', '青森競輪', 'Unparseable date_gmt "x".')], FailureSummary::fromResult($result, self::NAMES));
+    }
+
+    /**
+     * 同じキーの別の Source（玉野の posts と preexamination など）が記事を返していても、取得の失敗は出す。
+     *
+     * @return void
+     */
+    #[Test]
+    public function keepsFetchFailuresEvenWithArticles(): void
+    {
+        $result = new CollectResult(
+            [Articles::library('tamano', '1', '2026-10-20 10:00:00')],
+            [new SourceFailure('tamano', null, 'GET ... returned HTTP 503.', new RuntimeException('HTTP 503'))],
+        );
+
+        self::assertEquals([new FailureNotice('tamano', '玉野競輪', 'GET ... returned HTTP 503.')], FailureSummary::fromResult($result, self::NAMES));
     }
 }
