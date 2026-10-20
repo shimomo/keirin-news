@@ -70,7 +70,7 @@ final class DataStoreTest extends TestCase
         (new DataStore($this->dir))->save(
             [$tieB, $other, $late, $tieA],
             '2026-10-20T12:17:05+09:00',
-            [new FailureNotice('autorace.jp', 'HTTP 503')],
+            [new FailureNotice('autorace.jp', 'AUTORACE.JP', 'HTTP 503')],
         );
 
         self::assertSame([
@@ -80,7 +80,7 @@ final class DataStoreTest extends TestCase
         self::assertSame([
             'dates' => ['2026-10-19', '2026-10-17'],
             'checkedAt' => '2026-10-20T12:17:05+09:00',
-            'failures' => [['source' => 'autorace.jp', 'message' => 'HTTP 503']],
+            'failures' => [['source' => 'autorace.jp', 'sourceName' => 'AUTORACE.JP', 'message' => 'HTTP 503']],
         ], $this->readJson('index.json'));
     }
 

@@ -95,7 +95,7 @@ final class CollectRunTest extends TestCase
 
         self::assertIsArray($index);
         self::assertSame('2026-10-20T12:17:05+09:00', $index['checkedAt']);
-        self::assertSame([['source' => 'autorace.jp', 'message' => 'HTTP 503']], $index['failures']);
+        self::assertSame([['source' => 'autorace.jp', 'sourceName' => 'AUTORACE.JP', 'message' => 'HTTP 503']], $index['failures']);
     }
 
     /**

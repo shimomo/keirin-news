@@ -47,7 +47,7 @@ final class CollectRun
             $this->store->loadArticles(),
             array_map(StoredArticle::fromArticle(...), $result->articles),
         );
-        $failures = FailureSummary::fromResult($result);
+        $failures = FailureSummary::fromResult($result, $this->names());
 
         $this->store->save(
             $merged->articles,
@@ -64,5 +64,21 @@ final class CollectRun
             $failures,
             $keys !== [] && count($failures) === count($keys),
         );
+    }
+
+    /**
+     * ソースキー → 表示名。玉野・平塚のように同じキーの Source が複数あれば最初のものを使う。
+     *
+     * @return array<string, string>
+     */
+    private function names(): array
+    {
+        $names = [];
+
+        foreach ($this->collector->sources() as $source) {
+            $names[$source->key()] ??= $source->name();
+        }
+
+        return $names;
     }
 }
