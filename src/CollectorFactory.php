@@ -65,6 +65,8 @@ final class CollectorFactory
     {
         return [
             self::feed($fetcher, 'keirin-web', '月刊競輪WEB', 'https://keirin-web.com/feed/'),
+            // 毎週まとめて 8 本ほど出し、10 件では溢れかける（ライブラリが REST を使う理由）。2 ページ目も読み、重なりは (source, id) で吸収する
+            self::feed($fetcher, 'keirin-web', '月刊競輪WEB', 'https://keirin-web.com/feed/?paged=2'),
             self::feed($fetcher, 'iwakidaira', 'いわき平競輪', 'https://tairakeirin.com/feed/'),
             // /feed/ は /feed へ 301 で転送される
             self::feed($fetcher, 'chiba', 'PIST6（千葉）', 'https://chiba.pist6.com/feed'),

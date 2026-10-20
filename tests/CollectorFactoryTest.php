@@ -36,6 +36,7 @@ final class CollectorFactoryTest extends TestCase
 
     /**
      * 千葉と佐世保は /feed/ が /feed へ 301 で転送されるので、転送先を直接読む。どのキーも wp-json を要求しない。
+     * 月刊競輪WEB は毎週まとめて 8 本ほど出し、10 件では溢れかけるので 2 ページ目も読む。
      *
      * @return void
      */
@@ -44,7 +45,7 @@ final class CollectorFactoryTest extends TestCase
     {
         $order = ['keirin-web', 'iwakidaira', 'chiba', 'nagoya', 'mukomachi', 'kishiwada', 'hofu', 'sasebo', 'kumamoto'];
         $requested = [];
-        $collector = CollectorFactory::create(Feeds::fetcher(array_fill(0, 9, Feeds::fixture('nagoya/feed.xml')), $requested));
+        $collector = CollectorFactory::create(Feeds::fetcher(array_fill(0, 10, Feeds::fixture('nagoya/feed.xml')), $requested));
 
         foreach ($order as $key) {
             $collector->only($key)->collect();
@@ -52,6 +53,7 @@ final class CollectorFactoryTest extends TestCase
 
         self::assertSame([
             'https://keirin-web.com/feed/',
+            'https://keirin-web.com/feed/?paged=2',
             'https://tairakeirin.com/feed/',
             'https://chiba.pist6.com/feed',
             'https://nagoyakeirin.com/feed/',
