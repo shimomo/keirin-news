@@ -1,0 +1,60 @@
+{
+    "date": "2025-11-02",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9593-20251102",
+            "title": "【優勝者当てクイズ】１１月３日～５日　ニッカン・コム杯　キャンペーン",
+            "url": "https://aomorikeirin.com/event/end/2025-11-05yuusyousyaate/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-11-02T14:09:06+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9589-20251102",
+            "title": "【青森競輪】こども広場エリア　青森競輪場温泉　利用期間のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/2025-11-12riyoukikan/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-02T12:45:02+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9590-20251102",
+            "title": "【青森競輪】入場口変更のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/2025-11-13nyuujyouguti/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-02T12:40:28+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19137-20251102",
+            "title": "2/11　競輪初心者教室supported byチャリチャンFamily",
+            "url": "https://www.shonanbank.com/event/20251103/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-11-02T12:13:13+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19132-20251102",
+            "title": "２０２６年版　競輪カレンダー配布！",
+            "url": "https://www.shonanbank.com/event/20251106/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-11-02T09:48:21+09:00"
+        }
+    ]
+}

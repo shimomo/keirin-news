@@ -1,0 +1,58 @@
+{
+    "date": "2026-03-01",
+    "articles": [
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/announcer/2026/03/3-221b.html",
+            "title": "「3月」函館けいりん開運スポット巡り",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/announcer/2026/03/3-221b.html",
+            "categories": [],
+            "publishedAt": "2026-03-01T09:57:06+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20268-20260301",
+            "title": "ログステージの無料貸し出しについて",
+            "url": "https://www.shonanbank.com/news/%e3%83%ad%e3%82%b0%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8%e3%81%ae%e7%84%a1%e6%96%99%e8%b2%b8%e3%81%97%e5%87%ba%e3%81%97%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-01T08:04:59+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4687-20260301",
+            "title": "【締め切り延長！】4月12日までのお申込みで早期割引！　2026年度松阪サイクルクラブについて",
+            "url": "https://matsusaka-keirin.jp/new-post/soukiwaribiki/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-03-01T00:54:51+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "157610-20260301",
+            "title": "クーリンカード【会員ランク制度】終了のお知らせ",
+            "url": "https://www.kochi-keirin.jp/news/157610",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-03-01T00:01:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "157622-20260301",
+            "title": "クリカ「ポイント付与日変更」について",
+            "url": "https://www.kochi-keirin.jp/news/157622",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-03-01T00:01:00+09:00"
+        }
+    ]
+}

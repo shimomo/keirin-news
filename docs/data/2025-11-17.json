@@ -1,0 +1,39 @@
+{
+    "date": "2025-11-17",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11685-20251117",
+            "title": "11月24日(月・休)『第６７回朝日新聞社杯競輪祭』(GⅠ)ミカチュウのお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-11685/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-11-17T10:48:44+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4393-20251117",
+            "title": "11月21日（金）～23日（日祝）富山FIIミッドナイトin松阪 開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/20251121-23toyamamn/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-11-17T09:00:28+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11618-20251117",
+            "title": "日本競輪選手養成所129回候補生ブログ Vol.7（北村翔太さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-4/shota_kitamura/11618/",
+            "categories": [
+                "ブログ",
+                "北村翔太さん"
+            ],
+            "publishedAt": "2025-11-17T08:00:45+09:00"
+        }
+    ]
+}

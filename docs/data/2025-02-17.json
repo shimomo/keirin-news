@@ -1,0 +1,28 @@
+{
+    "date": "2025-02-17",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "19985-20250217",
+            "title": "大垣競輪 × 四日市競輪 「GⅢリレーシャトルバス」応募スタート！",
+            "url": "https://yokkaichikeirin.com/19985/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-02-17T10:42:27+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "9975-20250217",
+            "title": "日本競輪選手養成所129回候補生ブログ Vol.1（北村翔太さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-4/shota_kitamura/9975/",
+            "categories": [
+                "ブログ",
+                "北村翔太さん"
+            ],
+            "publishedAt": "2025-02-17T08:00:12+09:00"
+        }
+    ]
+}

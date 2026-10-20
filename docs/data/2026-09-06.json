@@ -1,0 +1,110 @@
+{
+    "date": "2026-09-06",
+    "articles": [
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "343",
+            "title": "【イベント報告】2026.9/6（日）ナイターバンク体験が開催されました。",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/343",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-09-06T21:00:48+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61162-20260906",
+            "title": "10月4日　毎月第１日曜日はお客様感謝DAY！",
+            "url": "https://www.komatsushimakeirin.com/2026/09/06/10%e6%9c%884%e6%97%a5%e3%80%80%e6%af%8e%e6%9c%88%e7%ac%ac%ef%bc%91%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%af%e3%81%8a%e5%ae%a2%e6%a7%98%e6%84%9f%e8%ac%9dday%ef%bc%81/",
+            "categories": [
+                "EVENT",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-09-06T17:26:38+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "19454-20260906",
+            "title": "【9/6】地元・松浦悠士選手が青森競輪ＧⅢで優勝！！",
+            "url": "https://hiroshima-keirin.com/2026/09/06/%e3%80%909-6%e3%80%91%e5%9c%b0%e5%85%83%e3%83%bb%e6%9d%be%e6%b5%a6%e6%82%a0%e5%a3%ab%e9%81%b8%e6%89%8b%e3%81%8c%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%ef%bd%87%e2%85%b2%e3%81%a7%e5%84%aa%e5%8b%9d/",
+            "categories": [
+                "レース"
+            ],
+            "publishedAt": "2026-09-06T17:01:39+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18507-20260906",
+            "title": "三神遼矢選手のS級2班特別昇級について",
+            "url": "https://keirincyclist-fc.jp/info/post-18507/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-09-06T15:00:00+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18512-20260906",
+            "title": "三澤優樹選手のS級2班特別昇級について",
+            "url": "https://keirincyclist-fc.jp/info/post-18512/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-09-06T15:00:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "252476-20260906",
+            "title": "驚異の伸び率144%！賞金データから見る「ガールズケイリン」2026年の現在地",
+            "url": "https://morecadence.jp/keirin/252476",
+            "categories": [
+                "競輪",
+                "ガールズケイリン",
+                "佐藤水菜"
+            ],
+            "publishedAt": "2026-09-06T14:13:56+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "786749-20260906",
+            "title": "【青森ＧⅢ最終日12Ｒ】坂本　５年ぶり",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%9d%92%e6%a3%ae%ef%bd%87%e2%85%a2%e6%9c%80%e7%b5%82%e6%97%a512%ef%bd%92%e3%80%91%e5%9d%82%e6%9c%ac%e3%80%80%ef%bc%95%e5%b9%b4%e3%81%b6%e3%82%8a%e3%81%a0/",
+            "categories": [],
+            "publishedAt": "2026-09-06T00:04:22+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "786746-20260906",
+            "title": "【青森ＧⅢ３日目】出来事",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%9d%92%e6%a3%ae%ef%bd%87%e2%85%a2%ef%bc%93%e6%97%a5%e7%9b%ae%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b%ef%bc%88%e4%bd%9c%e6%a5%ad%e4%b8%ad/",
+            "categories": [],
+            "publishedAt": "2026-09-06T00:03:50+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "786740-20260906",
+            "title": "【青森ＧⅢ３日目】準決勝ＶＴＲ",
+            "url": "https://keirinsponichi.jp/keirin_news/20260906-aomori-vtr/",
+            "categories": [],
+            "publishedAt": "2026-09-06T00:01:06+09:00"
+        },
+        {
+            "source": "ito",
+            "sourceName": "伊東温泉競輪",
+            "id": "/news/news26090601.html",
+            "title": "伊東温泉競輪 モーニング7 前検コメはウィンチケット杯（FII）前検インタビューのお知らせ",
+            "url": "https://www.itokeirin.com/news/news26090601.html",
+            "categories": [],
+            "publishedAt": "2026-09-06T00:00:00+09:00"
+        }
+    ]
+}

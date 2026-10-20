@@ -1,0 +1,39 @@
+{
+    "date": "2026-03-23",
+    "articles": [
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18051-20260323",
+            "title": "丸山留依選手のS級2班特別昇級について",
+            "url": "https://keirincyclist-fc.jp/info/post-18051/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-03-23T16:02:54+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18049-20260323",
+            "title": "三神遼矢選手のA級2班特別昇班について",
+            "url": "https://keirincyclist-fc.jp/info/post-18049/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-03-23T16:02:42+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12305-20260323",
+            "title": "群馬支部ブログ「心にググッと群馬支部」北村翔太選手-vol.1",
+            "url": "https://www.maebashi-keirin.jp/racer/shota_kitamura-racer/12305/",
+            "categories": [
+                "ブログ",
+                "北村翔太選手"
+            ],
+            "publishedAt": "2026-03-23T14:24:02+09:00"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "date": "2025-10-09",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "29344-20251009",
+            "title": "開設７４周年記念開催の特設サイトを公開しました！",
+            "url": "https://yokkaichikeirin.com/29344/",
+            "categories": [
+                "イベント",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-09T15:36:27+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "835-20251009",
+            "title": "松阪競輪開設75周年記念GⅢ",
+            "url": "http://graderace.com/prospect/%e6%9d%be%e9%98%aa%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad75%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5g%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-10-09T11:47:59+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9355-20251009",
+            "title": "【藤崎場外】青森競輪藤崎場外フェスタ２０２５",
+            "url": "https://aomorikeirin.com/event/end/fujisaki-festa-202510/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-10-09T06:50:31+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9363-20251009",
+            "title": "【藤崎場外】サイン会／特別予想会１０月",
+            "url": "https://aomorikeirin.com/event/end/fujisaki-nohara-fujimori-e-20251019/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-10-09T03:46:21+09:00"
+        }
+    ]
+}

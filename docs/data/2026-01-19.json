@@ -1,0 +1,39 @@
+{
+    "date": "2026-01-19",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11993-20260119",
+            "title": "平山信一の「今日のひとりごと。」vol.138",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/11993/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2026-01-19T16:23:53+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "31912-20260119",
+            "title": "四日市競輪　キャッシュレスサービス　フォーリンクラブについてのお知らせ",
+            "url": "https://yokkaichikeirin.com/31912/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-19T14:52:37+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17724-20260119",
+            "title": "『ガールズグランプリ2025』優勝者サイン色紙プレゼントキャンペーン！",
+            "url": "https://keirincyclist-fc.jp/fc/post-17724/",
+            "categories": [
+                "ファンクラブからのお知らせ"
+            ],
+            "publishedAt": "2026-01-19T11:09:24+09:00"
+        }
+    ]
+}

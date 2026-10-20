@@ -1,0 +1,41 @@
+{
+    "date": "2025-03-03",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "56157-20250303",
+            "title": "週間ポンスターvol.463小松島競輪（FⅡ）『競輪公式投票CTC杯』のL級優勝は細田愛未選手（埼玉・108期）、A級優勝は野中祐志選手（埼玉・98期）でした！",
+            "url": "https://www.komatsushimakeirin.com/ponstar/%e9%80%b1%e9%96%93%e3%83%9d%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bcvol-463%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa%ef%bc%88f%e2%85%b1%ef%bc%89%e3%80%8e%e7%ab%b6%e8%bc%aa%e5%85%ac%e5%bc%8f%e6%8a%95/",
+            "categories": [
+                "週間ポンスター",
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-03-03T19:28:07+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10043-20250303",
+            "title": "日本競輪選手養成所127回・128回群馬候補生ブログ（千葉捺美さん）Vol.12",
+            "url": "https://www.maebashi-keirin.jp/trainee-3/natsumi_chiba/10043/",
+            "categories": [
+                "ブログ",
+                "千葉捺美さん"
+            ],
+            "publishedAt": "2025-03-03T08:00:25+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10042-20250303",
+            "title": "日本競輪選手養成所127回・128回群馬候補生ブログ（関口朗斗さん）Vol.11",
+            "url": "https://www.maebashi-keirin.jp/trainee-3/akito_sekiguchi_kohosei/10042/",
+            "categories": [
+                "ブログ",
+                "関口朗斗さん"
+            ],
+            "publishedAt": "2025-03-03T07:59:37+09:00"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "date": "2025-09-29",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18658-20250929",
+            "title": "１０月場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20251002/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-09-29T16:42:51+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "147093-20250929",
+            "title": "【日本競輪選手養成所】「１２９回１３０回選手候補生」動画公開！！",
+            "url": "https://www.kochi-keirin.jp/%e6%9c%aa%e5%88%86%e9%a1%9e/147093",
+            "categories": [
+                "未分類",
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2025-09-29T15:58:14+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "38183-20250929",
+            "title": "10月１日（桃太郎杯争奪戦・Ｆ１ナイター・ガールズ競輪）",
+            "url": "https://www.tamano-keirin.jp/preexamination/10%e6%9c%88%ef%bc%91%e6%97%a5%ef%bc%88%e6%a1%83%e5%a4%aa%e9%83%8e%e6%9d%af%e4%ba%89%e5%a5%aa%e6%88%a6%e3%83%bb%ef%bd%86%ef%bc%91%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%bb%e3%82%ac%e3%83%bc%e3%83%ab/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-09-29T11:49:13+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "18253-20250929",
+            "title": "四日市競輪開設74周年記念開催期間中（10月31日～11月3日）のファンバス運行表について",
+            "url": "https://yokkaichikeirin.com/18253/",
+            "categories": [
+                "お知らせ",
+                "レース"
+            ],
+            "publishedAt": "2025-09-29T11:00:20+09:00"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "date": "2026-04-06",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9852-20260406",
+            "title": "【西武園記念競輪】『第１回 平原康多カップ』未確定車券抽選会（ミカチュウ）のお知らせ",
+            "url": "https://aomorikeirin.com/event/end/mikachu_hirahara/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-04-06T11:49:23+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18083-20260406",
+            "title": "北井佑季選手のS級2班特別昇級について",
+            "url": "https://keirincyclist-fc.jp/info/post-18083/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-04-06T11:13:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "17379-20260406",
+            "title": "【アーバンサイクルスポーツパークからのお知らせ】4/6 一部営業時間変更について",
+            "url": "https://hiroshima-keirin.com/2026/04/06/%e3%80%90%e3%82%a2%e3%83%bc%e3%83%90%e3%83%b3%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%91%e3%83%bc%e3%82%af%e3%81%8b%e3%82%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89-2/",
+            "categories": [
+                "イベント",
+                "その他"
+            ],
+            "publishedAt": "2026-04-06T08:42:37+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12339-20260406",
+            "title": "日本競輪選手養成所132回候補生ブログ Vol.1（金子梨亜さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-5/ria_kaneko/12339/",
+            "categories": [
+                "ブログ",
+                "金子梨亜さん"
+            ],
+            "publishedAt": "2026-04-06T08:00:20+09:00"
+        }
+    ]
+}

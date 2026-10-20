@@ -1,0 +1,25 @@
+{
+    "date": "2025-09-03",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "28280-20250903",
+            "title": "【お知らせ】選手との接触について 競輪を愛するファンの皆様へ",
+            "url": "https://yokkaichikeirin.com/28280/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-09-03T18:51:30+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "804-20250903",
+            "title": "岐阜競輪開設76周年記念GⅢ",
+            "url": "http://graderace.com/prospect/804/",
+            "categories": [],
+            "publishedAt": "2025-09-03T11:27:41+09:00"
+        }
+    ]
+}

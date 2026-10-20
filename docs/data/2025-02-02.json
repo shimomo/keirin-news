@@ -1,0 +1,27 @@
+{
+    "date": "2025-02-02",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "17142-20250202",
+            "title": "『富士通フロンテックカップ［FⅡ］』を終えて",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e5%af%8c%e5%a3%ab%e9%80%9a%e3%83%95%e3%83%ad%e3%83%b3%e3%83%86%e3%83%83%e3%82%af%e3%82%ab%e3%83%83%e3%83%97%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e3%82%92%e7%b5%82%e3%81%88%e3%81%a6/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-02-02T21:00:25+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "27743-20250202",
+            "title": "２月５日オッズパーク杯（ＦⅡミッドナイト・ガールズ競輪）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%92%e6%9c%88%ef%bc%95%e6%97%a5%e3%82%aa%e3%83%83%e3%82%ba%e3%83%91%e3%83%bc%e3%82%af%e6%9d%af%ef%bc%88%ef%bd%86%e2%85%b1%e3%83%9f%e3%83%83%e3%83%89%e3%83%8a%e3%82%a4%e3%83%88%e3%83%bb%e3%82%ac/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-02-02T00:53:50+09:00"
+        }
+    ]
+}

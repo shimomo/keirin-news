@@ -1,0 +1,77 @@
+{
+    "date": "2026-06-26",
+    "articles": [
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "9880-20260626",
+            "title": "2026年7月のイベントスケジュールのご案内",
+            "url": "https://chiba.pist6.com/news/9880.html",
+            "categories": [
+                "イベント",
+                "インフォメーション",
+                "ピックアップ",
+                "未分類"
+            ],
+            "publishedAt": "2026-06-26T17:13:33+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "538",
+            "title": "オールスター競輪ファン投票　最終投票結果のお知らせ",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-538.html",
+            "categories": [
+                "イベント・キャンペーン"
+            ],
+            "publishedAt": "2026-06-26T16:26:02+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "539",
+            "title": "7月3日（金）FM香川「競輪にい講座！」のゲストは蓮井祐輝選手です",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-539.html",
+            "categories": [
+                "FM香川"
+            ],
+            "publishedAt": "2026-06-26T13:49:26+09:00"
+        },
+        {
+            "source": "girls-keirin",
+            "sourceName": "ガールズケイリン",
+            "id": "9333-20260626",
+            "title": "＜後編＞岡本二菜・覚悟を決めて走る大切さに気付いた2025年 逃げ勝負のカードを持ち向上中！【松本直のガールズケイリンちょっとイイ話】",
+            "url": "https://keirin-marche.jp/girlskeirin/news/2026/06/matsumoto39-2/",
+            "categories": [],
+            "publishedAt": "2026-06-26T12:14:05+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "245883-20260626",
+            "title": "【競輪ワールドシリーズ2026 8月 開催分】G3を含む第7戦〜第10戦の出場予定選手が決定！",
+            "url": "https://morecadence.jp/keirin/245883",
+            "categories": [
+                "競輪",
+                "KeirinWS2026",
+                "エレセ・アンドルーズ",
+                "ジョセフ・トゥルーマン",
+                "ハリー・ラブレイセン",
+                "ヘティ・ファンデルワウ",
+                "マシュー・リチャードソン",
+                "マチルド・グロ"
+            ],
+            "publishedAt": "2026-06-26T12:07:06+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "1067-20260626",
+            "title": "取手競輪開設７６周年記念",
+            "url": "http://graderace.com/prospect/%e5%8f%96%e6%89%8b%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad%ef%bc%97%ef%bc%96%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5/",
+            "categories": [],
+            "publishedAt": "2026-06-26T11:51:13+09:00"
+        }
+    ]
+}

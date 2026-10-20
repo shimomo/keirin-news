@@ -1,0 +1,27 @@
+{
+    "date": "2025-11-03",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9638-20251103",
+            "title": "【スクリーンショット】１１月８日～１１月１０日　WINTICKETミッドナイト競輪　キャンペーン",
+            "url": "https://aomorikeirin.com/event/end/2025-11-08sukuri-n/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-11-03T07:57:23+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9634-20251103",
+            "title": "【視聴者プレゼント】１１月８日～１０日　WINTICKETミッドナイト競輪　キャンペーン",
+            "url": "https://aomorikeirin.com/event/end/2025-11-08-sityousya/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-11-03T07:50:17+09:00"
+        }
+    ]
+}

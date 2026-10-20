@@ -1,0 +1,63 @@
+{
+    "date": "2026-10-10",
+    "articles": [
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "11917-20261010",
+            "title": "競輪祭出場選手壮行会のおしらせ",
+            "url": "https://www.shizuoka38.jp/eventinfo/11917",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-10T17:32:14+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "13725-20261010",
+            "title": "選手インタビュー（最終日）を更新しました。",
+            "url": "https://www.shonanbank.com/news/2024p1-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-10T12:55:45+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "794860-20261010",
+            "title": "【弥彦ＧⅠ２日目12Ｒ】脇本兄弟連係の間に寺崎",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%bc%a5%e5%bd%a6%ef%bd%87%e2%85%a0%ef%bc%92%e6%97%a5%e7%9b%ae12%ef%bd%92%e3%80%91%e8%bf%91%e7%95%bf%e3%81%af%e5%88%a5%e7%b7%9a%e5%8b%9d%e8%b2%a0/",
+            "categories": [],
+            "publishedAt": "2026-10-10T00:04:29+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "794859-20261010",
+            "title": "【弥彦ＧⅠ２日目10Ｒ】木村　ＧⅠ初勝利",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%bc%a5%e5%bd%a6%ef%bd%87%e2%85%a0%ef%bc%92%e6%97%a5%e7%9b%ae10%ef%bd%92%e3%80%91%e6%9c%a8%e6%9d%91%e3%80%80%ef%bd%87%e2%85%a0%e5%88%9d%e5%8b%9d%e5%88%a9/",
+            "categories": [],
+            "publishedAt": "2026-10-10T00:03:15+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "794855-20261010",
+            "title": "【弥彦ＧⅠ初日】特選・理事長杯ＶＴＲ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%bc%a5%e5%bd%a6%ef%bd%87%e2%85%a0%e5%88%9d%e6%97%a5%ef%bd%96%ef%bd%94%ef%bd%92%e3%80%91/",
+            "categories": [],
+            "publishedAt": "2026-10-10T00:01:20+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "794845-20261010",
+            "title": "【弥彦ＧⅠ初日】出来事",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%bc%a5%e5%bd%a6%ef%bd%87%e2%85%a0%e5%88%9d%e6%97%a5%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b-4/",
+            "categories": [],
+            "publishedAt": "2026-10-10T00:00:01+09:00"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "date": "2026-01-18",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59062-20260118",
+            "title": "おはようチャリロト杯（FⅡモーニング）プレゼントキャンペーン！",
+            "url": "https://www.komatsushimakeirin.com/2026/01/18/campaign_r7_9_2_f2mo/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-18T14:09:37+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59042-20260118",
+            "title": "おはようチャリロト杯（FⅡモーニング）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2026/01/18/info_r7_9_2_f2mo/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-18T13:25:48+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "43217-20260118",
+            "title": "令和7年度 第9回後節 玉野市営玉野競輪（FⅡナイター）リンカイ！玉野 桃花カップ￼",
+            "url": "https://www.tamano-keirin.jp/holding/20260122/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2026-01-18T00:00:00+09:00"
+        }
+    ]
+}

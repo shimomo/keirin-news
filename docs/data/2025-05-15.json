@@ -1,0 +1,50 @@
+{
+    "date": "2025-05-15",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "32157-20250515",
+            "title": "５月１８日（スポーツニッポン杯争奪戦・Ｆ１ナイター・松山市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%95%e6%9c%88%ef%bc%91%ef%bc%98%e6%97%a5%ef%bc%88%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3%e6%9d%af%e4%ba%89%e5%a5%aa%e6%88%a6%e3%83%bb%ef%bd%86%ef%bc%91%e3%83%8a/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-05-15T15:39:28+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "8161-20250515",
+            "title": "【警告】クマ目撃情報のお知らせ",
+            "url": "https://aomorikeirin.com/news/%e9%87%8d%e8%a6%81/%e3%80%90%e8%ad%a6%e5%91%8a%e3%80%91%e3%82%af%e3%83%9e%e7%9b%ae%e6%92%83%e6%83%85%e5%a0%b1%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+            "categories": [
+                "重要"
+            ],
+            "publishedAt": "2025-05-15T15:38:05+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "32134-20250515",
+            "title": "松山市営in玉野競輪（FlN）スポーツニッポン杯争奪戦",
+            "url": "https://www.tamano-keirin.jp/holding/20250518/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-05-15T15:10:22+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "19974-20250515",
+            "title": "【特設サイトオープン】四日市競輪ベイサイドナイトドリームGⅢ",
+            "url": "https://yokkaichikeirin.com/19974/",
+            "categories": [
+                "イベント",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-05-15T15:00:33+09:00"
+        }
+    ]
+}

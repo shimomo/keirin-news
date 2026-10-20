@@ -1,0 +1,43 @@
+{
+    "date": "2025-08-27",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "27808-20250827",
+            "title": "９月イベントスケジュール(８/２７更新)",
+            "url": "https://yokkaichikeirin.com/27808/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-08-27T14:04:31+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/event/2025/08/17fi-04e9.html",
+            "title": "報知ゴールドカップ・第17回山口健治杯・日本名輪会カップ（FI）イベント情報",
+            "url": "https://blog.tachikawakeirin.jp/event/2025/08/17fi-04e9.html",
+            "categories": [],
+            "publishedAt": "2025-08-27T10:27:04+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/event/2025/08/fiig-b365.html",
+            "title": "報知ゴールドカップ（FII・G）　イベント情報",
+            "url": "https://blog.tachikawakeirin.jp/event/2025/08/fiig-b365.html",
+            "categories": [],
+            "publishedAt": "2025-08-27T10:25:12+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "801-20250827",
+            "title": "西武園競輪開設75周年記念ＧⅢ",
+            "url": "http://graderace.com/prospect/%e8%a5%bf%e6%ad%a6%e5%9c%92%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad75%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%ef%bd%87%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-08-27T09:41:38+09:00"
+        }
+    ]
+}

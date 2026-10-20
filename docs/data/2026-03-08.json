@@ -1,0 +1,41 @@
+{
+    "date": "2026-03-08",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59573-20260308",
+            "title": "未確定車券抽選会【高松競輪「日本名輪会カップ 吉田実記念杯&ガールズケイリン」FⅠ】",
+            "url": "https://www.komatsushimakeirin.com/2026/03/08/0312mikakutyu/",
+            "categories": [
+                "EVENT",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-03-08T15:55:58+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59577-20260308",
+            "title": "高松市営小松島競輪『日本名輪会カップ 吉田実記念杯&ガールズケイリン』（FⅠ）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2026/03/08/info_r7_12f11_tkmt/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-08T15:46:05+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12168-20260308",
+            "title": "平山信一の「今日のひとりごと。」vol.141",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/12168/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2026-03-08T09:58:03+09:00"
+        }
+    ]
+}

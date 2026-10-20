@@ -1,0 +1,28 @@
+{
+    "date": "2026-02-25",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12105-20260225",
+            "title": "群馬支部ブログ「心にググッと群馬支部」河内桜雪選手-vol.24",
+            "url": "https://www.maebashi-keirin.jp/racer/sayuki_kawauchi-racer/12105/",
+            "categories": [
+                "ブログ",
+                "河内桜雪選手"
+            ],
+            "publishedAt": "2026-02-25T15:48:38+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "33265-20260225",
+            "title": "四日市競輪　キャッシュレスサービス　フォーリンクラブについてのお知らせ②",
+            "url": "https://yokkaichikeirin.com/33265/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-02-25T15:17:20+09:00"
+        }
+    ]
+}

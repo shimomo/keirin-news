@@ -1,0 +1,39 @@
+{
+    "date": "2025-08-03",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10925-20250803",
+            "title": "平山信一の「今日のひとりごと。」vol.123",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/10925/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-08-03T18:56:43+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "35802-20250803",
+            "title": "８月９日（おトクにＰＬＡＹオッズパーク杯・Ｆ２ミッドナイト）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%98%e6%9c%88%ef%bc%99%e6%97%a5%ef%bc%88%e3%81%8a%e3%83%88%e3%82%af%e3%81%ab%ef%bd%90%ef%bd%8c%ef%bd%81%ef%bd%99%e3%82%aa%e3%83%83%e3%82%ba%e3%83%91%e3%83%bc%e3%82%af%e6%9d%af%e3%83%bb%ef%bd%86/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-08-03T12:11:26+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "20151-20250803",
+            "title": "松戸記念イベント情報(2)　大人から子供まで楽しめるイベント盛りだくさん！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%e6%9d%be%e6%88%b8%e8%a8%98%e5%bf%b5%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%83%85%e5%a0%b12%e3%80%80%e5%a4%a7%e4%ba%ba%e3%81%8b%e3%82%89%e5%ad%90%e4%be%9b%e3%81%be%e3%81%a7%e6%a5%bd%e3%81%97",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-08-03T10:28:18+09:00"
+        }
+    ]
+}

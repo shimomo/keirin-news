@@ -1,0 +1,28 @@
+{
+    "date": "2025-05-12",
+    "articles": [
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "3855-20250512",
+            "title": "5月20日（火）～22日（木）松阪FIIミッドナイト「ウィンチケットミッドナイト競輪」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/20250520-22f2mid/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-05-12T12:53:57+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10578-20250512",
+            "title": "群馬支部ブログ「心にググッと群馬支部」千葉捺美選手-vol.2",
+            "url": "https://www.maebashi-keirin.jp/racer/natsumi_chiba_racer/10578/",
+            "categories": [
+                "ブログ",
+                "千葉捺美選手"
+            ],
+            "publishedAt": "2025-05-12T08:00:47+09:00"
+        }
+    ]
+}

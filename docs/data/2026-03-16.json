@@ -1,0 +1,28 @@
+{
+    "date": "2026-03-16",
+    "articles": [
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18011-20260316",
+            "title": "大塚城選手のA級2班特別昇班について",
+            "url": "https://keirincyclist-fc.jp/info/post-18011/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-03-16T12:20:44+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12145-20260316",
+            "title": "日本競輪選手養成所129回候補生ブログ Vol.12（田沼龍弥さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-4/ryuya_tanuma/12145/",
+            "categories": [
+                "ブログ",
+                "田沼龍弥さん"
+            ],
+            "publishedAt": "2026-03-16T08:00:33+09:00"
+        }
+    ]
+}

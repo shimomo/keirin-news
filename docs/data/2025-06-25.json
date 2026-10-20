@@ -1,0 +1,38 @@
+{
+    "date": "2025-06-25",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10775-20250625",
+            "title": "『第68回オールスター競輪及び第１回女子オールスター競輪』ファン投票最終結果発表のお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-10775/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-06-25T17:46:12+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "56833-20250625",
+            "title": "週間ポンスターvol.469 75 周年記念出場選手インタビュー！小川 丈太選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/vol-469/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-06-25T15:32:24+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "56830-20250625",
+            "title": "週間ポンスターvol.468 75 周年記念出場選手インタビュー！犬伏 湧也選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/vol-468/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-06-25T15:22:37+09:00"
+        }
+    ]
+}

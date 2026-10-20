@@ -1,0 +1,38 @@
+{
+    "date": "2025-08-04",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "142246-20250804",
+            "title": "３日制が良いです",
+            "url": "https://www.kochi-keirin.jp/column/142246",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-08-04T18:30:23+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10946-20250804",
+            "title": "【オールスター競輪】3連単クライマーズ「真夏の頂点を決めようぜ」キャンペーン！(※外部リンク)",
+            "url": "https://ctc.gr.jp/campaign/detail.php?id=13110",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-08-04T15:08:08+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18351-20250804",
+            "title": "8/4　10R Ｌ級ガールズ決勝 出場選手の特別紹介",
+            "url": "https://www.shonanbank.com/event/8-4%e3%80%8010r-%ef%bd%8c%e7%b4%9a%e3%82%ac%e3%83%bc%e3%83%ab%e3%82%ba%e6%b1%ba%e5%8b%9d-%e5%87%ba%e5%a0%b4%e9%81%b8%e6%89%8b%e3%81%ae%e7%89%b9%e5%88%a5%e7%b4%b9%e4%bb%8b/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-08-04T13:33:56+09:00"
+        }
+    ]
+}

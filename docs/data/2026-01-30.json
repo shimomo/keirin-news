@@ -1,0 +1,27 @@
+{
+    "date": "2026-01-30",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9743-20260130",
+            "title": "【青森競輪】無料送迎バスについてのお知らせ",
+            "url": "https://aomorikeirin.com/news/info/sougeibusnoosirase/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-30T12:30:04+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19862-20260130",
+            "title": "2/9～2/11　平塚競輪未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260209/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-30T11:51:35+09:00"
+        }
+    ]
+}

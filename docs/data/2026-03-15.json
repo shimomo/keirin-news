@@ -1,0 +1,27 @@
+{
+    "date": "2026-03-15",
+    "articles": [
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4827-20260315",
+            "title": "3月22日（日）～24日（火）松阪FIIミッドナイト 「ごかつら池ふるさと村杯　オッズパーク杯」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/fiimid/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-03-15T17:30:35+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4621-20260315",
+            "title": "3月29日(日) 「バンクライドフェスタ in 松阪けいりん 2026」開催！",
+            "url": "https://matsusaka-keirin.jp/new-post/bankridefesta_in_matsusakakeirinn/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-03-15T16:00:34+09:00"
+        }
+    ]
+}

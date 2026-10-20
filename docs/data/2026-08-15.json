@@ -1,0 +1,63 @@
+{
+    "date": "2026-08-15",
+    "articles": [
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "10143-20260815",
+            "title": "〈9/19〉PIST6おやこ補助輪卒業教室 開催のお知らせ🚲",
+            "url": "https://chiba.pist6.com/news/10143.html",
+            "categories": [
+                "イベント",
+                "ピックアップ"
+            ],
+            "publishedAt": "2026-08-15T15:22:09+09:00"
+        },
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "10228-20260815",
+            "title": "〈9/19〉サイクルダンジョン レベルアップSTAGE 開催のお知らせ🚲",
+            "url": "https://chiba.pist6.com/news/10228.html",
+            "categories": [
+                "イベント",
+                "ピックアップ"
+            ],
+            "publishedAt": "2026-08-15T15:21:52+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "55591-20260815",
+            "title": "和8年度第4回後節玉野市営玉野競輪(FⅡナイター)  「おもちゃ王国杯＆マリンホテルカップ」￼",
+            "url": "https://www.tamano-keirin.jp/holding/%e5%92%8c8%e5%b9%b4%e5%ba%a6%e7%ac%ac4%e5%9b%9e%e5%be%8c%e7%af%80%e7%8e%89%e9%87%8e%e5%b8%82%e5%96%b6%e7%8e%89%e9%87%8e%e7%ab%b6%e8%bc%aaf%e2%85%b1%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc-%e3%80%8c/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2026-08-15T13:14:13+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5547-20260815",
+            "title": "【8月・9月】RIDE MASTER ACADEMY開催日のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/ridemaster8-9/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-08-15T11:59:33+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13390-20260815",
+            "title": "平山信一の「今日のひとりごと。」vol.151",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/13390/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2026-08-15T11:07:27+09:00"
+        }
+    ]
+}

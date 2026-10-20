@@ -1,0 +1,51 @@
+{
+    "date": "2025-12-21",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9680-20251221",
+            "title": "【青森競輪】お正月特別未確定車券抽選会（ミカチュウ）",
+            "url": "https://aomorikeirin.com/event/end/2026-1-04mikatyuu/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-12-21T16:44:44+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19432-20251221",
+            "title": "「平塚競輪 presents 横浜ビー・コルセアーズ vs 大阪エヴェッサ」 を開催！",
+            "url": "https://www.shonanbank.com/news/20251221/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-12-21T15:08:42+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "58755-20251221",
+            "title": "おトクにPLAY！オッズパーク杯（FⅡミッドナイト）プレゼントキャンペーン！",
+            "url": "https://www.komatsushimakeirin.com/2025/12/21/campaign_r7_7_2_f2mn/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-12-21T08:17:19+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "58748-20251221",
+            "title": "おトクにPLAY！オッズパーク杯（FⅡミッドナイト）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2025/12/21/info_r7_7_2_f2mn/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-12-21T08:17:09+09:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "date": "2025-08-23",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11022-20250823",
+            "title": "8月31日（日）西武園競輪ご当地ミカチュウのお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-11022/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-08-23T17:15:04+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9000-20250823",
+            "title": "【スクリーンショット】８月２４日～８月２６日　WINTICKETミッドナイト競輪　キャンペーン",
+            "url": "https://aomorikeirin.com/event/end/2025-08-24sukuri-n/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-08-23T15:00:56+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "36461-20250823",
+            "title": "令和7年度 第5回前節 玉野市営玉野競輪（FⅡナイター）おもちゃ王国杯＆マリンホテルカップ￼",
+            "url": "https://www.tamano-keirin.jp/holding/20250826/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-08-23T03:36:07+09:00"
+        }
+    ]
+}

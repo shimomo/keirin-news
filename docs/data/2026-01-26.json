@@ -1,0 +1,37 @@
+{
+    "date": "2026-01-26",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19834-20260126",
+            "title": "２月場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260201/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-26T14:22:09+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/event/2026/01/east-j-974f.html",
+            "title": "たちかわ競輪と日本競輪選手会東京支部選手が『East-J スパー＆マスボクシング大会』にて競輪ブースを出店します！",
+            "url": "https://blog.tachikawakeirin.jp/event/2026/01/east-j-974f.html",
+            "categories": [],
+            "publishedAt": "2026-01-26T13:54:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11877-20260126",
+            "title": "日本競輪選手養成所129回候補生ブログ Vol.10（田沼龍弥さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-4/ryuya_tanuma/11877/",
+            "categories": [
+                "ブログ",
+                "田沼龍弥さん"
+            ],
+            "publishedAt": "2026-01-26T08:00:14+09:00"
+        }
+    ]
+}

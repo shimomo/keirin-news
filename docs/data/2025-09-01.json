@@ -1,0 +1,26 @@
+{
+    "date": "2025-09-01",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11058-20250901",
+            "title": "平山信一の「今日のひとりごと。」vol.127",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/11058/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-09-01T14:18:42+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/announcer/2025/09/9-bd39.html",
+            "title": "「9月」函館けいりん開運スポット巡り",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/announcer/2025/09/9-bd39.html",
+            "categories": [],
+            "publishedAt": "2025-09-01T09:12:28+09:00"
+        }
+    ]
+}

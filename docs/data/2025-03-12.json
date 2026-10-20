@@ -1,0 +1,37 @@
+{
+    "date": "2025-03-12",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "20115-20250312",
+            "title": "新たな演出照明とオリジナルソングのお披露目について",
+            "url": "https://yokkaichikeirin.com/20115/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-03-12T12:01:49+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10092-20250312",
+            "title": "日本競輪選手養成所127回・128回群馬候補生スペシャルインタビュー",
+            "url": "https://www.maebashi-keirin.jp/ob/isami_aoki/10092/",
+            "categories": [
+                "ブログ",
+                "青木勇さん"
+            ],
+            "publishedAt": "2025-03-12T11:00:03+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "673-20250312",
+            "title": "四日市競輪ＧⅢ",
+            "url": "http://graderace.com/prospect/%e5%9b%9b%e6%97%a5%e5%b8%82%e7%ab%b6%e8%bc%aa%ef%bd%87%ef%bc%93/",
+            "categories": [],
+            "publishedAt": "2025-03-12T10:53:59+09:00"
+        }
+    ]
+}

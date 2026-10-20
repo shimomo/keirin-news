@@ -1,0 +1,27 @@
+{
+    "date": "2024-06-29",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "96748-20240629",
+            "title": "権利を獲得しました",
+            "url": "https://www.kochi-keirin.jp/column/96748",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2024-06-29T09:21:45+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "53887-20240629",
+            "title": "週間ポンスターvol.433 74周年記念出場選手インタビュー！島川将貴選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/vol-432/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2024-06-29T08:55:45+09:00"
+        }
+    ]
+}

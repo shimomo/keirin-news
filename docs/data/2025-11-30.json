@@ -1,0 +1,27 @@
+{
+    "date": "2025-11-30",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "30828-20251130",
+            "title": "新外向投票所新設に伴う営業場所のお知らせ",
+            "url": "https://yokkaichikeirin.com/30828/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-30T10:40:09+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "112188-20251130",
+            "title": "無料シャトルバス運休日について",
+            "url": "https://www.kochi-keirin.jp/news/112188",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2025-11-30T09:00:00+09:00"
+        }
+    ]
+}

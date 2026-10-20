@@ -1,0 +1,29 @@
+{
+    "date": "2026-04-18",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59922-20260418",
+            "title": "こんにちはチャリロト杯（FⅡ）プレゼントキャンペーン！",
+            "url": "https://www.komatsushimakeirin.com/2026/04/18/campaign_r8_2f21/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-04-18T11:46:32+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59916-20260418",
+            "title": "こんにちはチャリロト杯（FⅡ）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2026/04/18/info_r8_2f21/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-04-18T11:46:19+09:00"
+        }
+    ]
+}

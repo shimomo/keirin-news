@@ -1,0 +1,28 @@
+{
+    "date": "2025-04-21",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "8012-20250421",
+            "title": "【青森競輪】こども広場エリア　開放日時のお知らせ　4月23日～",
+            "url": "https://aomorikeirin.com/news/info/20250423yuugukaihou/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-04-21T17:51:23+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10472-20250421",
+            "title": "群馬支部ブログ「心にググッと群馬支部」青木亮太選手-vol.3",
+            "url": "https://www.maebashi-keirin.jp/racer/ryota_aoki/10472/",
+            "categories": [
+                "ブログ",
+                "青木亮太選手"
+            ],
+            "publishedAt": "2025-04-21T08:00:44+09:00"
+        }
+    ]
+}

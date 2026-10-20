@@ -1,0 +1,39 @@
+{
+    "date": "2025-05-07",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "130930-20250507",
+            "title": "関東勢も不気味",
+            "url": "https://www.kochi-keirin.jp/column/130930",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-05-07T13:53:14+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "31620-20250507",
+            "title": "広島市営in玉野競輪（FⅠ）第47回芸州鯉城賞／CTC杯",
+            "url": "https://www.tamano-keirin.jp/holding/20250512/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-05-07T12:59:27+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "56459-20250507",
+            "title": "週間ポンスターvol.466　新人選手インタビュー！川西康彦選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/sinzininterview127/",
+            "categories": [
+                "週間ポンスター",
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-05-07T10:49:25+09:00"
+        }
+    ]
+}

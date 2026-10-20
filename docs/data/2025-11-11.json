@@ -1,0 +1,27 @@
+{
+    "date": "2025-11-11",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "30282-20251111",
+            "title": "11月19日（水）～24日（月）のファンバス運行時間一部変更について",
+            "url": "https://yokkaichikeirin.com/30282/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-11T18:38:19+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11665-20251111",
+            "title": "第52回・関東地区プロ自転車競技大会開催について",
+            "url": "https://www.maebashi-keirin.jp/news/news-11665/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-11-11T11:25:02+09:00"
+        }
+    ]
+}

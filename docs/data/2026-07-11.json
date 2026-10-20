@@ -1,0 +1,49 @@
+{
+    "date": "2026-07-11",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "51786-20260711",
+            "title": "７月14日「CTC杯＆スピチャン杯(Ｆ１・高松市主催)」",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%97%e6%9c%8814%e6%97%a5%e3%80%8cctc%e6%9d%af%ef%bc%86%e3%82%b9%e3%83%94%e3%83%81%e3%83%a3%e3%83%b3%e6%9d%af%ef%bd%86%ef%bc%91%e3%83%bb%e9%ab%98%e6%9d%be%e5%b8%82%e4%b8%bb%e5%82%ac%e3%80%8d/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2026-07-11T22:31:38+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "10878-20260711",
+            "title": "【青森競輪】特別観覧席開放日について",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e3%80%91%e7%89%b9%e5%88%a5%e8%a6%b3%e8%a6%a7%e5%b8%ad%e9%96%8b%e6%94%be%e6%97%a5%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-2/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-07-11T16:33:17+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/07/fi-4b0e.html",
+            "title": "視聴者プレゼントのお知らせ　７月１３日（月）～１５日（水）第２８回サンケイスポーツ杯（FI）",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/07/fi-4b0e.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-07-11T16:25:52+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/07/fi-6500.html",
+            "title": "開催中キャンペーン・イベントのご案内　７月１３日（月）～１５日（水）第２８回サンケイスポーツ杯（FI）",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/07/fi-6500.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-07-11T16:09:34+09:00"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "date": "2025-10-24",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "29418-20251024",
+            "title": "11月イベントスケジュール(10/24更新)",
+            "url": "https://yokkaichikeirin.com/29418/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-10-24T19:10:13+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "39367-20251024",
+            "title": "10月26日（サンケイスポーツ杯争奪戦・Ｆ１ナイター・松山市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/10%e6%9c%8826%e6%97%a5%ef%bc%88%e3%82%b5%e3%83%b3%e3%82%b1%e3%82%a4%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e6%9d%af%e4%ba%89%e5%a5%aa%e6%88%a6%e3%83%bb%ef%bd%86%ef%bc%91%e3%83%8a%e3%82%a4%e3%82%bf/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-10-24T19:08:16+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "39353-20251024",
+            "title": "未確定車券抽選会を実施いたします",
+            "url": "https://www.tamano-keirin.jp/2025/10/24/%e6%9c%aa%e7%a2%ba%e5%ae%9a%e8%bb%8a%e5%88%b8%e6%8a%bd%e9%81%b8%e4%bc%9a%e3%82%92%e5%ae%9f%e6%96%bd%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2025-10-24T17:30:20+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18942-20251024",
+            "title": "湘南バンクレポート『競輪アプリウィンチケット杯［FⅡ］』前検日取材を更新しました。",
+            "url": "https://www.shonanbank.com/news/%e6%b9%98%e5%8d%97%e3%83%90%e3%83%b3%e3%82%af%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%80%8e%e6%a5%bd%e5%a4%a9%ef%bd%8b%e3%83%89%e3%83%aa%e3%83%bc%e3%83%a0%e3%82%b9%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-24T12:25:54+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19020-20251024",
+            "title": "『競輪アプリウィンチケット杯［FⅡ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e7%ab%b6%e8%bc%aa%e3%82%a2%e3%83%97%e3%83%aa%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e5%89%8d%e6%a4%9c%e6%97%a5-12/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-10-24T12:20:40+09:00"
+        }
+    ]
+}

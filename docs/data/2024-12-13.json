@@ -1,0 +1,38 @@
+{
+    "date": "2024-12-13",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "110514-20241213",
+            "title": "安定感抜群",
+            "url": "https://www.kochi-keirin.jp/column/110514",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2024-12-13T13:26:59+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "17667-20241213",
+            "title": "静岡GP場外の開門時刻について",
+            "url": "https://www.matsudokeirin.jp/news-cat/%e9%9d%99%e5%b2%a1gp%e5%a0%b4%e5%a4%96%e3%81%ae%e9%96%8b%e9%96%80%e6%99%82%e5%88%bb%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-12-13T13:25:57+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "26515-20241213",
+            "title": "ミッドナイトフィナーレ開催特別リポストキャンペーン",
+            "url": "https://www.tamano-keirin.jp/2024/12/13/%e3%83%9f%e3%83%83%e3%83%89%e3%83%8a%e3%82%a4%e3%83%88%e3%83%95%e3%82%a3%e3%83%8a%e3%83%bc%e3%83%ac%e9%96%8b%e5%82%ac%e7%89%b9%e5%88%a5%e3%83%aa%e3%83%9d%e3%82%b9%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2024-12-13T11:52:43+09:00"
+        }
+    ]
+}

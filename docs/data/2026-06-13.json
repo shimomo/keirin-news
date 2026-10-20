@@ -1,0 +1,28 @@
+{
+    "date": "2026-06-13",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12813-20260613",
+            "title": "6月20日(土)けいりん予想会のお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-12813/",
+            "categories": [
+                "競輪",
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-06-13T21:34:32+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "106760-20260613",
+            "title": "6月14日（日）の場外発売について",
+            "url": "https://www.kochi-keirin.jp/news/106760",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-06-13T09:00:39+09:00"
+        }
+    ]
+}

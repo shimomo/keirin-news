@@ -1,0 +1,27 @@
+{
+    "date": "2026-05-14",
+    "articles": [
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "17920-20260514",
+            "title": "ギャンブル等依存症問題啓発週間における取り組みについて",
+            "url": "https://hiroshima-keirin.com/2026/05/14/%e3%82%ae%e3%83%a3%e3%83%b3%e3%83%96%e3%83%ab%e7%ad%89%e4%be%9d%e5%ad%98%e7%97%87%e5%95%8f%e9%a1%8c%e5%95%93%e7%99%ba%e9%80%b1%e9%96%93%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%8f%96%e3%82%8a%e7%b5%84/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-05-14T09:21:00+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "13045-20260514",
+            "title": "ギャンブル等依存症問題における取組みについて",
+            "url": "https://kyoto-mukomachikeirin.com/13045/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-05-14T08:00:22+09:00"
+        }
+    ]
+}

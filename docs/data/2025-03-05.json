@@ -1,0 +1,25 @@
+{
+    "date": "2025-03-05",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "20045-20250305",
+            "title": "【四日市競輪ベイサイドナイトドリーム】車券購入キャンペーンのお知らせ",
+            "url": "https://yokkaichikeirin.com/20045/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-03-05T18:42:04+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "665-20250305",
+            "title": "玉野競輪ＧⅢ",
+            "url": "http://graderace.com/prospect/%e7%8e%89%e9%87%8e%e7%ab%b6%e8%bc%aa%ef%bd%87%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-03-05T10:52:45+09:00"
+        }
+    ]
+}

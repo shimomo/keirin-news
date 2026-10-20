@@ -1,0 +1,48 @@
+{
+    "date": "2025-10-15",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9423-20251015",
+            "title": "【前橋競輪】寬仁親王牌GⅠ　未確定車券抽選会（ミカチュウ）",
+            "url": "https://aomorikeirin.com/event/end/2025-10-23maebasi/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-10-15T20:08:29+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11503-20251015",
+            "title": "平山信一の「今日のひとりごと。」vol.130",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/11503/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-10-15T16:28:53+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "839-20251015",
+            "title": "別府競輪ＧⅢ",
+            "url": "http://graderace.com/prospect/%e5%88%a5%e5%ba%9c%e7%ab%b6%e8%bc%aa%ef%bd%87%e2%85%b2-3/",
+            "categories": [],
+            "publishedAt": "2025-10-15T11:30:25+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18957-20251015",
+            "title": "10/15 11R Ｌ級ガールズ決勝 出場選手特別紹介(12：23～)",
+            "url": "https://www.shonanbank.com/event/10-15-11r-%ef%bd%8c%e7%b4%9a%e3%82%ac%e3%83%bc%e3%83%ab%e3%82%ba%e6%b1%ba%e5%8b%9d-%e5%87%ba%e5%a0%b4%e9%81%b8%e6%89%8b%e7%89%b9%e5%88%a5%e7%b4%b9%e4%bb%8b12%ef%bc%9a23%ef%bd%9e/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-10-15T09:05:38+09:00"
+        }
+    ]
+}

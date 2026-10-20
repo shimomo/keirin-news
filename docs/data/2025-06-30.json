@@ -1,0 +1,38 @@
+{
+    "date": "2025-06-30",
+    "articles": [
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "3926-20250630",
+            "title": "7月6日（日）～8日（火）松阪FI「第五回大正カラーカップ 四五百賞 スポーツ報知賞」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/20250706-08f1/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-06-30T13:43:29+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "56842-20250630",
+            "title": "週間ポンスターvol.471 75 周年記念出場選手インタビュー！太田 竜馬選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/vol-471/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-06-30T13:01:18+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "56839-20250630",
+            "title": "週間ポンスターvol.470 75 周年記念出場選手インタビュー！川口 雄太選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/vol-470/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-06-30T13:00:23+09:00"
+        }
+    ]
+}

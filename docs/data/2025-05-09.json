@@ -1,0 +1,48 @@
+{
+    "date": "2025-05-09",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "17841-20250509",
+            "title": "『平塚競輪開設75周年記念 湘南ダービー［GⅢ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e5%b9%b3%e5%a1%9a%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad75%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5-%e6%b9%98%e5%8d%97%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc%ef%bc%bbg%e2%85%b2%ef%bc%bd%e3%80%8f/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-05-09T22:16:38+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "22320-20250509",
+            "title": "５月２４日（土）・２５日（日）「肉祭in四日市けいりん」開催のお知らせ！",
+            "url": "https://yokkaichikeirin.com/22320/",
+            "categories": [
+                "イベント",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-05-09T16:05:43+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "31632-20250509",
+            "title": "５月１２日（芸州鯉城賞＆ＣＴＣ杯・Ｆ１・広島市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%95%e6%9c%88%ef%bc%91%ef%bc%92%e6%97%a5%ef%bc%88%e8%8a%b8%e5%b7%9e%e9%af%89%e5%9f%8e%e8%b3%9e%ef%bc%86%ef%bd%83%ef%bd%94%ef%bd%83%e6%9d%af%e3%83%bb%ef%bd%86%ef%bc%91%e3%83%bb%e5%ba%83%e5%b3%b6/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-05-09T15:04:07+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "702-20250509",
+            "title": "平塚競輪開設７５周年記念Ｇ３",
+            "url": "http://graderace.com/prospect/%e5%b9%b3%e5%a1%9a%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad%ef%bc%97%ef%bc%95%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%ef%bd%87%ef%bc%93/",
+            "categories": [],
+            "publishedAt": "2025-05-09T10:13:30+09:00"
+        }
+    ]
+}

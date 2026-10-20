@@ -1,0 +1,49 @@
+{
+    "date": "2026-08-02",
+    "articles": [
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "105114-20260802",
+            "title": "★☆7月31日～8月2日　佐世保 ＦⅠデイ 優勝者☆★",
+            "url": "https://www.sasebokeirin.jp/105114",
+            "categories": [
+                "TOPICS"
+            ],
+            "publishedAt": "2026-08-02T17:13:21+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "555",
+            "title": "石原 颯選手（117期）完全優勝おめでとうございます！",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-555.html",
+            "categories": [
+                "イベント・キャンペーン"
+            ],
+            "publishedAt": "2026-08-02T09:30:11+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/08/811816-69-g-419b.html",
+            "title": "≪終了しました≫8月11日～8月16日「 第69回オールスター競輪 GⅠ」松山競輪　場外イベントのお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/08/811816-69-g-419b.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-08-02T09:00:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "18588-20260802",
+            "title": "8月の非開催日のお知らせ",
+            "url": "https://hiroshima-keirin.com/2026/08/02/close2608/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-08-02T08:57:57+09:00"
+        }
+    ]
+}

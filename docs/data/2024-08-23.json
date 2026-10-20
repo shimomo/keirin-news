@@ -1,0 +1,25 @@
+{
+    "date": "2024-08-23",
+    "articles": [
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "514-20240823",
+            "title": "小田原競輪開設75周年記念GⅢ",
+            "url": "http://graderace.com/prospect/%e5%b0%8f%e7%94%b0%e5%8e%9f%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad75%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5g%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2024-08-23T14:43:21+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "6467-20240823",
+            "title": "【VOL.６】燃えよ!縄文バンク",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90vol-%ef%bc%96%e3%80%91%e7%87%83%e3%81%88%e3%82%88%e7%b8%84%e6%96%87%e3%83%90%e3%83%b3%e3%82%af-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-08-23T11:12:20+09:00"
+        }
+    ]
+}

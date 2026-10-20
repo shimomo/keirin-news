@@ -1,0 +1,39 @@
+{
+    "date": "2025-08-12",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10960-20250812",
+            "title": "平山信一の「今日のひとりごと。」vol.124",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/10960/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-08-12T14:05:01+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "8383-20250812",
+            "title": "【先着プレゼントのお知らせ】",
+            "url": "https://aomorikeirin.com/news/info/6-13-guest/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-08-12T10:00:19+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "36154-20250812",
+            "title": "松山市営in玉野競輪（FlN）日刊スポーツ杯＆ニッカン・コム杯争奪戦",
+            "url": "https://www.tamano-keirin.jp/holding/20250818/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-08-12T00:00:00+09:00"
+        }
+    ]
+}

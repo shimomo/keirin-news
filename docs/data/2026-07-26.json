@@ -1,0 +1,40 @@
+{
+    "date": "2026-07-26",
+    "articles": [
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "104449-20260726",
+            "title": "0802わんぱく！こども夏まつり開催",
+            "url": "https://www.sasebokeirin.jp/104449",
+            "categories": [
+                "EVENT",
+                "INFO"
+            ],
+            "publishedAt": "2026-07-26T18:45:10+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "247646-20260726",
+            "title": "競輪とオートレースの補助事業イベント開催／8月1日（土）・2日（日）愛媛 、8月15日（土）群馬",
+            "url": "https://morecadence.jp/keirin/247646",
+            "categories": [
+                "競輪",
+                "JKA補助事業"
+            ],
+            "publishedAt": "2026-07-26T12:47:58+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "53911-20260726",
+            "title": "7月27日（前検日インタビューならウィンチケット杯・Ｆ１ナイター）",
+            "url": "https://www.tamano-keirin.jp/preexamination/7%e6%9c%8827%e6%97%a5%ef%bc%88%e5%89%8d%e6%a4%9c%e6%97%a5%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc%e3%81%aa%e3%82%89%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%81%e3%82%b1%e3%83%83%e3%83%88/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2026-07-26T10:57:55+09:00"
+        }
+    ]
+}

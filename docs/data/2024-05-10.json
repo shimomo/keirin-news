@@ -1,0 +1,36 @@
+{
+    "date": "2024-05-10",
+    "articles": [
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "435-20240510",
+            "title": "たけお競輪ＧⅢ",
+            "url": "http://graderace.com/prospect/%e3%81%9f%e3%81%91%e3%81%8a%e7%ab%b6%e8%bc%aa%ef%bd%87%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2024-05-10T10:00:00+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "14599-20240510",
+            "title": "『スピードチャンネル・スカパー杯［FⅡ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e3%82%b9%e3%83%94%e3%83%bc%e3%83%89%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab%e3%83%bb%e3%82%b9%e3%82%ab%e3%83%91%e3%83%bc%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e5%89%8d%e6%a4%9c/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2024-05-10T08:56:06+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "18962-20240510",
+            "title": "５月１３日ディリースポーツ杯＆本田晴美杯（Ｆ１ナイター・ガールズ競輪）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%95%e6%9c%88%ef%bc%91%ef%bc%93%e6%97%a5%e3%83%87%e3%82%a3%e3%83%aa%e3%83%bc%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e6%9d%af%ef%bc%86%e6%9c%ac%e7%94%b0%e6%99%b4%e7%be%8e%e6%9d%af%ef%bc%88%ef%bd%86/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2024-05-10T03:44:39+09:00"
+        }
+    ]
+}

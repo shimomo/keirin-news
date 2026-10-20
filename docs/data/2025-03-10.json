@@ -1,0 +1,38 @@
+{
+    "date": "2025-03-10",
+    "articles": [
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "18181-20250310",
+            "title": "松戸けいりん サイクルフェスタ2025開催！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%e6%9d%be%e6%88%b8%e3%81%91%e3%81%84%e3%82%8a%e3%82%93-%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%83%95%e3%82%a7%e3%82%b9%e3%82%bf2025%e9%96%8b%e5%82%ac%ef%bc%81",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-03-10T16:30:04+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "17505-20250310",
+            "title": "『競輪アプリウィンチケット杯［FⅡ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e7%ab%b6%e8%bc%aa%e3%82%a2%e3%83%97%e3%83%aa%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e5%89%8d%e6%a4%9c%e6%97%a5-8/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-03-10T10:49:39+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "29431-20250310",
+            "title": "広島市営in玉野競輪（FⅡ）シン・TIPSTAR杯",
+            "url": "https://www.tamano-keirin.jp/holding/20250314/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-03-10T00:00:00+09:00"
+        }
+    ]
+}

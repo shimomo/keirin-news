@@ -1,0 +1,60 @@
+{
+    "date": "2025-11-13",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "40414-20251113",
+            "title": "松山市営in玉野競輪（FⅡミッドナイト）チャリロト杯￼",
+            "url": "https://www.tamano-keirin.jp/holding/20251118/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-11-13T17:46:52+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11673-20251113",
+            "title": "『100万円逆転クエスト ～前橋寬仁親王牌への道～』【グランドフィナーレ】前橋親王牌編公開のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-11673/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-11-13T12:17:53+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "29364-20251113",
+            "title": "【１１月２８日】第53回 中部地区プロ自転車競技大会開催のお知らせ（11/28）",
+            "url": "https://yokkaichikeirin.com/29364/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-13T12:05:26+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "29398-20251113",
+            "title": "【１１月２８日】地区プロ大会出場選手一覧表（11/28更新）",
+            "url": "https://yokkaichikeirin.com/29398/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-13T12:00:30+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "29395-20251113",
+            "title": "【１１月２８日】地区プロ大会プログラム（11/13）",
+            "url": "https://yokkaichikeirin.com/29395/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-11-13T12:00:11+09:00"
+        }
+    ]
+}

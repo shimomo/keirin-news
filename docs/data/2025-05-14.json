@@ -1,0 +1,25 @@
+{
+    "date": "2025-05-14",
+    "articles": [
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "705-20250514",
+            "title": "宇都宮競輪GⅢ",
+            "url": "http://graderace.com/prospect/%e5%ae%87%e9%83%bd%e5%ae%ae%e7%ab%b6%e8%bc%aag%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-05-14T13:43:06+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "17911-20250514",
+            "title": "『平塚競輪開設75周年記念 湘南ダービー［GⅢ］』を終えて",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e5%b9%b3%e5%a1%9a%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad75%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5-%e6%b9%98%e5%8d%97%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc%ef%bc%bbg%e2%85%b2%ef%bc%bd%e3%80%8f-2/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-05-14T09:42:11+09:00"
+        }
+    ]
+}

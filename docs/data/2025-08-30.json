@@ -1,0 +1,27 @@
+{
+    "date": "2025-08-30",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "36828-20250830",
+            "title": "松山市営in玉野競輪（MNK）WINTICKET杯￼",
+            "url": "https://www.tamano-keirin.jp/holding/20250902/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-08-30T20:45:29+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "144550-20250830",
+            "title": "8月30日(土)・31日(日)場外発売について",
+            "url": "https://www.kochi-keirin.jp/news/144550",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2025-08-30T09:17:13+09:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "date": "2024-09-01",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "6576-20240901",
+            "title": "【2024　みちのく記念競輪】開催リーフレット",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e3%80%80%e7%84%a1%e6%96%99%e9%80%81%e8%bf%8e%e3%83%90%e3%82%b9%e3%80%91%e6%9d%b1%e5%8c%97%e7%b5%86%e3%81%be%e3%81%a4%e3%82%8a%e9%96%8b%e5%82%ac%e3%81%ab-2/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-09-01T14:55:41+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "23213-20240901",
+            "title": "９月３日オッズパーク杯（Ａ級１、２班戦・７Ｒ制・ミッドナイト）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%99%e6%9c%88%ef%bc%93%e6%97%a5%e3%82%aa%e3%83%83%e3%82%ba%e3%83%91%e3%83%bc%e3%82%af%e6%9d%af%ef%bc%88%ef%bd%81%e7%b4%9a%ef%bc%91%e3%80%81%ef%bc%92%e7%8f%ad%e6%88%a6%e3%83%bb%ef%bc%97%ef%bd%92/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2024-09-01T11:26:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "104974-20240901",
+            "title": "強い事は良いけど",
+            "url": "https://www.kochi-keirin.jp/column/104974",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2024-09-01T11:23:50+09:00"
+        }
+    ]
+}

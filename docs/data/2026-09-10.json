@@ -1,0 +1,76 @@
+{
+    "date": "2026-09-10",
+    "articles": [
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5478-20260910",
+            "title": "デジタルスタンプラリー「ぐるっと特産くじ」開催　【2026.8.18～2026.9.21/2027.2.19～2027.3.22】",
+            "url": "https://matsusaka-keirin.jp/new-post/guruttotokusankuji2026/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-09-10T11:01:48+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18549-20260910",
+            "title": "中村嶺央選手のA級2班特別昇班について",
+            "url": "https://keirincyclist-fc.jp/info/post-18549/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-09-10T11:00:33+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18546-20260910",
+            "title": "小笠原匠海選手のA級2班特別昇班について",
+            "url": "https://keirincyclist-fc.jp/info/post-18546/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-09-10T11:00:00+09:00"
+        },
+        {
+            "source": "iwakidaira",
+            "sourceName": "いわき平競輪",
+            "id": "9165-20260910",
+            "title": "KEIRINグランプリ2026 特設サイトを更新しました！",
+            "url": "https://tairakeirin.com/keirin%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa2026-%e7%89%b9%e8%a8%ad%e3%82%b5%e3%82%a4%e3%83%88%e3%82%92%e6%9b%b4%e6%96%b0%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-10T10:09:17+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "787526-20260910",
+            "title": "名古屋競輪　場外発売中止",
+            "url": "https://keirinsponichi.jp/keirin_news/%e5%90%8d%e5%8f%a4%e5%b1%8b%e7%ab%b6%e8%bc%aa%e3%80%80%e5%a0%b4%e5%a4%96%e7%99%ba%e5%a3%b2%e4%b8%ad%e6%ad%a2/",
+            "categories": [],
+            "publishedAt": "2026-09-10T00:07:30+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "787523-20260910",
+            "title": "【記者コラム】デビュー10年目　平尾　初のビッグ出場へ勝ち星重ねる",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e8%a8%98%e8%80%85%e3%82%b3%e3%83%a9%e3%83%a0%e3%80%91%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc10%e5%b9%b4%e7%9b%ae%e3%80%80%e5%b9%b3%e5%b0%be%e3%80%80%e5%88%9d%e3%81%ae%e3%83%93%e3%83%83%e3%82%b0/",
+            "categories": [],
+            "publishedAt": "2026-09-10T00:05:11+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "787516-20260910",
+            "title": "【奈良ＧⅢ初日】地元記念で京都勢",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%a5%88%e8%89%af%ef%bd%87%e2%85%a2%e5%88%9d%e6%97%a5%e3%80%91%e5%9c%b0%e5%85%83%e8%a8%98%e5%bf%b5%e3%81%a7%e4%ba%ac%e9%83%bd%e5%8b%a2/",
+            "categories": [],
+            "publishedAt": "2026-09-10T00:01:49+09:00"
+        }
+    ]
+}

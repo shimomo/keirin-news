@@ -1,0 +1,52 @@
+{
+    "date": "2025-10-29",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11596-20251029",
+            "title": "群馬支部ブログ「心にググッと群馬支部」河内桜雪選手-vol.22",
+            "url": "https://www.maebashi-keirin.jp/racer/sayuki_kawauchi-racer/11596/",
+            "categories": [
+                "ブログ",
+                "河内桜雪選手"
+            ],
+            "publishedAt": "2025-10-29T13:27:50+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "58131-20251029",
+            "title": "第2回秋は秋穫れのちりめんカップ（FⅠ）プレゼントキャンペーン！",
+            "url": "https://www.komatsushimakeirin.com/2025/10/29/campaign_r7_7_1_f1/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-29T11:04:38+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "58123-20251029",
+            "title": "第2回秋は秋穫れのちりめんカップ（FⅠ）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2025/10/29/info_r7_7_1_f1/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-29T11:04:19+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "39701-20251029",
+            "title": "松山市営in玉野競輪（FⅡミッドナイト）WINTICKET杯￼",
+            "url": "https://www.tamano-keirin.jp/holding/20251102/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-10-29T00:00:00+09:00"
+        }
+    ]
+}

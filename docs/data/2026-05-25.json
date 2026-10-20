@@ -1,0 +1,60 @@
+{
+    "date": "2026-05-25",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12706-20260525",
+            "title": "前橋競輪GⅢ「まえばし七夕賞・CTC杯」/「ドームスーパーナイトレース・ウィンチケット杯」ポスタービジュアル公開！",
+            "url": "https://www.maebashi-keirin.jp/news/news-12706/",
+            "categories": [],
+            "publishedAt": "2026-05-25T19:22:54+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "33478-20260525",
+            "title": "四日市けいりん　インスタグラム はじめました！",
+            "url": "https://yokkaichikeirin.com/33478/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-05-25T16:26:37+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "163944-20260525",
+            "title": "優勝おめでとう",
+            "url": "https://www.kochi-keirin.jp/column/163944",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2026-05-25T13:11:03+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "60093-20260525",
+            "title": "6月7日　毎月第１日曜日はお客様感謝DAY！",
+            "url": "https://www.komatsushimakeirin.com/2026/05/25/6%e6%9c%887%e6%97%a5%e3%80%80%e6%af%8e%e6%9c%88%e7%ac%ac%ef%bc%91%e6%97%a5%e6%9b%9c%e6%97%a5%e3%81%af%e3%81%8a%e5%ae%a2%e6%a7%98%e6%84%9f%e8%ac%9dday%ef%bc%81/",
+            "categories": [
+                "EVENT",
+                "お知らせ",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-05-25T10:51:27+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "17933-20260525",
+            "title": "【6/28】ラジオ番組「チャリロト presents パンサー向井のチャリで30分!」公開収録を実施!",
+            "url": "https://hiroshima-keirin.com/2026/05/25/%e3%80%906-28%e3%80%91%e3%83%a9%e3%82%b8%e3%82%aa%e7%95%aa%e7%b5%84%e3%80%8c%e3%83%81%e3%83%a3%e3%83%aa%e3%83%ad%e3%83%88-presents-%e3%83%91%e3%83%b3%e3%82%b5%e3%83%bc%e5%90%91%e4%ba%95%e3%81%ae/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-05-25T09:55:00+09:00"
+        }
+    ]
+}

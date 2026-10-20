@@ -1,0 +1,28 @@
+{
+    "date": "2026-08-27",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "171326-20260827",
+            "title": "GⅠ初制覇",
+            "url": "https://www.kochi-keirin.jp/column/171326",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2026-08-27T11:50:41+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13463-20260827",
+            "title": "平山信一の「今日のひとりごと。」vol.152",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/13463/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2026-08-27T09:39:42+09:00"
+        }
+    ]
+}

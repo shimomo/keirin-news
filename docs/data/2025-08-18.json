@@ -1,0 +1,39 @@
+{
+    "date": "2025-08-18",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18503-20250818",
+            "title": "９月場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/202509/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-08-18T14:52:04+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18496-20250818",
+            "title": "『チャリロト杯［FⅡ］』を終えて",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e3%83%81%e3%83%a3%e3%83%aa%e3%83%ad%e3%83%88%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e3%82%92%e7%b5%82%e3%81%88%e3%81%a6-2/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-08-18T14:23:07+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10978-20250818",
+            "title": "群馬支部ブログ「心にググッと群馬支部」千葉捺美選手-vol.5",
+            "url": "https://www.maebashi-keirin.jp/racer/natsumi_chiba_racer/10978/",
+            "categories": [
+                "ブログ",
+                "千葉捺美選手"
+            ],
+            "publishedAt": "2025-08-18T08:00:34+09:00"
+        }
+    ]
+}

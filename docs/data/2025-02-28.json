@@ -1,0 +1,47 @@
+{
+    "date": "2025-02-28",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "121193-20250228",
+            "title": "すごい記録です",
+            "url": "https://www.kochi-keirin.jp/column/121193",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-02-28T21:18:36+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "29045-20250228",
+            "title": "大阪・関西万博協賛 玉野競輪開設74周年記念「瀬戸の王子杯争奪戦」",
+            "url": "https://www.tamano-keirin.jp/holding/20250306/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-02-28T19:00:00+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "3463-20250228",
+            "title": "3月9日（日）～11日（火）松阪FI「ミツイバウ記念杯 駅鈴賞 スポーツ報知賞」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/20250309-11matsusakaf1/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-02-28T15:57:16+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "663-20250228",
+            "title": "名古屋競輪GⅢ",
+            "url": "http://graderace.com/prospect/%e5%90%8d%e5%8f%a4%e5%b1%8b%e7%ab%b6%e8%bc%aag%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-02-28T09:48:37+09:00"
+        }
+    ]
+}

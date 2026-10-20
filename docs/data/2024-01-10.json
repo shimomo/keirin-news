@@ -1,0 +1,27 @@
+{
+    "date": "2024-01-10",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "13455-20240110",
+            "title": "お味噌汁の無料配布について",
+            "url": "https://www.tamano-keirin.jp/2024/01/10/20241010/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2024-01-10T18:19:29+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "8952-20240110",
+            "title": "バンク前での観戦についてのお願い",
+            "url": "https://www.shizuoka38.jp/information/8952",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-01-10T13:23:45+09:00"
+        }
+    ]
+}

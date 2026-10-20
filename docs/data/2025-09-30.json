@@ -1,0 +1,62 @@
+{
+    "date": "2025-09-30",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "28972-20250930",
+            "title": "【2025年10月23日～】近鉄四日市駅ファンバス乗降場変更について",
+            "url": "https://yokkaichikeirin.com/28972/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-09-30T23:27:25+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11347-20250930",
+            "title": "『100万円逆転クエスト ～前橋寬仁親王牌への道～』【第10回】西武園競輪場編公開のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-11347/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-09-30T20:42:04+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "147116-20250930",
+            "title": "四国の代表",
+            "url": "https://www.kochi-keirin.jp/column/147116",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-09-30T11:30:52+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11288-20250930",
+            "title": "日本競輪選手養成所129回候補生ブログ Vol.6（田沼龍弥さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-4/ryuya_tanuma/11288/",
+            "categories": [
+                "ブログ",
+                "田沼龍弥さん"
+            ],
+            "publishedAt": "2025-09-30T08:00:40+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11282-20250930",
+            "title": "日本競輪選手養成所129回候補生ブログ Vol.5（北村翔太さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-4/shota_kitamura/11282/",
+            "categories": [
+                "ブログ",
+                "北村翔太さん"
+            ],
+            "publishedAt": "2025-09-30T08:00:25+09:00"
+        }
+    ]
+}

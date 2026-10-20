@@ -1,0 +1,37 @@
+{
+    "date": "2025-02-12",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "118438-20250212",
+            "title": "復調と好調",
+            "url": "https://www.kochi-keirin.jp/column/118438",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-02-12T19:47:41+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "55937-20250212",
+            "title": "週間ポンスターvol.457 ミッドナイトGⅢ出場選手インタビュー！室井蓮太朗選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/midnight-muroirentaro-interview/",
+            "categories": [
+                "週間ポンスター",
+                "週間ポンスター"
+            ],
+            "publishedAt": "2025-02-12T11:55:58+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "639-20250212",
+            "title": "静岡競輪GⅢ 開設72周年記念",
+            "url": "http://graderace.com/prospect/%e9%9d%99%e5%b2%a1%e7%ab%b6%e8%bc%aag%e2%85%b2-%e9%96%8b%e8%a8%ad72%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5/",
+            "categories": [],
+            "publishedAt": "2025-02-12T09:44:41+09:00"
+        }
+    ]
+}

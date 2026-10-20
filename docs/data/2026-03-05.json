@@ -1,0 +1,60 @@
+{
+    "date": "2026-03-05",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20271-20260305",
+            "title": "3/7 郡司浩平選手 優勝報告会",
+            "url": "https://www.shonanbank.com/event/20260307/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-03-05T18:48:52+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12124-20260305",
+            "title": "【3月】Go To Eatキャンペーンのお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-12124/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-03-05T17:43:04+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "33310-20260305",
+            "title": "四日市競輪　キャッシュレスサービス　スマホ投票についてのお知らせ",
+            "url": "https://yokkaichikeirin.com/33310/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-05T16:43:52+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17980-20260305",
+            "title": "【フォトレコ】脇本雄太選手が優勝！『第41回全日本選抜競輪（G1）』の高画質写真が販売開始！",
+            "url": "https://keirincyclist-fc.jp/fc/post-17980/",
+            "categories": [
+                "ファンクラブからのお知らせ"
+            ],
+            "publishedAt": "2026-03-05T14:19:10+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17977-20260305",
+            "title": "第41回全日本選抜競輪 優勝 脇本雄太の公式フォト販売スタート",
+            "url": "https://keirincyclist-fc.jp/recommend/post-17977/",
+            "categories": [
+                "レコメンド"
+            ],
+            "publishedAt": "2026-03-05T14:09:50+09:00"
+        }
+    ]
+}

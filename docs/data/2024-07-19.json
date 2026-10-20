@@ -1,0 +1,36 @@
+{
+    "date": "2024-07-19",
+    "articles": [
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "494-20240719",
+            "title": "福井競輪Ｇ３",
+            "url": "http://graderace.com/prospect/%e7%a6%8f%e4%ba%95%e7%ab%b6%e8%bc%aa%ef%bd%87%ef%bc%93/",
+            "categories": [],
+            "publishedAt": "2024-07-19T10:41:33+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "15026-20240719",
+            "title": "『篠崎愛イメキャラ就任記念オッズパーク杯［FⅠ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e7%af%a0%e5%b4%8e%e6%84%9b%e3%82%a4%e3%83%a1%e3%82%ad%e3%83%a3%e3%83%a9%e5%b0%b1%e4%bb%bb%e8%a8%98%e5%bf%b5%e3%82%aa%e3%83%83%e3%82%ba%e3%83%91%e3%83%bc%e3%82%af%e6%9d%af%ef%bc%bbf%e2%85%b0/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2024-07-19T08:54:57+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "54278-20240719",
+            "title": "週間ポンスターvol.439小松島競輪（FⅡ）『こんばんはチャリロト杯「九十九島凪海からポンスターへ」』のL級優勝は西島叶子選手（熊本・118期）、A級優勝は高本和也選手（神奈川・121期）でした！",
+            "url": "https://www.komatsushimakeirin.com/ponstar/%e9%80%b1%e9%96%93%e3%83%9d%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bcvol-439%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa%ef%bc%88f%e2%85%b1%ef%bc%89%e3%80%8e%e3%81%93%e3%82%93%e3%81%b0%e3%82%93%e3%81%af/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2024-07-19T01:32:17+09:00"
+        }
+    ]
+}

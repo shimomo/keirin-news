@@ -1,0 +1,169 @@
+{
+    "date": "2026-01-01",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "58918-20260101",
+            "title": "新年のご挨拶",
+            "url": "https://www.komatsushimakeirin.com/2026/01/01/%e6%96%b0%e5%b9%b4%e3%81%ae%e3%81%94%e6%8c%a8%e6%8b%b6/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-01T17:48:56+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "42321-20260101",
+            "title": "１月４日（チャリロト杯・Ｆ２ナイター・ガールズ競輪）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%91%e6%9c%88%ef%bc%94%e6%97%a5%ef%bc%88%e3%83%81%e3%83%a3%e3%83%aa%e3%83%ad%e3%83%88%e6%9d%af%e3%83%bb%ef%bd%86%ef%bc%92%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%bb%e3%82%ac%e3%83%bc%e3%83%ab/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2026-01-01T17:48:05+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19391-20260101",
+            "title": "湘南バンクレポート『ＫＥＩＲＩＮグランプリ２０２５［GP］　寺内大吉記念杯競輪［FⅠ］』を終えてを更新しました。",
+            "url": "https://www.shonanbank.com/news/%e6%b9%98%e5%8d%97%e3%83%90%e3%83%b3%e3%82%af%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%80%8e%ef%bd%84%ef%bd%8d%ef%bd%8d%e7%ab%b6%e8%bc%aa%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e3%82%92%e7%b5%82/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-01T15:25:15+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19582-20260101",
+            "title": "『ＫＥＩＲＩＮグランプリ２０２５［GP］　寺内大吉記念杯競輪［FⅠ］』を終えて",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%ef%bd%8b%ef%bd%85%ef%bd%89%ef%bd%92%ef%bd%89%ef%bd%8e%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa%ef%bc%92%ef%bc%90%ef%bc%92%ef%bc%95%ef%bc%bbgp%ef%bc%bd%e3%80%80%e5%af%ba%e5%86%85%e5%a4%a7/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2026-01-01T15:23:35+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/announcer/2026/01/1-1174.html",
+            "title": "「1月」函館けいりん開運スポット巡り",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/announcer/2026/01/1-1174.html",
+            "categories": [],
+            "publishedAt": "2026-01-01T09:25:10+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17817-20260101",
+            "title": "【フォトレコ】郡司浩平選手が優勝！『KEIRINグランプリ2025』の高画質写真が販売開始！",
+            "url": "https://keirincyclist-fc.jp/fc/post-17817/",
+            "categories": [
+                "ファンクラブからのお知らせ"
+            ],
+            "publishedAt": "2026-01-01T07:58:49+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17743-20260101",
+            "title": "【フォトレコ】佐藤水菜選手が優勝！『ガールズグランプリ2025』の高画質写真が販売開始！",
+            "url": "https://keirincyclist-fc.jp/fc/post-17743/",
+            "categories": [
+                "ファンクラブからのお知らせ"
+            ],
+            "publishedAt": "2026-01-01T07:45:32+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17740-20260101",
+            "title": "【フォトレコ】中石湊選手が優勝！『YOUNGグランプリ2025』の高画質写真が販売開始！",
+            "url": "https://keirincyclist-fc.jp/fc/post-17740/",
+            "categories": [
+                "ファンクラブからのお知らせ"
+            ],
+            "publishedAt": "2026-01-01T07:43:01+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17808-20260101",
+            "title": "KEIRINグランプリ2025 優勝 郡司浩平の公式フォト販売スタート",
+            "url": "https://keirincyclist-fc.jp/recommend/post-17808/",
+            "categories": [
+                "レコメンド"
+            ],
+            "publishedAt": "2026-01-01T07:37:22+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17806-20260101",
+            "title": "ガールズグランプリ2025 優勝 佐藤水菜の公式フォト販売スタート",
+            "url": "https://keirincyclist-fc.jp/recommend/post-17806/",
+            "categories": [
+                "レコメンド"
+            ],
+            "publishedAt": "2026-01-01T07:37:11+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17802-20260101",
+            "title": "YOUNGグランプリ2025 優勝 中石湊の公式フォト販売スタート",
+            "url": "https://keirincyclist-fc.jp/recommend/post-17802/",
+            "categories": [
+                "レコメンド"
+            ],
+            "publishedAt": "2026-01-01T07:36:50+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19507-20260101",
+            "title": "1/8～1/9　平塚競輪未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260108/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-01T00:00:28+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19494-20260101",
+            "title": "１月平塚競輪新年初笑い！",
+            "url": "https://www.shonanbank.com/event/20260110/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-01T00:00:10+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19505-20260101",
+            "title": "１月場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260104/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-01T00:00:04+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "42307-20260101",
+            "title": "新年のご挨拶",
+            "url": "https://www.tamano-keirin.jp/2026/01/01/%e6%96%b0%e5%b9%b4%e3%81%ae%e3%81%94%e6%8c%a8%e6%8b%b6/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2026-01-01T00:00:00+09:00"
+        }
+    ]
+}

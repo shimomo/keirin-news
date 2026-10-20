@@ -1,0 +1,36 @@
+{
+    "date": "2024-06-21",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "20729-20240621",
+            "title": "広島市営玉野競輪（FⅠ）西日本カップ／令和６年能登半島地震復興支援競輪",
+            "url": "https://www.tamano-keirin.jp/holding/20240713/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2024-06-21T14:40:30+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "5836-20240621",
+            "title": "東京駅発！青森競輪観戦ツアーご招待！",
+            "url": "https://aomorikeirin.com/news/info/5836-2/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-06-21T13:38:03+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "466-20240621",
+            "title": "久留米競輪GⅢ",
+            "url": "http://graderace.com/prospect/%e4%b9%85%e7%95%99%e7%b1%b3%e7%ab%b6%e8%bc%aag%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2024-06-21T10:10:02+09:00"
+        }
+    ]
+}

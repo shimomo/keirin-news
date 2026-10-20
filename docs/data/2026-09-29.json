@@ -1,0 +1,185 @@
+{
+    "date": "2026-09-29",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21719-20260929",
+            "title": "９月３０日（水）平塚法人会杯 ガールズ決勝出場選手特別紹介",
+            "url": "https://www.shonanbank.com/event/20260930/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-09-29T23:12:16+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "19788-20260929",
+            "title": "10月22日　たこ焼き専門店 大八 アーバンサイクルパークス広島店 新規オープン",
+            "url": "https://hiroshima-keirin.com/2026/09/29/daihachiopen/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-09-29T17:56:08+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "32855-20260929",
+            "title": "今日から開催☀モーニング競輪 ＣＴＣなら３分前まで買える杯【FⅡ】",
+            "url": "https://www.hofukeirin.jp/blog/20260929/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-09-29T16:34:01+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "11709-20260929",
+            "title": "【青森競輪】『前検日コメントならウィンチケット杯』視聴者プレゼント(９月３０日～１０月２日)",
+            "url": "https://aomorikeirin.com/event/end/viewer_present_0930/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-09-29T15:00:29+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "11787-20260929",
+            "title": "【青森競輪】競輪公式投票サイトＣＴＣ・民間ポータルサイトキャンペーンのお知らせ",
+            "url": "https://aomorikeirin.com/event/end/portal_present_0930/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-09-29T14:51:25+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "3316-20260929",
+            "title": "突撃競輪虎の穴「１３１回１３２回選手候補生」　動画公開！！",
+            "url": "https://www.shizuoka38.jp/information/3316",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-09-29T10:00:37+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "154753-20260929",
+            "title": "10月17日(土)～19日(月)　市営イベント",
+            "url": "https://www.kochi-keirin.jp/event/154753",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-09-29T10:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "130794-20260929",
+            "title": "10月12日(月祝）予想会【寬仁親王牌　GⅠ】弥彦",
+            "url": "https://www.kochi-keirin.jp/event/130794",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-09-29T09:30:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "159935-20260929",
+            "title": "ファミリールームご利用時間等について",
+            "url": "https://www.kochi-keirin.jp/news/159935",
+            "categories": [
+                "ファミリー向け情報",
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-09-29T09:01:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "163117-20260929",
+            "title": "「4階　特別観覧席」発売日について",
+            "url": "https://www.kochi-keirin.jp/news/163117",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-09-29T09:00:59+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "159872-20260929",
+            "title": "10月9日(金)優勝者当てクイズ",
+            "url": "https://www.kochi-keirin.jp/event/159872",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-09-29T09:00:00+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "792692-20260929",
+            "title": "小倉競輪「第68回競輪祭（ＧⅠ）」「第４回競輪祭女子王座戦」出場選手決定",
+            "url": "https://keirinsponichi.jp/keirin_news/%e5%b0%8f%e5%80%89%e7%ab%b6%e8%bc%aa%e3%80%8c%e7%ac%ac68%e5%9b%9e%e7%ab%b6%e8%bc%aa%e7%a5%ad%ef%bc%88%ef%bd%87%e2%85%a0%ef%bc%89%e3%80%8d%e3%80%8c%e7%ac%ac%ef%bc%94%e5%9b%9e%e7%ab%b6%e8%bc%aa%e7%a5%ad/",
+            "categories": [],
+            "publishedAt": "2026-09-29T00:04:56+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "792655-20260929",
+            "title": "【記者コラム】明るい未来が待つ野中龍之介",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e8%a8%98%e8%80%85%e3%82%b3%e3%83%a9%e3%83%a0%e3%80%91%e6%98%8e%e3%82%8b%e3%81%84%e6%9c%aa%e6%9d%a5%e3%81%8c%e5%be%85%e3%81%a4%e9%87%8e%e4%b8%ad%e9%be%8d%e4%b9%8b%e4%bb%8b/",
+            "categories": [],
+            "publishedAt": "2026-09-29T00:03:18+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "792657-20260929",
+            "title": "武雄ＦⅠ最終日【鬼脚の読み　井上茂徳】庸平のＶが有力（12Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/%e6%ad%a6%e9%9b%84%ef%bd%86%e2%85%a0%e6%9c%80%e7%b5%82%e6%97%a5%e3%80%90%e9%ac%bc%e8%84%9a%e3%81%ae%e8%aa%ad%e3%81%bf%e3%80%80%e4%ba%95%e4%b8%8a%e8%8c%82%e5%be%b3%e3%80%91%e5%ba%b8%e5%b9%b3%e3%81%ae/",
+            "categories": [],
+            "publishedAt": "2026-09-29T00:02:20+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "792690-20260929",
+            "title": "【武雄ＦⅠ最終日12Ｒ】三谷　新車が上々",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e6%ad%a6%e9%9b%84%ef%bd%86%e2%85%a0%e6%9c%80%e7%b5%82%e6%97%a512%ef%bd%92%e3%80%91%e4%b8%89%e8%b0%b7%e3%80%80%e6%96%b0%e8%bb%8a%e3%81%8c%e4%b8%8a%e3%80%85/",
+            "categories": [],
+            "publishedAt": "2026-09-29T00:01:03+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "159916-20260929",
+            "title": "無料送迎バス運休日について",
+            "url": "https://www.kochi-keirin.jp/news/159916",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-09-29T00:01:00+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/info/info_2026092901.html",
+            "title": "10月14日（水）第53回 南関東地区プロ自転車競技大会開催についてのお知らせ",
+            "url": "https://www.kawasakikeirin.com/info/info_2026092901.html",
+            "categories": [
+                "info"
+            ],
+            "publishedAt": "2026-09-29T00:00:00+09:00"
+        }
+    ]
+}

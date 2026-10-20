@@ -1,0 +1,47 @@
+{
+    "date": "2025-10-22",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9512-20251022",
+            "title": "【青森競輪】３日間連続！★未確定車券抽選会★",
+            "url": "https://aomorikeirin.com/event/uncategorized/10-27-29mikatyu/",
+            "categories": [],
+            "publishedAt": "2025-10-22T12:09:28+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11563-20251022",
+            "title": "『100万円逆転クエスト ～前橋寬仁親王牌への道～』【第11回】青森競輪場編公開のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-11563/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-10-22T10:10:45+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9523-20251022",
+            "title": "【第34回　寬仁親王牌in前橋競輪場　フォローリポストキャンペーン】",
+            "url": "https://aomorikeirin.com/event/end/10-22sinnnouhai/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-10-22T09:44:21+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "21438-20251022",
+            "title": "１０/２６　　有料席席購入者先着プレゼントキャンペーン！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%ef%bc%91%ef%bc%90-%ef%bc%92%ef%bc%96%e3%80%80%e3%80%80%e6%9c%89%e6%96%99%e5%b8%ad%e5%b8%ad%e8%b3%bc%e5%85%a5%e8%80%85%e5%85%88%e7%9d%80%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e3%82%ad%e3%83%a3",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-22T08:09:19+09:00"
+        }
+    ]
+}

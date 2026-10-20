@@ -1,0 +1,39 @@
+{
+    "date": "2026-03-20",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12285-20260320",
+            "title": "平山信一の「今日のひとりごと。」vol.142",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/12285/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2026-03-20T13:52:42+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20297-20260320",
+            "title": "４月場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260404/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-03-20T13:13:13+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20295-20260320",
+            "title": "3/29～3/31　平塚競輪未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260329/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-03-20T13:09:45+09:00"
+        }
+    ]
+}

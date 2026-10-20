@@ -1,0 +1,49 @@
+{
+    "date": "2025-10-02",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9405-20251002",
+            "title": "【青森競輪送迎バス】１０月ナイター時刻表",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e9%80%81%e8%bf%8e%e3%83%90%e3%82%b9%e3%80%91%ef%bc%98%e6%9c%88%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc%e6%99%82%e5%88%bb%e8%a1%a8-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-02T18:22:40+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9399-20251002",
+            "title": "【視聴者プレゼント】１０月３日～５日　WINTICKETミッドナイト競輪　キャンペーン",
+            "url": "https://aomorikeirin.com/event/end/2025-10-03sityousya/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-10-02T16:54:58+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9395-20251002",
+            "title": "【スクリーンショット】１０月３日～１０月５日　WINTICKETミッドナイト競輪　キャンペーン",
+            "url": "https://aomorikeirin.com/event/end/2025-10-03sukuri-n/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-10-02T16:46:31+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18661-20251002",
+            "title": "10/13　イベント情報！モンスターファイトinABEMA湘南バンク！",
+            "url": "https://www.shonanbank.com/event/20251013/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-10-02T11:08:02+09:00"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "date": "2025-05-01",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "17803-20250501",
+            "title": "『競輪アプリウィンチケット杯［FⅡ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e7%ab%b6%e8%bc%aa%e3%82%a2%e3%83%97%e3%83%aa%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e6%9d%af%ef%bc%bbf%e2%85%b1%ef%bc%bd%e3%80%8f%e5%89%8d%e6%a4%9c%e6%97%a5-10/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2025-05-01T13:16:17+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "130511-20250501",
+            "title": "初夏の激闘",
+            "url": "https://www.kochi-keirin.jp/column/130511",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-05-01T08:57:00+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/announcer/2025/05/5-f846.html",
+            "title": "「5月」函館けいりん開運スポット巡り",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/announcer/2025/05/5-f846.html",
+            "categories": [],
+            "publishedAt": "2025-05-01T08:02:55+09:00"
+        }
+    ]
+}

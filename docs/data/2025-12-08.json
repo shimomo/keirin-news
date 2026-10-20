@@ -1,0 +1,39 @@
+{
+    "date": "2025-12-08",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "30792-20251208",
+            "title": "12月イベントスケジュール(12/28更新)",
+            "url": "https://yokkaichikeirin.com/30792/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-12-08T13:50:34+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11766-20251208",
+            "title": "平山信一の「今日のひとりごと。」vol.133",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/11766/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-12-08T13:20:17+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11636-20251208",
+            "title": "【ご応募はコチラから】『第３４回 寬仁親王牌・世界選手権記念トーナメント』のぼり旗プレゼントのお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-11636/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-12-08T08:00:40+09:00"
+        }
+    ]
+}

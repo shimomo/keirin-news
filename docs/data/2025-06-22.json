@@ -1,0 +1,49 @@
+{
+    "date": "2025-06-22",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "34480-20250622",
+            "title": "松山市営in玉野競輪（FlN）スポーツ報知杯争奪戦",
+            "url": "https://www.tamano-keirin.jp/holding/20250627/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-06-22T16:36:46+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "8466-20250622",
+            "title": "【青森競輪送迎バス】７月ナイター時刻表",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e9%80%81%e8%bf%8e%e3%83%90%e3%82%b9%e3%80%91%ef%bc%97%e6%9c%88%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc%e6%99%82%e5%88%bb%e8%a1%a8-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-06-22T16:16:27+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "34468-20250622",
+            "title": "６月２７日（スポーツ報知杯争奪戦・Ｆ１ナイター・松山市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%96%e6%9c%88%ef%bc%92%ef%bc%97%e6%97%a5%ef%bc%88%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e5%a0%b1%e7%9f%a5%e6%9d%af%e4%ba%89%e5%a5%aa%e6%88%a6%e3%83%bb%ef%bd%86%ef%bc%91%e3%83%8a%e3%82%a4%e3%82%bf/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-06-22T11:06:07+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "3958-20250622",
+            "title": "6月25日(水)よりエビチャリ再開のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/matsusaka_charinkofreeride/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-06-22T10:00:07+09:00"
+        }
+    ]
+}

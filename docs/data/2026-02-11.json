@@ -1,0 +1,49 @@
+{
+    "date": "2026-02-11",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "155554-20260211",
+            "title": "2月11日（水･祝）オリジナルグッズ新発売！",
+            "url": "https://www.kochi-keirin.jp/news/155554",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-02-11T17:30:46+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59288-20260211",
+            "title": "【終了】リンカイ！小松島カップ（FⅠ）プレゼントキャンペーン！",
+            "url": "https://www.komatsushimakeirin.com/2026/02/11/campaign_r7_12_1_f1/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-02-11T14:53:08+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59282-20260211",
+            "title": "リンカイ！小松島カップ（FⅠ）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2026/02/11/info_r7_12_1_f1/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-02-11T14:42:06+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "956-20260211",
+            "title": "静岡競輪GⅢ開設73周年記念",
+            "url": "http://graderace.com/prospect/%e9%9d%99%e5%b2%a1%e7%ab%b6%e8%bc%aag%e2%85%b2%e9%96%8b%e8%a8%ad73%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5/",
+            "categories": [],
+            "publishedAt": "2026-02-11T09:00:00+09:00"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "date": "2025-06-11",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "24888-20250611",
+            "title": "【新グッズ登場!!】ネックストラップ・お守りキーホルダー　販売のお知らせ",
+            "url": "https://yokkaichikeirin.com/24888/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-06-11T22:16:01+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "24443-20250611",
+            "title": "6月22日（日）未確定車券抽選会【岸和田GⅠ】",
+            "url": "https://yokkaichikeirin.com/24443/",
+            "categories": [
+                "イベント",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-06-11T17:42:56+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "8372-20250611",
+            "title": "【小学生ライドオンバイシクル2025 in 青森競輪場】",
+            "url": "https://aomorikeirin.com/news/info/2025-07-06rideon/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-06-11T10:07:11+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "730-20250611",
+            "title": "四日市競輪Ｇ３",
+            "url": "http://graderace.com/prospect/%e5%9b%9b%e6%97%a5%e5%b8%82%e7%ab%b6%e8%bc%aa%ef%bd%87%ef%bc%93-2/",
+            "categories": [],
+            "publishedAt": "2025-06-11T09:51:51+09:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "date": "2024-07-26",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "21827-20240726",
+            "title": "玉野競輪場イベントのお知らせ",
+            "url": "https://www.tamano-keirin.jp/2024/07/26/20240726/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2024-07-26T18:43:00+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "21508-20240726",
+            "title": "玉野競輪場イベントのお知らせ",
+            "url": "https://www.tamano-keirin.jp/event/20240726/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2024-07-26T17:29:51+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "6146-20240726",
+            "title": "【VOL.５】燃えよ!縄文バンク",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90vol-%ef%bc%95%e3%80%91%e7%87%83%e3%81%88%e3%82%88%e7%b8%84%e6%96%87%e3%83%90%e3%83%b3%e3%82%af-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-07-26T08:18:15+09:00"
+        }
+    ]
+}

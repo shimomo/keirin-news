@@ -1,0 +1,79 @@
+{
+    "date": "2026-09-19",
+    "articles": [
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "10285-20260919",
+            "title": "【PIST6秋まつり2026】10月24日(土)、25日(日)に開催決定！",
+            "url": "https://chiba.pist6.com/news/10285.html",
+            "categories": [
+                "イベント",
+                "ピックアップ"
+            ],
+            "publishedAt": "2026-09-19T18:10:56+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61322-20260919",
+            "title": "【終了】徳島インディゴソックス×小松島競輪コラボイベント",
+            "url": "https://www.komatsushimakeirin.com/2026/09/19/%e5%be%b3%e5%b3%b6%e3%82%a4%e3%83%b3%e3%83%87%e3%82%a3%e3%82%b4%e3%82%bd%e3%83%83%e3%82%af%e3%82%b9x%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa%e3%82%b3%e3%83%a9%e3%83%9c%e3%82%a4%e3%83%99/",
+            "categories": [
+                "EVENT",
+                "INFO",
+                "お知らせ",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-09-19T17:55:45+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61318-20260919",
+            "title": "週間ポンスターvol.517 小松島競輪（FⅡ）『ミナト海藻杯』のA級チャレンジ優勝は田崎隼翔選手(栃木・129期)でした！",
+            "url": "https://www.komatsushimakeirin.com/ponstar/%e9%80%b1%e9%96%93%e3%83%9d%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bcvol-517-%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa%ef%bc%88f%e2%85%b1%ef%bc%89%e3%80%8e%e3%83%9f%e3%83%8a%e3%83%88%e6%b5%b7%e8%97%bb/",
+            "categories": [
+                "週間ポンスター",
+                "週間ポンスター"
+            ],
+            "publishedAt": "2026-09-19T11:54:52+09:00"
+        },
+        {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/09/post-c6e9.html",
+            "title": "来場者プレゼントのお知らせ",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/09/post-c6e9.html",
+            "categories": [],
+            "publishedAt": "2026-09-19T08:29:08+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "789440-20260919",
+            "title": "【富山ＧⅡ初日】出来事",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%af%8c%e5%b1%b1%ef%bd%87%e2%85%a1%e5%88%9d%e6%97%a5%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
+            "categories": [],
+            "publishedAt": "2026-09-19T00:03:54+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "789437-20260919",
+            "title": "【富山ＧⅡ２日目12Ｒ】室井　ＧⅡ初連対",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%af%8c%e5%b1%b1%ef%bd%87%e2%85%a1%ef%bc%92%e6%97%a5%e7%9b%ae12%ef%bd%92%e3%80%91%e5%ae%a4%e4%ba%95%e3%80%80%ef%bd%87%e2%85%a1%e5%88%9d%e9%80%a3%e5%af%be/",
+            "categories": [],
+            "publishedAt": "2026-09-19T00:02:34+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "789439-20260919",
+            "title": "【富山ＧⅡ２日目６Ｒ】佐々木兄弟　連係",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%af%8c%e5%b1%b1%ef%bd%87%e2%85%a1%ef%bc%92%e6%97%a5%e7%9b%ae%ef%bc%96%ef%bd%92%e3%80%91%e4%bd%90%e3%80%85%e6%9c%a8%e5%85%84%e5%bc%9f%e3%80%80%e9%80%a3%e4%bf%82/",
+            "categories": [],
+            "publishedAt": "2026-09-19T00:01:50+09:00"
+        }
+    ]
+}

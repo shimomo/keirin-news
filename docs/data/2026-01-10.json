@@ -1,0 +1,49 @@
+{
+    "date": "2026-01-10",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9728-20260110",
+            "title": "【藤崎場外】大宮記念GⅢ　高木真備・藤森茂樹イベント",
+            "url": "https://aomorikeirin.com/event/end/20260118fujiskai_i_takagi_fujimori/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-01-10T14:33:07+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19760-20260110",
+            "title": "1/15～1/16　平塚競輪未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260115/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-10T14:27:16+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4603-20260110",
+            "title": "2月1日（日）～3日（火）松阪FIナイター♥　究極ブランドまつぶた杯 松浦武四郎賞 中京スポーツ賞開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/20260201f1n/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-01-10T13:25:59+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19749-20260110",
+            "title": "1/10 6R  湘南クリーンサイクル杯 出場選手特別紹介(12:48～)",
+            "url": "https://www.shonanbank.com/event/20260110-3/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-01-10T10:16:25+09:00"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "date": "2025-02-22",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10015-20250222",
+            "title": "平山信一の「今日のひとりごと。」vol.113",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/10015/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-02-22T22:35:29+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "28718-20250222",
+            "title": "２月２６日（古田泰久杯＆創刊７５周年日刊スポーツ杯・Ｆ１・広島市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%92%e6%9c%88%ef%bc%92%ef%bc%96%e6%97%a5%ef%bc%88%e5%8f%a4%e7%94%b0%e6%b3%b0%e4%b9%85%e6%9d%af%ef%bc%86%e5%89%b5%e5%88%8a%ef%bc%97%ef%bc%95%e5%91%a8%e5%b9%b4%e6%97%a5%e5%88%8a%e3%82%b9%e3%83%9d/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-02-22T17:36:35+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "28703-20250222",
+            "title": "競輪選手を目指す為の説明会実施のお知らせ",
+            "url": "https://www.tamano-keirin.jp/2025/02/22/%e7%ab%b6%e8%bc%aa%e9%81%b8%e6%89%8b%e3%82%92%e7%9b%ae%e6%8c%87%e3%81%99%e7%82%ba%e3%81%ae%e8%aa%ac%e6%98%8e%e4%bc%9a%e5%ae%9f%e6%96%bd%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2025-02-22T16:14:55+09:00"
+        }
+    ]
+}

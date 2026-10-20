@@ -1,0 +1,48 @@
+{
+    "date": "2026-06-03",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12770-20260603",
+            "title": "平山信一の「今日のひとりごと。」vol.146",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/12770/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2026-06-03T17:59:23+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21089-20260603",
+            "title": "『前検日コメならウィンチケット杯［FⅡ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/20260603/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2026-06-03T17:54:24+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18211-20260603",
+            "title": "猿樂楓樹選手のS級2班特別昇級について",
+            "url": "https://keirincyclist-fc.jp/info/post-18211/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-06-03T13:19:44+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "1045-20260603",
+            "title": "開設77周年記念 久留米競輪 GⅢ",
+            "url": "http://graderace.com/prospect/%e9%96%8b%e8%a8%ad77%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5-%e4%b9%85%e7%95%99%e7%b1%b3%e7%ab%b6%e8%bc%aa-g%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2026-06-03T11:57:17+09:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "date": "2026-02-23",
+    "articles": [
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17962-20260223",
+            "title": "第41回読売新聞社杯全日本選抜競輪（GI）優勝は脇本雄太！",
+            "url": "https://keirincyclist-fc.jp/info/post-17962/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-02-23T19:27:56+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "33273-20260223",
+            "title": "３月イベントスケジュール(３/７更新)",
+            "url": "https://yokkaichikeirin.com/33273/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-02-23T19:10:18+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20199-20260223",
+            "title": "『競輪アプリウィンチケット杯［FⅡ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/20260223/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2026-02-23T18:21:07+09:00"
+        }
+    ]
+}

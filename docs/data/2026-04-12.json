@@ -1,0 +1,49 @@
+{
+    "date": "2026-04-12",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20499-20260412",
+            "title": "2026年5月1日（金）～5月6日（水休）　第80回日本選手権競輪 イベント",
+            "url": "https://www.shonanbank.com/event/20260501/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-04-12T22:19:04+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "161327-20260412",
+            "title": "キャッシュレス投票カード「クリカ」",
+            "url": "https://www.kochi-keirin.jp/news/161327",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-04-12T13:00:15+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9929-20260412",
+            "title": "【藤崎場外】４月２６日　新山響平選手・松井律記者トークショー",
+            "url": "https://aomorikeirin.com/event/end/20260426fujiskai_e_sinzan_matsui/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-04-12T11:57:16+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "17561-20260412",
+            "title": "【アーバンサイクルスポーツパークからのお知らせ】4月12日一部ゾーン利用制限について",
+            "url": "https://hiroshima-keirin.com/2026/04/12/%e3%80%90%e3%82%a2%e3%83%bc%e3%83%90%e3%83%b3%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%91%e3%83%bc%e3%82%af%e3%81%8b%e3%82%89%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89-8/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-04-12T08:46:56+09:00"
+        }
+    ]
+}

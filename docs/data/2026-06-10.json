@@ -1,0 +1,58 @@
+{
+    "date": "2026-06-10",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "48147-20260610",
+            "title": "GⅢナイター「車輪疾駆の風々杯」",
+            "url": "https://www.tamano-keirin.jp/holding/g%e2%85%b2%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc%e3%80%8c%e8%bb%8a%e8%bc%aa%e7%96%be%e9%a7%86%e3%81%ae%e9%a2%a8%e3%80%85%e6%9d%af%e3%80%8d/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2026-06-10T19:20:06+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "18256-20260610",
+            "title": "【7月4日開催】「バンク内走行体験」参加者募集（先着60名・事前申込制）",
+            "url": "https://hiroshima-keirin.com/2026/06/10/banksoukou/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-06-10T17:27:54+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "9855-20260610",
+            "title": "競輪事務の委託に関する公表について",
+            "url": "https://www.shizuoka38.jp/information/9855",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-06-10T11:00:28+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "1051-20260610",
+            "title": "玉野競輪GⅢナイター",
+            "url": "http://graderace.com/prospect/%e7%8e%89%e9%87%8e%e7%ab%b6%e8%bc%aag%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2026-06-10T07:31:02+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "10280-20260610",
+            "title": "【ライドオンバイシクル2026 in 青森競輪場】",
+            "url": "https://aomorikeirin.com/event/end/%e3%80%90%e5%b0%8f%e5%ad%a6%e7%94%9f%e3%83%a9%e3%82%a4%e3%83%89%e3%82%aa%e3%83%b3%e3%83%90%e3%82%a4%e3%82%b7%e3%82%af%e3%83%ab2025-in-%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e5%a0%b4%e3%80%91-2/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-06-10T07:20:00+09:00"
+        }
+    ]
+}

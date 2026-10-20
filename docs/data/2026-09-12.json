@@ -1,0 +1,47 @@
+{
+    "date": "2026-09-12",
+    "articles": [
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "19527-20260912",
+            "title": "【イベント】9/19ボートレース宮島に「ひろしまけいりんPRイベントブース」を出展",
+            "url": "https://hiroshima-keirin.com/2026/09/12/%e3%80%90%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e3%80%919-19%e3%83%9c%e3%83%bc%e3%83%88%e3%83%ac%e3%83%bc%e3%82%b9%e5%ae%ae%e5%b3%b6%e3%81%ab%e3%80%8c%e3%81%b2%e3%82%8d%e3%81%97%e3%81%be%e3%81%91/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-09-12T22:47:55+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "252691-20260912",
+            "title": "『共同通信社杯（G2）』テレビ・配信情報、イベント情報／富山競輪場・2026年9月18日から",
+            "url": "https://morecadence.jp/keirin/252691",
+            "categories": [
+                "競輪",
+                "road to GP2026",
+                "共同通信社杯"
+            ],
+            "publishedAt": "2026-09-12T15:13:58+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "787907-20260912",
+            "title": "【奈良ＧⅢ３日目12Ｒ】酒井　立ち回り巧み",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%a5%88%e8%89%af%ef%bd%87%e2%85%a2%ef%bc%93%e6%97%a5%e7%9b%ae12%ef%bd%92%e3%80%91%e9%85%92%e4%ba%95%e3%80%80%e7%ab%8b%e3%81%a1%e5%9b%9e%e3%82%8a%e5%b7%a7%e3%81%bf/",
+            "categories": [],
+            "publishedAt": "2026-09-12T00:02:11+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "787908-20260912",
+            "title": "【奈良ＧⅢ３日目10Ｒ】杉浦　快勝にも反省",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%a5%88%e8%89%af%ef%bd%87%e2%85%a2%ef%bc%93%e6%97%a5%e7%9b%ae10%ef%bd%92%e3%80%91%e6%9d%89%e6%b5%a6%e3%80%80%e5%bf%ab%e5%8b%9d%e3%81%ab%e3%82%82%e5%8f%8d%e7%9c%81/",
+            "categories": [],
+            "publishedAt": "2026-09-12T00:01:25+09:00"
+        }
+    ]
+}

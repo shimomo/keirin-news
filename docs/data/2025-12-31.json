@@ -1,0 +1,27 @@
+{
+    "date": "2025-12-31",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9688-20251231",
+            "title": "【青森競輪　フォローリポストキャンペーン】",
+            "url": "https://aomorikeirin.com/event/end/%e3%80%90%e7%ac%ac34%e5%9b%9e%e3%80%80%e5%af%ac%e4%bb%81%e8%a6%aa%e7%8e%8b%e7%89%8cin%e5%89%8d%e6%a9%8b%e7%ab%b6%e8%bc%aa%e5%a0%b4%e3%80%80%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%83%aa%e3%83%9d/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-12-31T14:56:45+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "42284-20251231",
+            "title": "令和7年度 第8回後節 玉野市営玉野競輪（FⅡナイター）チャリロト杯￼",
+            "url": "https://www.tamano-keirin.jp/holding/20260104/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-12-31T00:00:00+09:00"
+        }
+    ]
+}

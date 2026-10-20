@@ -1,0 +1,34 @@
+{
+    "date": "2025-09-19",
+    "articles": [
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/event/2025/09/926-3368.html",
+            "title": "9月26日（金）バンク内レース観戦のお知らせ",
+            "url": "https://blog.tachikawakeirin.jp/event/2025/09/926-3368.html",
+            "categories": [],
+            "publishedAt": "2025-09-19T18:40:26+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9187-20250919",
+            "title": "【みちのく記念競輪】競輪公式サイト・民間ポータルサイトキャンペーンのお知らせ",
+            "url": "https://aomorikeirin.com/event/end/mitinokuapple/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2025-09-19T13:20:34+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "820-20250919",
+            "title": "青森競輪開設７５周年GⅢ",
+            "url": "http://graderace.com/prospect/%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad%ef%bc%97%ef%bc%95%e5%91%a8%e5%b9%b4g%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-09-19T08:57:16+09:00"
+        }
+    ]
+}

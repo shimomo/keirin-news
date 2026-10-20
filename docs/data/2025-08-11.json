@@ -1,0 +1,28 @@
+{
+    "date": "2025-08-11",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "142315-20250811",
+            "title": "真夏の決戦",
+            "url": "https://www.kochi-keirin.jp/column/142315",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-08-11T14:25:23+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "10955-20250811",
+            "title": "横断幕のお取り扱いについて",
+            "url": "https://www.maebashi-keirin.jp/news/news-10955/",
+            "categories": [
+                "重要",
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-08-11T12:00:18+09:00"
+        }
+    ]
+}

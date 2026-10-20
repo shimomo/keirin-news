@@ -1,0 +1,27 @@
+{
+    "date": "2025-08-20",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "8991-20250820",
+            "title": "【青森競輪】2025 みちのく記念競輪　特設ページ公開",
+            "url": "https://aomorikeirin.com/news/info/2025-09-20kinentokusetu/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-08-20T19:22:47+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18505-20250820",
+            "title": "9/7～9/8　平塚競輪麻雀DAY開催！",
+            "url": "https://www.shonanbank.com/event/20250907/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-08-20T15:24:47+09:00"
+        }
+    ]
+}

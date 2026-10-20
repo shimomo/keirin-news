@@ -1,0 +1,39 @@
+{
+    "date": "2026-03-12",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "44596-20260312",
+            "title": "３月１６日「競輪投票サービスBetimo杯・F１ナイター」",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%93%e6%9c%88%ef%bc%91%ef%bc%96%e6%97%a5%e3%80%8c%e7%ab%b6%e8%bc%aa%e6%8a%95%e7%a5%a8%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9betimo%e6%9d%af%e3%83%bbf%ef%bc%91%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2026-03-12T11:33:45+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59611-20260312",
+            "title": "【終了】3月22日(日) 未確定車券抽選会【防府競輪「第10回ウィナーズカップ」GⅡ】",
+            "url": "https://www.komatsushimakeirin.com/2026/03/12/%e6%9c%aa%e7%a2%ba%e5%ae%9a%e8%bb%8a%e5%88%b8%e6%8a%bd%e9%81%b8%e4%bc%9a%e3%80%90%e9%98%b2%e5%ba%9c%e7%ab%b6%e8%bc%aa%e3%80%8c%e7%ac%ac10%e5%9b%9e%e3%82%a6%e3%82%a3%e3%83%8a%e3%83%bc%e3%82%ba%e3%82%ab/",
+            "categories": [
+                "EVENT",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-03-12T09:24:27+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "33333-20260312",
+            "title": "３月１２日（木）高松ＦⅠ in 小松島　場外発売中止のお知らせ",
+            "url": "https://yokkaichikeirin.com/33333/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-12T00:00:38+09:00"
+        }
+    ]
+}

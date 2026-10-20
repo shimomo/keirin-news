@@ -1,0 +1,27 @@
+{
+    "date": "2026-01-16",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "153189-20260116",
+            "title": "今年も宜しくお願い致します。",
+            "url": "https://www.kochi-keirin.jp/column/153189",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2026-01-16T14:54:49+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19741-20260116",
+            "title": "FⅠナイター 湘南ローズカップ戸川杯×HPCJC×愛が駆け抜けるオッズパーク杯リーフレット",
+            "url": "https://www.shonanbank.com/news/20260116/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-01-16T10:00:22+09:00"
+        }
+    ]
+}

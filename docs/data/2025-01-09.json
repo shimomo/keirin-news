@@ -1,0 +1,25 @@
+{
+    "date": "2025-01-09",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "7576-20250109",
+            "title": "【青森競輪】第７回　スノーライドin青森　特設ページ公開",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e3%80%912024-%e3%81%bf%e3%81%a1%e3%81%ae%e3%81%8f%e8%a8%98%e5%bf%b5%e7%ab%b6%e8%bc%aag%e2%85%b2%e3%80%80%e7%89%b9%e8%a8%ad%e3%83%9a%e3%83%bc%e3%82%b8-2/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-01-09T17:00:31+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "619-20250109",
+            "title": "和歌山競輪開設７５周年記念",
+            "url": "http://graderace.com/prospect/%e5%92%8c%e6%ad%8c%e5%b1%b1%e8%a8%98%e5%bf%b5/",
+            "categories": [],
+            "publishedAt": "2025-01-09T11:39:07+09:00"
+        }
+    ]
+}

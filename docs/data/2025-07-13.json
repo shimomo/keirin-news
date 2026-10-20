@@ -1,0 +1,25 @@
+{
+    "date": "2025-07-13",
+    "articles": [
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "756-20250713",
+            "title": "京王閣競輪GⅢ",
+            "url": "http://graderace.com/prospect/%e4%ba%ac%e7%8e%8b%e9%96%a3%e7%ab%b6%e8%bc%aag%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-07-13T17:00:00+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "35312-20250713",
+            "title": "７月１８日・サマーナイトフェスティバル（Ｇ２）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%97%e6%9c%88%ef%bc%91%ef%bc%98%e6%97%a5%e3%83%bb%e3%82%b5%e3%83%9e%e3%83%bc%e3%83%8a%e3%82%a4%e3%83%88%ef%bc%88%ef%bd%87%e2%85%b2%ef%bc%89/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-07-13T11:20:44+09:00"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "date": "2026-02-10",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19746-20260210",
+            "title": "場所変更のお知らせ　２月イベント　チョコっと早めのバレンタインフェス！",
+            "url": "https://www.shonanbank.com/event/20260211/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-02-10T15:00:56+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "1675-20260210",
+            "title": "2月21日（土）第28回りんりん朝市開催",
+            "url": "https://matsusaka-keirin.jp/new-post/%e3%82%8a%e3%82%93%e3%82%8a%e3%82%93%e6%9c%9d%e5%b8%82%e9%96%8b%e5%82%ac/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-02-10T13:00:55+09:00"
+        }
+    ]
+}

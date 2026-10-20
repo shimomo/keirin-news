@@ -1,0 +1,50 @@
+{
+    "date": "2026-03-09",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "59631-20260309",
+            "title": "本場開催中のYouTube配信について",
+            "url": "https://www.komatsushimakeirin.com/2026/03/09/%e6%9c%ac%e5%a0%b4%e9%96%8b%e5%82%ac%e4%b8%ad%e3%81%aeyoutube%e9%85%8d%e4%bf%a1%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-09T19:18:22+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12187-20260309",
+            "title": "3月15日(日) 西武園競輪ご当地ミカチュウのお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-12187/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-03-09T18:10:06+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4830-20260309",
+            "title": "2026年3月15日開催「ドリームオーシャンカップ キッズケイリン in 松阪けいりん」に申込されたお客様へ",
+            "url": "https://matsusaka-keirin.jp/new-post/20260315kidskeirin_information1/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-03-09T16:50:11+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "23277-20260309",
+            "title": "松戸けいりん-サイクルフェスタ2026開催！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%e6%9d%be%e6%88%b8%e3%81%91%e3%81%84%e3%82%8a%e3%82%93-%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%83%95%e3%82%a7%e3%82%b9%e3%82%bf2026%e9%96%8b%e5%82%ac%ef%bc%81",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-09T15:17:29+09:00"
+        }
+    ]
+}

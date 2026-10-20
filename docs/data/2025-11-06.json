@@ -1,0 +1,38 @@
+{
+    "date": "2025-11-06",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "40102-20251106",
+            "title": "松山市営in玉野競輪（FⅠナイター）九州スポーツ杯争奪戦￼",
+            "url": "https://www.tamano-keirin.jp/holding/20251109/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-11-06T18:55:07+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4370-20251106",
+            "title": "11月29日（土）キラキラリングナイト開催のお知らせ（会場案内図公開）",
+            "url": "https://matsusaka-keirin.jp/new-post/20251129kirakiraringnight/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-11-06T15:48:07+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "149284-20251106",
+            "title": "ニュースター誕生",
+            "url": "https://www.kochi-keirin.jp/column/149284",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-11-06T13:19:23+09:00"
+        }
+    ]
+}

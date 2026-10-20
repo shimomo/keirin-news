@@ -1,0 +1,70 @@
+{
+    "date": "2026-08-26",
+    "articles": [
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5567-20260826",
+            "title": "8月31日（月）～9月2日（水）松阪FIIモーニング「あさラバしようよカップ 前検コメはウィンチケット杯」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/8-31morninng-asarabasiyouyo/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-08-26T13:10:31+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "1119-20260826",
+            "title": "前橋競輪 開設76周年記念",
+            "url": "http://graderace.com/prospect/%e5%89%8d%e6%a9%8b%e7%ab%b6%e8%bc%aa-%e9%96%8b%e8%a8%ad76%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5/",
+            "categories": [],
+            "publishedAt": "2026-08-26T12:05:07+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "11270-20260826",
+            "title": "開設76周年 みちのく記念競輪 善知鳥杯争奪戦(ＧⅢ)【イベント】情報！",
+            "url": "https://aomorikeirin.com/event/end/michinoku_event/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-08-26T11:25:04+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "11269-20260826",
+            "title": "開設76周年 みちのく記念競輪 善知鳥杯争奪戦(ＧⅢ)【キャンペーン】情報！",
+            "url": "https://aomorikeirin.com/event/end/michinoku_campaign/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-08-26T11:24:53+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "11267-20260826",
+            "title": "【オッズパークPresents】ニジマスつかみ取りイベントのお知らせ",
+            "url": "https://aomorikeirin.com/event/end/oddspark_presents-2/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-08-26T11:22:12+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13325-20260826",
+            "title": "群馬支部ブログ「心にググッと群馬支部」北村翔太選手-vol.3",
+            "url": "https://www.maebashi-keirin.jp/racer/shota_kitamura-racer/13325/",
+            "categories": [
+                "ブログ",
+                "北村翔太選手"
+            ],
+            "publishedAt": "2026-08-26T10:00:00+09:00"
+        }
+    ]
+}

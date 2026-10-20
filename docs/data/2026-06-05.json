@@ -1,0 +1,69 @@
+{
+    "date": "2026-06-05",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21130-20260605",
+            "title": "6/20・6/21　 AniDOL　Special　LIVE",
+            "url": "https://www.shonanbank.com/event/20260620/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-06-05T17:00:35+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5168-20260605",
+            "title": "6月7日（日）～9日（火）松阪FI 「丸井食品鶏焼き肉ＣＵＰ 前検コメはウィンチケット杯 松阪木綿賞 日刊スポーツ賞」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/6-7-9matusakafi/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-06-05T15:00:12+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "528",
+            "title": "6月12日（金）FM香川「競輪にい講座！」のゲストは清水邦章選手です",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-528.html",
+            "categories": [
+                "FM香川"
+            ],
+            "publishedAt": "2026-06-05T14:28:41+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "18144-20260605",
+            "title": "【アーバンサイクルスポーツパークからのお知らせ】営業再開のお知らせについて",
+            "url": "https://hiroshima-keirin.com/2026/06/05/%e3%80%90%e3%82%a2%e3%83%bc%e3%83%90%e3%83%b3%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%91%e3%83%bc%e3%82%af%e3%81%8b%e3%82%89%e3%81%ae%e3%81%8a%e7%9f%a5-11/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-06-05T11:22:25+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "63575-20260605",
+            "title": "京都支部　129期生デビュー",
+            "url": "https://kyoto-mukomachikeirin.com/63575/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-06-05T10:07:36+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9925-20260605",
+            "title": "【青森競輪】『見る・知る・楽しむ！競輪ワールドシリーズ』ナイトツアーin青森競輪場",
+            "url": "https://aomorikeirin.com/event/uncategorized/4-12fororipo/",
+            "categories": [],
+            "publishedAt": "2026-06-05T08:00:13+09:00"
+        }
+    ]
+}

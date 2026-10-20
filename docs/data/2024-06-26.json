@@ -1,0 +1,36 @@
+{
+    "date": "2024-06-26",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "5877-20240626",
+            "title": "【VOL.４】燃えよ!縄文バンク",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90vol-%ef%bc%94%e3%80%91%e7%87%83%e3%81%88%e3%82%88%e7%b8%84%e6%96%87%e3%83%90%e3%83%b3%e3%82%af-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2024-06-26T11:39:26+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "474-20240626",
+            "title": "取手競輪GⅢ",
+            "url": "http://graderace.com/prospect/%e5%8f%96%e6%89%8b%e7%ab%b6%e8%bc%aag%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2024-06-26T11:35:35+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "53881-20240626",
+            "title": "週間ポンスターvol.429 74周年記念出場選手インタビュー！久樹克門選手",
+            "url": "https://www.komatsushimakeirin.com/ponstar/vol-429/",
+            "categories": [
+                "週間ポンスター"
+            ],
+            "publishedAt": "2024-06-26T08:55:26+09:00"
+        }
+    ]
+}

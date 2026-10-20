@@ -1,0 +1,27 @@
+{
+    "date": "2025-04-23",
+    "articles": [
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "3704-20250423",
+            "title": "松阪サイクルトレーニングセンター 4月24日OPEN！",
+            "url": "https://matsusaka-keirin.jp/new-post/250424mctc_open/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-04-23T20:28:56+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "31250-20250423",
+            "title": "令和７年度 第１回 後節 玉野市営玉野競輪 （FⅠ）チャリロト杯",
+            "url": "https://www.tamano-keirin.jp/holding/20250429/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-04-23T17:15:00+09:00"
+        }
+    ]
+}

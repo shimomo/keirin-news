@@ -1,0 +1,49 @@
+{
+    "date": "2025-12-24",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19498-20251224",
+            "title": "12/28～12/30　KEIRINグランプリ2025シリーズ",
+            "url": "https://www.shonanbank.com/event/20251228/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-12-24T18:31:33+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17736-20251224",
+            "title": "鶴淳志選手のA級2班特別昇班について",
+            "url": "https://keirincyclist-fc.jp/info/post-17736/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2025-12-24T17:19:47+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19479-20251224",
+            "title": "KEIRINグランプリ２０２５シリーズ　有料指定席完売のお知らせ",
+            "url": "https://www.shonanbank.com/news/20251224/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-12-24T14:21:09+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "22276-20251224",
+            "title": "１２/２６　ロイヤル席購入者プレゼントキャンペーン！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%ef%bc%91%ef%bc%92-%ef%bc%92%ef%bc%96%e3%80%80%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab%e5%b8%ad%e8%b3%bc%e5%85%a5%e8%80%85%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-12-24T08:07:04+09:00"
+        }
+    ]
+}

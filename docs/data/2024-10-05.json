@@ -1,0 +1,38 @@
+{
+    "date": "2024-10-05",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "16338-20241005",
+            "title": "『湘南しらす丸八丸杯［FⅠ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/20241005/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2024-10-05T22:32:05+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "24111-20241005",
+            "title": "10月７日（ＫＥＩＲＩＮホテル１０杯・ＦⅡナイター・ガールズ競輪）",
+            "url": "https://www.tamano-keirin.jp/preexamination/10%e6%9c%88%ef%bc%97%e6%97%a5%ef%bc%88%ef%bd%8b%ef%bd%85%ef%bd%89%ef%bd%92%ef%bd%89%ef%bd%8e%e3%83%9b%e3%83%86%e3%83%ab%ef%bc%91%ef%bc%90%e6%9d%af%e3%83%bb%ef%bd%86%e2%85%b1%e3%83%8a%e3%82%a4%e3%82%bf/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2024-10-05T11:57:57+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "106587-20241005",
+            "title": "10月6日㊐の場外発売について",
+            "url": "https://www.kochi-keirin.jp/news/106587",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2024-10-05T09:54:43+09:00"
+        }
+    ]
+}

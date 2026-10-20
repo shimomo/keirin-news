@@ -1,0 +1,27 @@
+{
+    "date": "2025-06-13",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "24849-20250613",
+            "title": "カレーフェス　出店店舗変更のお知らせ",
+            "url": "https://yokkaichikeirin.com/24849/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-06-13T18:42:01+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "34030-20250613",
+            "title": "松山市営in玉野競輪（MNK）７車立てならTIPSTAR杯",
+            "url": "https://www.tamano-keirin.jp/holding/20250616/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-06-13T16:19:59+09:00"
+        }
+    ]
+}

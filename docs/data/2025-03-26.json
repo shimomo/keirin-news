@@ -1,0 +1,38 @@
+{
+    "date": "2025-03-26",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "126190-20250326",
+            "title": "ぼうしパン",
+            "url": "https://www.kochi-keirin.jp/column/126190",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2025-03-26T16:28:01+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "30150-20250326",
+            "title": "３月29日（チャリロト杯・ミッドナイト競輪）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%93%e6%9c%8829%e6%97%a5%ef%bc%88%e3%83%81%e3%83%a3%e3%83%aa%e3%83%ad%e3%83%88%e6%9d%af%e3%83%bb%e3%83%9f%e3%83%83%e3%83%89%e3%83%8a%e3%82%a4%e3%83%88%e7%ab%b6%e8%bc%aa%ef%bc%89/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-03-26T15:52:41+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "30138-20250326",
+            "title": "令和6年度　第12回 後節（MNK）玉野市営玉野競輪「チャリロト杯」",
+            "url": "https://www.tamano-keirin.jp/holding/%e4%bb%a4%e5%92%8c6%e5%b9%b4%e5%ba%a6%e3%80%80%e7%ac%ac12%e5%9b%9e-%e5%be%8c%e7%af%80%ef%bc%88mnk%ef%bc%89%e7%8e%89%e9%87%8e%e5%b8%82%e5%96%b6%e7%8e%89%e9%87%8e%e7%ab%b6%e8%bc%aa%e3%80%8c%e3%83%81/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-03-26T15:12:38+09:00"
+        }
+    ]
+}

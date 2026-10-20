@@ -1,0 +1,72 @@
+{
+    "date": "2026-02-09",
+    "articles": [
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9758-20260209",
+            "title": "【青森競輪事業所】青森市民病院への機材の寄贈",
+            "url": "https://aomorikeirin.com/news/info/%e3%80%90%e9%9d%92%e6%a3%ae%e7%ab%b6%e8%bc%aa%e4%ba%8b%e6%a5%ad%e6%89%80%e3%80%91%e9%9d%92%e6%a3%ae%e5%b8%82%e6%b0%91%e7%97%85%e9%99%a2%e3%81%b8%e3%81%ae%e6%a9%9f%e6%9d%90%e3%81%ae%e5%af%84%e8%b4%88/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-02-09T17:29:38+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19900-20260209",
+            "title": "2/23　平塚競輪未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20260223/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-02-09T15:17:28+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19899-20260209",
+            "title": "平塚競輪ＦⅠナイター 「湘南ローズカップ戸川杯×HPCJC×愛が駆け抜けるオッズパーク杯」 視聴者プレゼント！",
+            "url": "https://www.shonanbank.com/news/20260209-2/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-02-09T13:05:56+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19897-20260209",
+            "title": "湘南バンクレポート『湘南ローズカップ戸川杯×HPCJC×愛が駆け抜けるオッズパーク杯［FⅠ］』前検日取材を更新しました。",
+            "url": "https://www.shonanbank.com/news/%e6%b9%98%e5%8d%97%e3%83%90%e3%83%b3%e3%82%af%e3%83%ac%e3%83%9d%e3%83%bc%e3%83%88%e3%80%8e%e6%b9%98%e5%8d%97%e3%83%ad%e3%83%bc%e3%82%ba%e3%82%ab%e3%83%83%e3%83%97%e6%88%b8%e5%b7%9d%e6%9d%afxhpcjc/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-02-09T09:52:26+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "19880-20260209",
+            "title": "『湘南ローズカップ戸川杯×HPCJC×愛が駆け抜けるオッズパーク杯［FⅠ］』前検日取材",
+            "url": "https://www.shonanbank.com/blog/%e3%80%8e%e6%b9%98%e5%8d%97%e3%83%ad%e3%83%bc%e3%82%ba%e3%82%ab%e3%83%83%e3%83%97%e6%88%b8%e5%b7%9d%e6%9d%afxhpcjcx%e6%84%9b%e3%81%8c%e9%a7%86%e3%81%91%e6%8a%9c%e3%81%91%e3%82%8b%e3%82%aa/",
+            "categories": [
+                "バンクレポート"
+            ],
+            "publishedAt": "2026-02-09T09:47:59+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12045-20260209",
+            "title": "群馬支部ブログ「心にググッと群馬支部」河内桜雪選手-vol.23",
+            "url": "https://www.maebashi-keirin.jp/racer/sayuki_kawauchi-racer/12045/",
+            "categories": [
+                "ブログ",
+                "河内桜雪選手"
+            ],
+            "publishedAt": "2026-02-09T08:00:52+09:00"
+        }
+    ]
+}

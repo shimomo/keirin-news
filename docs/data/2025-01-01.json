@@ -1,0 +1,28 @@
+{
+    "date": "2025-01-01",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "9701-20250101",
+            "title": "前橋競輪公営事業課長より新年のご挨拶（平山信一の「今日のひとりごと。」特別編）",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/9701/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-01-01T08:00:01+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "27039-20250101",
+            "title": "【新年のご挨拶】",
+            "url": "https://www.tamano-keirin.jp/2025/01/01/20250101/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2025-01-01T00:00:00+09:00"
+        }
+    ]
+}

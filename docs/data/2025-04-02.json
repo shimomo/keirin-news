@@ -1,0 +1,36 @@
+{
+    "date": "2025-04-02",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "30430-20250402",
+            "title": "松山市営in玉野競輪（FⅡ）競輪AIロトプレイス杯・四国東通杯",
+            "url": "https://www.tamano-keirin.jp/holding/20250409/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2025-04-02T16:26:50+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "2424-20250402",
+            "title": "レディオキューブパンまつりin松阪けいりんのご案内",
+            "url": "https://matsusaka-keirin.jp/new-post/pan/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-04-02T14:10:09+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "678-20250402",
+            "title": "高知競輪開設７５周年記念ＧⅢ",
+            "url": "http://graderace.com/prospect/%e9%ab%98%e7%9f%a5%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad%ef%bc%97%ef%bc%95%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%ef%bd%87%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-04-02T09:07:45+09:00"
+        }
+    ]
+}

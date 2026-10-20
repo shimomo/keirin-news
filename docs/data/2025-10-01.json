@@ -1,0 +1,68 @@
+{
+    "date": "2025-10-01",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11359-20251001",
+            "title": "平山信一の「今日のひとりごと。」vol.128",
+            "url": "https://www.maebashi-keirin.jp/caster/hirayama_blog/11359/",
+            "categories": [
+                "ブログ",
+                "平山信一"
+            ],
+            "publishedAt": "2025-10-01T17:59:50+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "21231-20251001",
+            "title": "１０/１１～１２　　松戸けいりんビールフェスティバル イベント情報公開！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%ef%bc%91%ef%bc%90-%ef%bc%91%ef%bc%91%ef%bd%9e%ef%bc%91%ef%bc%92%e3%80%80%e3%80%80%e6%9d%be%e6%88%b8%e3%81%91%e3%81%84%e3%82%8a%e3%82%93%e3%83%93%e3%83%bc%e3%83%ab%e3%83%95%e3%82%a7%e3%82%b9-2",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-01T13:21:49+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4289-20251001",
+            "title": "10月10日～13日松阪記念ご来場予定のお客様へ（イベントMAP公開）",
+            "url": "https://matsusaka-keirin.jp/new-post/welcometomatsusakakeirinn1010-13/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-10-01T11:25:01+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4298-20251001",
+            "title": "【10月19日】補助輪外し教室開催日のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/hojyorinn_bike1019/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-10-01T11:08:26+09:00"
+        },
+        {
+            "source": "ctc",
+            "sourceName": "CTC グレードレース情報",
+            "id": "828-20251001",
+            "title": "京王閣競輪開設76周年記念GⅢ",
+            "url": "http://graderace.com/prospect/%e4%ba%ac%e7%8e%8b%e9%96%a3%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad76%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5g%e2%85%b2/",
+            "categories": [],
+            "publishedAt": "2025-10-01T11:02:42+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/announcer/2025/10/10-a0a9.html",
+            "title": "「10月」函館けいりん開運スポット巡り",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/announcer/2025/10/10-a0a9.html",
+            "categories": [],
+            "publishedAt": "2025-10-01T07:29:44+09:00"
+        }
+    ]
+}

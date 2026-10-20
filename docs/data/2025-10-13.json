@@ -1,0 +1,40 @@
+{
+    "date": "2025-10-13",
+    "articles": [
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "39069-20251013",
+            "title": "10月14日（スピードチャンネル・スカパー杯・Ｆ２ナイター・ガールズ競輪・松山市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/10%e6%9c%8814%e6%97%a5%ef%bc%88%e3%82%b9%e3%83%94%e3%83%bc%e3%83%89%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab%e3%83%bb%e3%82%b9%e3%82%ab%e3%83%91%e3%83%bc%e6%9d%af%e3%83%bb%ef%bd%86%ef%bc%92/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2025-10-13T15:29:51+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "57980-20251013",
+            "title": "高松市営小松島競輪 モーニング競輪 みんな大好きチータカカップ（FⅡ）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2025/10/13/info_r7_8f2mo1_tkmt/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-13T13:13:45+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11479-20251013",
+            "title": "群馬支部ブログ「心にググッと群馬支部」vol.5 – 小林泰正選手",
+            "url": "https://www.maebashi-keirin.jp/racer/taisei_kobayashi-racer/11479/",
+            "categories": [
+                "ブログ",
+                "小林泰正選手"
+            ],
+            "publishedAt": "2025-10-13T08:00:24+09:00"
+        }
+    ]
+}

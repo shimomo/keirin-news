@@ -1,0 +1,53 @@
+{
+    "date": "2026-07-05",
+    "articles": [
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "60622-20260705",
+            "title": "週間ポンスターvol.513 小松島競輪（GⅢ）『小松島競輪開設76周年記念 阿波おどり杯争覇戦』のS級優勝は、古性優作選手(徳島・100 期)でした！",
+            "url": "https://www.komatsushimakeirin.com/ponstar/%e9%80%b1%e9%96%93%e3%83%9d%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bcvol-513-%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa%ef%bc%88g%e2%85%b2%ef%bc%89%e3%80%8e%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa/",
+            "categories": [
+                "週間ポンスター",
+                "週間ポンスター"
+            ],
+            "publishedAt": "2026-07-05T18:40:50+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "18542-20260705",
+            "title": "【広島競輪】7/8～7/10『ヴィクトワール広島杯/前検日コメントならウィンチケット杯』開催！←キャンペーン情報はこちら",
+            "url": "https://hiroshima-keirin.com/2026/07/05/0708/",
+            "categories": [
+                "レース"
+            ],
+            "publishedAt": "2026-07-05T15:56:54+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "51094-20260705",
+            "title": "７月７日（前検日コメならウィンチケット杯・F２ミッドナイト・ガールズ競輪・高松市主催）",
+            "url": "https://www.tamano-keirin.jp/preexamination/%ef%bc%97%e6%9c%88%ef%bc%97%e6%97%a5%ef%bc%88%e5%89%8d%e6%a4%9c%e6%97%a5%e3%82%b3%e3%83%a1%e3%81%aa%e3%82%89%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%81%e3%82%b1%e3%83%83%e3%83%88%e6%9d%af%e3%83%bbf%ef%bc%92/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2026-07-05T15:04:47+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "246644-20260705",
+            "title": "【Weekly JIK Vol.6】防災訓練を実施しました 日本競輪選手養成所の日常",
+            "url": "https://morecadence.jp/keirin/246644",
+            "categories": [
+                "競輪",
+                "JIK",
+                "JIK Weekly",
+                "日本競輪選手養成所"
+            ],
+            "publishedAt": "2026-07-05T12:00:17+09:00"
+        }
+    ]
+}

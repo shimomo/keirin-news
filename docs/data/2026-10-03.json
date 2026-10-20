@@ -1,0 +1,63 @@
+{
+    "date": "2026-10-03",
+    "articles": [
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47287-20261003",
+            "title": "【NCC】10月12日_名古屋サイクルクラブ記録会について",
+            "url": "https://nagoyakeirin.com/47287/?utm_source=rss&utm_medium=rss&utm_campaign=47287",
+            "categories": [
+                "サイクルクラブ"
+            ],
+            "publishedAt": "2026-10-03T16:55:52+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "32930-20261003",
+            "title": "明日から開催☀モーニング競輪 介護サービスのセービング杯【FⅡ】",
+            "url": "https://www.hofukeirin.jp/blog/20261003/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-10-03T16:48:11+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "173550-20261003",
+            "title": "10月4日（日）の場外発売について",
+            "url": "https://www.kochi-keirin.jp/news/173550",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-10-03T16:19:41+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "253942-20261003",
+            "title": "オードリー春日も登場『寬仁親王杯（G1）』テレビ放送・イベント情報 10月9日から",
+            "url": "https://morecadence.jp/keirin/253942",
+            "categories": [
+                "競輪",
+                "road to GP2026",
+                "寬仁親王牌",
+                "弥彦競輪場"
+            ],
+            "publishedAt": "2026-10-03T15:50:11+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/10/202610-0824.html",
+            "title": "2026年10月函館競輪「イベント一覧」",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/10/202610-0824.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-10-03T13:53:14+09:00"
+        }
+    ]
+}

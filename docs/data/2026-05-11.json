@@ -1,0 +1,38 @@
+{
+    "date": "2026-05-11",
+    "articles": [
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "163070-20260511",
+            "title": "王者が復活",
+            "url": "https://www.kochi-keirin.jp/column/163070",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2026-05-11T14:02:52+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "62605-20260511",
+            "title": "★投票所リニューアル★",
+            "url": "https://kyoto-mukomachikeirin.com/62605/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-05-11T13:40:15+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "17104-20260511",
+            "title": "「特設ショップ」10月の出店予定",
+            "url": "https://keirincyclist-fc.jp/booth-information/post-17104/",
+            "categories": [
+                "次回のブース出店情報"
+            ],
+            "publishedAt": "2026-05-11T12:09:18+09:00"
+        }
+    ]
+}

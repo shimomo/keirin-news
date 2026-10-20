@@ -1,0 +1,50 @@
+{
+    "date": "2025-10-07",
+    "articles": [
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11441-20251007",
+            "title": "10月26日(日)『第34回 寬仁親王牌・世界選手権記念トーナメント(ＧⅠ)』スペシャル未確定車券抽選会のお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-11441/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2025-10-07T18:49:32+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "11428-20251007",
+            "title": "群馬支部ブログ「心にググッと群馬支部」河内桜雪選手-vol.21",
+            "url": "https://www.maebashi-keirin.jp/racer/sayuki_kawauchi-racer/11428/",
+            "categories": [
+                "ブログ",
+                "河内桜雪選手"
+            ],
+            "publishedAt": "2025-10-07T17:48:45+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9466-20251007",
+            "title": "寬仁親王牌【先着プレゼントのお知らせ】",
+            "url": "https://aomorikeirin.com/news/info/10-26senntyaku/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-07T17:29:51+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "9448-20251007",
+            "title": "場外ナイター【先着プレゼントのお知らせ】",
+            "url": "https://aomorikeirin.com/news/info/10-16senntyaku/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-10-07T14:31:04+09:00"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "date": "2026-03-25",
+    "articles": [
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20305-20260325",
+            "title": "「第８１回日本選手権競輪（ＧⅠ）」開催決定",
+            "url": "https://www.shonanbank.com/news/20260325/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-25T16:05:50+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "159578-20260325",
+            "title": "今年こそは",
+            "url": "https://www.kochi-keirin.jp/column/159578",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2026-03-25T12:08:42+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20303-20260325",
+            "title": "東門及び河川敷駐車場の開放について",
+            "url": "https://www.shonanbank.com/news/20260501-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-25T11:54:07+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "20300-20260325",
+            "title": "2026年4月12日（日）　湘南ベルマーレパブリックビューイング開催！",
+            "url": "https://www.shonanbank.com/news/20260412/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-03-25T10:49:04+09:00"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "date": "2025-08-14",
+    "articles": [
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "27766-20250814",
+            "title": "近鉄四日市駅ファンバス乗降場変更について",
+            "url": "https://yokkaichikeirin.com/27766/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2025-08-14T18:59:45+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "18449-20250814",
+            "title": "第７３回湘南ひらつか花火大会チケット配布！",
+            "url": "https://www.shonanbank.com/event/20250815-2/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2025-08-14T15:12:38+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4106-20250814",
+            "title": "8月19日（火）～21日（木）松阪FIIナイター「HANADAMAカップ」開催のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/matusaka_nit0819/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2025-08-14T00:00:32+09:00"
+        }
+    ]
+}
