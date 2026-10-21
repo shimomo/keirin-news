@@ -827,7 +827,7 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-22T02:39:45+09:00",
+    "checkedAt": "2026-10-22T05:54:03+09:00",
     "failures": [
         {
             "source": "netkeirin",
@@ -837,32 +837,32 @@
         {
             "source": "ctc",
             "sourceName": "CTC グレードレース情報",
-            "message": "GET http://graderace.com/wp-json/wp/v2/prospect?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T17%3A39%3A44%2B00%3A00 returned HTTP 502."
+            "message": "GET http://graderace.com/wp-json/wp/v2/prospect?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T20%3A54%3A02%2B00%3A00 returned HTTP 502."
         },
         {
             "source": "hiratsuka",
             "sourceName": "平塚競輪",
-            "message": "GET https://www.shonanbank.com/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T17%3A39%3A44%2B00%3A00 returned HTTP 502."
+            "message": "GET https://www.shonanbank.com/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T20%3A54%3A02%2B00%3A00 returned HTTP 502."
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "message": "GET https://matsusaka-keirin.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T20%3A54%3A02%2B00%3A00 returned HTTP 502."
         },
         {
             "source": "tamano",
             "sourceName": "玉野競輪",
-            "message": "GET https://www.tamano-keirin.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T17%3A39%3A44%2B00%3A00 returned HTTP 502."
+            "message": "GET https://www.tamano-keirin.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T20%3A54%3A02%2B00%3A00 returned HTTP 502."
         },
         {
             "source": "hiroshima",
             "sourceName": "広島競輪",
-            "message": "GET https://hiroshima-keirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T17%3A39%3A44%2B00%3A00 returned HTTP 502."
-        },
-        {
-            "source": "takamatsu",
-            "sourceName": "高松競輪",
-            "message": "GET https://tkmtkeirin.blog.fc2.com/?xml returned HTTP 403."
+            "message": "GET https://hiroshima-keirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T20%3A54%3A02%2B00%3A00 returned HTTP 502."
         },
         {
             "source": "komatsushima",
             "sourceName": "小松島競輪",
-            "message": "GET https://www.komatsushimakeirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T17%3A39%3A44%2B00%3A00 returned HTTP 502."
+            "message": "GET https://www.komatsushimakeirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-19T20%3A54%3A02%2B00%3A00 returned HTTP 502."
         },
         {
             "source": "hofu",
