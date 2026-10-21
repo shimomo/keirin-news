@@ -826,12 +826,6 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-21T09:57:50+09:00",
-    "failures": [
-        {
-            "source": "takamatsu",
-            "sourceName": "高松競輪",
-            "message": "GET https://tkmtkeirin.blog.fc2.com/?xml returned HTTP 403."
-        }
-    ]
+    "checkedAt": "2026-10-21T15:34:42+09:00",
+    "failures": []
 }
