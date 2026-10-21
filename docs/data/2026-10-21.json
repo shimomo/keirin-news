@@ -2,6 +2,44 @@
     "date": "2026-10-21",
     "articles": [
         {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/info/2026/10/102225-edfe.html",
+            "title": "10月22日～25日　最終発売・バス運行に関するご案内",
+            "url": "https://blog.tachikawakeirin.jp/info/2026/10/102225-edfe.html",
+            "categories": [
+                "トップ固定表示"
+            ],
+            "publishedAt": "2026-10-21T09:34:32+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49300",
+            "title": "【競輪予想】四日市競輪で渡邉雅也が前回完全Vの勢いで好発進狙う 本日のイチオシは本命党におススメの四日市11R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49300",
+            "categories": [],
+            "publishedAt": "2026-10-21T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49302",
+            "title": "【取手競輪・新人記者が突撃取材！】伊藤京介〜勝利の秘訣は“引く”こと？〜",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49302",
+            "categories": [],
+            "publishedAt": "2026-10-21T08:20:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49301",
+            "title": "【京王閣競輪G3ナイター】佐々木悠葵が4回目のG3優勝！「前に踏んで地元勢と勝負だと思いました」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49301",
+            "categories": [],
+            "publishedAt": "2026-10-21T07:15:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49280",
@@ -118,6 +156,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e4%bd%90%e3%80%85%e6%9c%a8%e3%80%80%ef%bd%87%e2%85%a2%ef%bc%94%ef%bd%96%e3%80%80%e4%ba%ac%e7%8e%8b%e9%96%a3%e7%ab%b6%e8%bc%aa%e3%80%8c%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97/",
             "categories": [],
             "publishedAt": "2026-10-21T00:01:38+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19462-20261021",
+            "title": "【月刊競輪WEB】寛仁親王牌優勝・石原颯選手インタビューなど、新着記事配信中！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19462",
+            "categories": [
+                "月刊競輪"
+            ],
+            "publishedAt": "2026-10-21T00:00:00+09:00"
         }
     ]
 }
