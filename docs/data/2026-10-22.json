@@ -2,6 +2,66 @@
     "date": "2026-10-22",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49326",
+            "title": "【熊本G3】欠場(不参加)、追加、補充選手一覧 ※22日9時00分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49326",
+            "categories": [],
+            "publishedAt": "2026-10-22T09:00:00+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6871-20261022",
+            "title": "【CS放送視聴者プレゼント】令和8年熊本地震復興事業 熊本競輪開設76周年記念「火の国杯争奪戦」（ＧⅢ・デイ）",
+            "url": "https://www.kumamotokeirin.jp/news/20261022g3/",
+            "categories": [
+                "イベント情報",
+                "記念競輪（ＧⅢ）",
+                "CS",
+                "ＳＰＥＥＤチャンネル",
+                "クオカード",
+                "スピードチャンネル",
+                "プレゼント",
+                "火の国",
+                "火の国杯",
+                "熊本",
+                "熊本けいりん",
+                "熊本競輪",
+                "熊本記念",
+                "視聴者"
+            ],
+            "publishedAt": "2026-10-22T08:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49328",
+            "title": "【いわき平競輪・ミッドナイト】柳沼鼓太朗 地元初1着も「内容が良くないですね」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49328",
+            "categories": [],
+            "publishedAt": "2026-10-22T08:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49327",
+            "title": "【いわき平競輪・ミッドナイト】十文字悠真 地元デビュー戦は4着「全然ダメですね」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49327",
+            "categories": [],
+            "publishedAt": "2026-10-22T08:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49312",
+            "title": "【競輪賞金ランキング】京王閣G3優勝の佐々木悠葵が8位に浮上",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49312",
+            "categories": [],
+            "publishedAt": "2026-10-22T06:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202610220000003",
@@ -56,6 +116,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%86%8a%e6%9c%ac%ef%bd%87%e2%85%a2%e5%88%9d%e6%97%a5%e3%80%91%e6%9d%be%e6%9c%ac%e7%a7%80%e3%83%bb%e4%bd%90%e8%97%a4%e5%a3%ae%e3%80%80%e5%9c%b0%e5%85%83%e3%81%a7%e6%b0%97%e5%90%88/",
             "categories": [],
             "publishedAt": "2026-10-22T00:01:40+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19466-20261022",
+            "title": "三菱UFJ銀行からのシステムメンテナンスのお知らせについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19466",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-10-22T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19467-20261022",
+            "title": "競輪ネットバンクサービス（KNB）からのお知らせ 令和8年10月一括精算日",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19467",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-10-22T00:00:00+09:00"
         }
     ]
 }
