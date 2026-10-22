@@ -2,6 +2,113 @@
     "date": "2026-10-22",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220002000",
+            "title": "【競輪】神戸暖稀羽は起死回生の２着で「地元」決勝へ、函館市営開催で意地／いわき平ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610220002000.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-22T23:24:25+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001987",
+            "title": "【競輪】７場所白星なしの又多風緑、決勝進出でも不満「これじゃ点数詐欺」／いわき平ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610220001987.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-22T23:20:42+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001935",
+            "title": "【競輪】伊藤梨里花が攻めの走りで決勝切符「決勝は自分で展開を作っていきたい」／前橋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610220001935.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-22T22:41:15+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001914",
+            "title": "【競輪】泉谷直哉が油谷蒼の逃げを差し切り「（油谷は）ごっつ、かかってた」／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610220001914.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-22T22:20:05+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49350",
+            "title": "【四日市競輪・ナイター】A級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49350",
+            "categories": [],
+            "publishedAt": "2026-10-22T22:14:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49349",
+            "title": "【四日市競輪・ナイター】S級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49349",
+            "categories": [],
+            "publishedAt": "2026-10-22T22:06:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13813-20261022",
+            "title": "お問い合わせフォーム一時休止のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13813/",
+            "categories": [
+                "重要",
+                "前橋競輪",
+                "館林場外",
+                "利根西"
+            ],
+            "publishedAt": "2026-10-22T21:40:09+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49348",
+            "title": "【大宮競輪・ガールズ】川上いちご「しっかり出し切って終われるように頑張ります」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49348",
+            "categories": [],
+            "publishedAt": "2026-10-22T21:00:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20172-20261022",
+            "title": "出走表の掲載についてのお知らせ",
+            "url": "https://hiroshima-keirin.com/2026/10/22/%e5%87%ba%e8%b5%b0%e8%a1%a8%e3%81%ae%e6%8e%b2%e8%bc%89%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-10-22T20:58:31+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001410",
+            "title": "【競輪】石田拓真が今期３度目Vに照準「調子はいいので頑張りたい」／四日市",
+            "url": "https://www.nikkansports.com/public_race/news/202610220001410.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-22T19:35:02+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49342",
@@ -369,6 +476,39 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%86%8a%e6%9c%ac%ef%bd%87%e2%85%a2%e5%88%9d%e6%97%a5%e3%80%91%e6%9d%be%e6%9c%ac%e7%a7%80%e3%83%bb%e4%bd%90%e8%97%a4%e5%a3%ae%e3%80%80%e5%9c%b0%e5%85%83%e3%81%a7%e6%b0%97%e5%90%88/",
             "categories": [],
             "publishedAt": "2026-10-22T00:01:40+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/info/info_2026102201.html",
+            "title": "川崎市営川崎競輪ミッドナイト　前検コメはウィンチケット杯（10月24日～10月26日）開催情報",
+            "url": "https://www.kawasakikeirin.com/info/info_2026102201.html",
+            "categories": [
+                "info"
+            ],
+            "publishedAt": "2026-10-22T00:00:00+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/race/kawasaki_winner.html",
+            "title": "川崎競輪場　歴代優勝者情報を更新しました。",
+            "url": "https://www.kawasakikeirin.com/race/kawasaki_winner.html",
+            "categories": [
+                "info"
+            ],
+            "publishedAt": "2026-10-22T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19465-20261022",
+            "title": "『熊本競輪開設76周年記念（GIII）レポート』　初日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/87kumamoto/2026/report_1.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-22T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",

@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-10-23",
         "2026-10-22",
         "2026-10-21",
         "2026-10-20",
@@ -827,7 +828,7 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-22T19:38:54+09:00",
+    "checkedAt": "2026-10-23T00:39:57+09:00",
     "failures": [
         {
             "source": "keirin-marche",
@@ -853,11 +854,6 @@
             "source": "matsudo",
             "sourceName": "松戸競輪",
             "message": "Response body is not valid JSON: Syntax error"
-        },
-        {
-            "source": "hofu",
-            "sourceName": "防府競輪",
-            "message": "GET https://www.hofukeirin.jp/blog/feed/ returned HTTP 503."
         }
     ]
 }
