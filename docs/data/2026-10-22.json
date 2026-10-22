@@ -2,6 +2,139 @@
     "date": "2026-10-22",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49342",
+            "title": "【熊本G3】悔しさにじむ福田稔希へ、眞杉匠が愛ある激励！/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49342",
+            "categories": [],
+            "publishedAt": "2026-10-22T19:33:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49341",
+            "title": "【熊本G3】初日特選3着の眞杉匠は険しい表情「先行するつもりだった。とにかく動きが悪い」/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49341",
+            "categories": [],
+            "publishedAt": "2026-10-22T19:12:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220001045",
+            "title": "【競輪】G1で名前売った室井蓮太朗が参戦「成長するスピード上げる」／奈良",
+            "url": "https://www.nikkansports.com/public_race/news/202610220001045.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-22T17:54:44+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220000969",
+            "title": "【競輪】川上いちごが７車身差の圧勝発進「足の感じは悪くないです」／大宮",
+            "url": "https://www.nikkansports.com/public_race/news/202610220000969.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-22T17:40:04+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49326",
+            "title": "【熊本G3】脇本雄太が途中欠場　欠場(不参加)、追加、補充選手一覧※22日17時30分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49326",
+            "categories": [],
+            "publishedAt": "2026-10-22T17:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49249",
+            "title": "【2027年前期適用級班】森田優弥、窓場千加頼らがS1復帰！ 原田研太朗、青野将大はS2降格",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49249",
+            "categories": [],
+            "publishedAt": "2026-10-22T16:40:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49333",
+            "title": "【熊本G3結果】深谷知広が1着 3連単は17番⼈気の12,660円/熊本地震復興事業火の国杯争奪戦初日特別選抜",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49333",
+            "categories": [],
+            "publishedAt": "2026-10-22T16:34:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220000741",
+            "title": "【競輪】長田龍拳が開幕レース勝利「朝早いレースだったけど思ったより体動いていた」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610220000741.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-22T15:57:15+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220000735",
+            "title": "【競輪】福田稔希、２着にも悔しさ隠さず反省「勝ちたい気持ちを優先したのが…」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610220000735.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-22T15:52:16+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610220000726",
+            "title": "【競輪】27年前期の適用級班を発表　125期の山崎歩夢らが初のＳ級１班に昇級",
+            "url": "https://www.nikkansports.com/public_race/news/202610220000726.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-22T15:43:39+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5792-20261022",
+            "title": "【富山市営FIIミッドナイトin松阪】キャンペーンについて",
+            "url": "https://matsusaka-keirin.jp/new-post/campaign_toyama1021/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-10-22T15:41:56+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20128-20261022",
+            "title": "10月27日（火）・28日（水）の非開催日およびアーバンサイクルスポーツパーク営業時間変更について",
+            "url": "https://hiroshima-keirin.com/2026/10/22/close2610/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-10-22T15:29:00+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5790-20261022",
+            "title": "【お知らせ】ホームぺージについて",
+            "url": "https://matsusaka-keirin.jp/new-post/matsusakakeirin1022/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-10-22T15:06:30+09:00"
+        },
+        {
             "source": "sasebo",
             "sourceName": "佐世保競輪",
             "id": "109589-20261022",
@@ -131,15 +264,6 @@
             "publishedAt": "2026-10-22T09:49:33+09:00"
         },
         {
-            "source": "netkeirin",
-            "sourceName": "netkeirin",
-            "id": "49326",
-            "title": "【熊本G3】欠場(不参加)、追加、補充選手一覧 ※22日9時00分更新",
-            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49326",
-            "categories": [],
-            "publishedAt": "2026-10-22T09:00:00+09:00"
-        },
-        {
             "source": "kumamoto",
             "sourceName": "熊本競輪",
             "id": "6871-20261022",
@@ -265,6 +389,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19467",
             "categories": [
                 "投票関係"
+            ],
+            "publishedAt": "2026-10-22T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19468-20261022",
+            "title": "2027年前期（1～6月）適用級班の決定について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19468",
+            "categories": [
+                "レース情報"
             ],
             "publishedAt": "2026-10-22T00:00:00+09:00"
         }
