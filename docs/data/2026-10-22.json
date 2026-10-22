@@ -2,6 +2,135 @@
     "date": "2026-10-22",
     "articles": [
         {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "109589-20261022",
+            "title": "スマホ投票についてのお知らせ",
+            "url": "https://www.sasebokeirin.jp/109589",
+            "categories": [
+                "INFO",
+                "TOPICS"
+            ],
+            "publishedAt": "2026-10-22T13:28:01+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49332",
+            "title": "【前橋競輪・ミッドナイト】7R・チャレンジ準決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49332",
+            "categories": [],
+            "publishedAt": "2026-10-22T12:32:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49329",
+            "title": "【厳選ナイター&ミッド】準決4連勝中の藤田祐大は四日市5R(17:29発走)！ ほか「車券の軸しっかり」の4戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49329",
+            "categories": [],
+            "publishedAt": "2026-10-22T12:30:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12143-20261022",
+            "title": "【10月22日】スマートフォン投票サービス「T-Linkage」発売中止のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/important_t-linkage/",
+            "categories": [
+                "お知らせ",
+                "重要"
+            ],
+            "publishedAt": "2026-10-22T12:21:28+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49331",
+            "title": "【前橋競輪・ミッドナイト】6R・チャレンジ準決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49331",
+            "categories": [],
+            "publishedAt": "2026-10-22T12:12:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49330",
+            "title": "【前橋競輪・ミッドナイト】5R・チャレンジ準決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49330",
+            "categories": [],
+            "publishedAt": "2026-10-22T12:05:00+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47412-20261022",
+            "title": "【お知らせ】アプリ緊急メンテナンスのお知らせ",
+            "url": "https://nagoyakeirin.com/47412/?utm_source=rss&utm_medium=rss&utm_campaign=47412",
+            "categories": [
+                "未分類"
+            ],
+            "publishedAt": "2026-10-22T10:24:30+09:00"
+        },
+        {
+            "source": "kishiwada",
+            "sourceName": "岸和田競輪",
+            "id": "3630-20261022",
+            "title": "スマホ投票に関するお知らせ",
+            "url": "https://chalionkun.com/news/%e3%82%b9%e3%83%9e%e3%83%9b%e6%8a%95%e7%a5%a8%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-22T10:11:28+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13808-20261022",
+            "title": "【10月22日】スマートフォン投票「T-Linkage」発売中止のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13808/",
+            "categories": [
+                "重要",
+                "前橋競輪",
+                "館林場外",
+                "利根西"
+            ],
+            "publishedAt": "2026-10-22T10:06:04+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "254563-20261022",
+            "title": "岐阜競輪『織田信長杯争奪戦 日刊スポーツ杯 HPCJC杯 けいりんラブ！ラブリン杯（F1）』／2026年10月28日〜30日",
+            "url": "https://morecadence.jp/keirin/254563",
+            "categories": [
+                "競輪",
+                "HPCJC支援競輪",
+                "岐阜競輪場"
+            ],
+            "publishedAt": "2026-10-22T10:00:58+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49271",
+            "title": "【熊本G3予想】脇本雄太、眞杉匠、地元・嘉永泰斗らが集結！ 127期の逸材・猿樂楓樹にも注目、スピードバンク攻略のカギは？/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49271",
+            "categories": [],
+            "publishedAt": "2026-10-22T10:00:00+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "37527-20261022",
+            "title": "【重要】四日市競輪スマホ投票について（10/22）",
+            "url": "https://yokkaichikeirin.com/37527/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-22T09:49:33+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49326",

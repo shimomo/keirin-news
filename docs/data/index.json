@@ -827,22 +827,27 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-22T09:14:04+09:00",
+    "checkedAt": "2026-10-22T14:22:05+09:00",
     "failures": [
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "message": "GET https://keirin-marche.jp/feed/ returned HTTP 503."
+        },
+        {
+            "source": "girls-keirin",
+            "sourceName": "ガールズケイリン",
+            "message": "GET https://keirin-marche.jp/girlskeirin/news/feed/ returned HTTP 503."
+        },
         {
             "source": "ctc",
             "sourceName": "CTC グレードレース情報",
-            "message": "GET http://graderace.com/wp-json/wp/v2/prospect?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T00%3A14%3A03%2B00%3A00 returned HTTP 502."
+            "message": "GET http://graderace.com/wp-json/wp/v2/prospect?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T05%3A22%3A04%2B00%3A00 failed: Idle timeout reached for \"http://graderace.com/wp-json/wp/v2/prospect?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T05%3A22%3A04%2B00%3A00\"."
         },
         {
             "source": "hiratsuka",
             "sourceName": "平塚競輪",
-            "message": "GET https://www.shonanbank.com/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T00%3A14%3A03%2B00%3A00 returned HTTP 502."
-        },
-        {
-            "source": "matsusaka",
-            "sourceName": "松阪競輪",
-            "message": "GET https://matsusaka-keirin.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T00%3A14%3A03%2B00%3A00 returned HTTP 502."
+            "message": "GET https://www.shonanbank.com/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T05%3A22%3A04%2B00%3A00 failed: Idle timeout reached for \"https://www.shonanbank.com/wp-json/wp/v2/news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-20T05%3A22%3A04%2B00%3A00\"."
         },
         {
             "source": "hofu",
