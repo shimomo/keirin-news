@@ -2,6 +2,266 @@
     "date": "2026-10-23",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49375",
+            "title": "防府競輪場で69万8390円車券が飛び出す/みんなの競輪杯初日",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49375",
+            "categories": [],
+            "publishedAt": "2026-10-23T20:40:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001495",
+            "title": "【競輪】東矢圭吾が唯一の連勝ゴールに成功「出来過ぎています」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001495.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T20:10:47+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001490",
+            "title": "【競輪】三谷竜生が準決一番乗り決めた「やっとセッティングが出てきた」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001490.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T20:10:15+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001379",
+            "title": "【競輪】初の地元戦に緊張する牧田咲子「今回の目標は決勝に乗ること」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610230001379.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-23T20:01:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001374",
+            "title": "【競輪】半田水晶は技術面を磨き上を目指す「ペダリングなどにフォーカスして練習」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610230001374.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-23T20:00:39+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001404",
+            "title": "【競輪】川上いちごが決勝で児玉碧衣と初対決「児玉さんを前に出させたら勝ち目はない」／大宮",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001404.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T19:59:56+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001427",
+            "title": "【競輪】高本美穂が大宮で初の決勝進出「今までいい成績を残せなかったのでうれしい」／大宮",
+            "url": "https://www.nikkansports.com/public_race/news/202610230001427.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T19:59:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001399",
+            "title": "【競輪】松井優佳はネガティブ発言に終始「走ってみないことには…」／青森ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610230001399.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-23T19:58:58+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230001445",
+            "title": "【競輪】３度目の地元戦を迎えた松下彩也香「スピード練習の成果を出したい」／青森ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610230001445.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-23T19:58:27+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49372",
+            "title": "【大宮競輪】A級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49372",
+            "categories": [],
+            "publishedAt": "2026-10-23T19:38:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49371",
+            "title": "【熊本G3】眞杉匠との初連係終えた福田稔希が猛省「主導権を取りに行かないと」/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49371",
+            "categories": [],
+            "publishedAt": "2026-10-23T19:10:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49370",
+            "title": "【青森競輪・ミッドナイト】A級初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49370",
+            "categories": [],
+            "publishedAt": "2026-10-23T18:28:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49369",
+            "title": "【前橋競輪・ミッドナイト】チャレンジ決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49369",
+            "categories": [],
+            "publishedAt": "2026-10-23T18:16:00+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6899-20261023",
+            "title": "【出走表】令和8年熊本地震復興事業 熊本競輪開設76周年記念「火の国杯争奪戦」GⅢ",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%87%ba%e8%b5%b0%e8%a1%a8%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad-%e7%86%8a%e6%9c%ac%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad/",
+            "categories": [
+                "お知らせ",
+                "レース情報",
+                "記念競輪（ＧⅢ）",
+                "2026",
+                "76周年",
+                "ＧⅢ",
+                "火の国杯",
+                "記念"
+            ],
+            "publishedAt": "2026-10-23T18:12:57+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49326",
+            "title": "【熊本G3】欠場(不参加)、追加、補充選手一覧※23日17時53分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49326",
+            "categories": [],
+            "publishedAt": "2026-10-23T17:53:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49366",
+            "title": "【前橋競輪・ミッドナイト】ガールズ決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49366",
+            "categories": [],
+            "publishedAt": "2026-10-23T17:53:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "351",
+            "title": "10/25(日)　開催イベントの開催可否について(10/24 17:00に決定)",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/351",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-10-23T17:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49365",
+            "title": "【熊本G3予想】眞杉匠、嘉永泰斗ら27名が準決勝へ 成田和也は敗退/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49365",
+            "categories": [],
+            "publishedAt": "2026-10-23T17:27:00+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "4607-20261023",
+            "title": "静岡駅の無料送迎バスについて【１０月２３日更新】",
+            "url": "https://www.shizuoka38.jp/information/4607",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-23T17:00:57+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/10/post-fe68.html",
+            "title": "「うつのみやＫＥＩＲＩＮフェスティバル２０２６」を開催します！",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/10/post-fe68.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-10-23T17:00:56+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230000893",
+            "title": "【競輪】「同じ愛知県だし名古屋も気持ちは入りますね」富永益生は追加参戦にも気合十分／名古屋",
+            "url": "https://www.nikkansports.com/public_race/news/202610230000893.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T16:33:53+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/info/2026/10/in-19de.html",
+            "title": "施設整備等協賛競輪in立川 特設サイトを公開しました",
+            "url": "https://blog.tachikawakeirin.jp/info/2026/10/in-19de.html",
+            "categories": [],
+            "publishedAt": "2026-10-23T16:31:45+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49362",
+            "title": "【熊本G3結果】嘉永泰斗が1着 3連単は21番⼈気の8,030円/火の国杯争奪戦二次予選(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49362",
+            "categories": [],
+            "publishedAt": "2026-10-23T16:31:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230000808",
+            "title": "【競輪】尾野翔一は連続完全Ｖ目指す「今の調子なら特昇を狙える」／小松島",
+            "url": "https://www.nikkansports.com/public_race/news/202610230000808.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T16:11:10+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49361",
+            "title": "【小松島競輪】S級初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49361",
+            "categories": [],
+            "publishedAt": "2026-10-23T15:49:00+09:00"
+        },
+        {
             "source": "hiroshima",
             "sourceName": "広島競輪",
             "id": "20177-20261023",
@@ -71,7 +331,7 @@
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49360",
-            "title": "【熊本G3】師弟として初のワンツーを達成した合志正臣/火の国杯争奪戦",
+            "title": "【熊本G3】判断力光った合志正臣が瓜生崇智と初の師弟ワンツー/火の国杯争奪戦",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49360",
             "categories": [],
             "publishedAt": "2026-10-23T13:22:00+09:00"
@@ -84,24 +344,6 @@
             "url": "https://keirin-marche.jp/enjoy/media/media401/",
             "categories": [],
             "publishedAt": "2026-10-23T12:41:25+09:00"
-        },
-        {
-            "source": "kumamoto",
-            "sourceName": "熊本競輪",
-            "id": "6899-20261023",
-            "title": "【出走表】令和8年熊本地震復興事業 熊本競輪開設76周年記念「火の国杯争奪戦」GⅢ",
-            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%87%ba%e8%b5%b0%e8%a1%a8%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad-%e7%86%8a%e6%9c%ac%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad/",
-            "categories": [
-                "お知らせ",
-                "レース情報",
-                "記念競輪（ＧⅢ）",
-                "2026",
-                "76周年",
-                "ＧⅢ",
-                "火の国杯",
-                "記念"
-            ],
-            "publishedAt": "2026-10-23T12:18:07+09:00"
         },
         {
             "source": "nikkansports",
@@ -222,6 +464,28 @@
                 "ミッドナイト競輪"
             ],
             "publishedAt": "2026-10-23T00:03:13+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/info/ctc2026.html",
+            "title": "【11月度追加】CTC投票で当たる!!「肉球キャンペーン」",
+            "url": "https://www.kawasakikeirin.com/info/ctc2026.html",
+            "categories": [
+                "event"
+            ],
+            "publishedAt": "2026-10-23T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19465-20261023",
+            "title": "『熊本競輪開設76周年記念（GIII）レポート』　2日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/87kumamoto/2026/report_2.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-23T00:00:00+09:00"
         }
     ]
 }
