@@ -2,6 +2,128 @@
     "date": "2026-10-23",
     "articles": [
         {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20177-20261023",
+            "title": "【開催延期のお知らせ】10/25（日）アーバンスポーツフェスティバル2026 Autumn ＆ やるきっずスマイルマルシェ",
+            "url": "https://hiroshima-keirin.com/2026/10/23/%e3%80%90%e9%96%8b%e5%82%ac%e4%b8%ad%e6%ad%a2%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%9110-25%ef%bc%88%e6%97%a5%ef%bc%89%e3%82%a2%e3%83%bc%e3%83%90%e3%83%b3%e3%82%b9%e3%83%9d%e3%83%bc/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-23T15:20:00+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "37727-20261023",
+            "title": "【期間限定】ガチャガチャ設置のお知らせ",
+            "url": "https://yokkaichikeirin.com/37727/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-23T15:17:32+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "37716-20261023",
+            "title": "１１月イベントスケジュール(１０/２３更新)",
+            "url": "https://yokkaichikeirin.com/37716/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-23T15:15:22+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "68399-20261023",
+            "title": "おさいふパンパン！けいりん！マダムッシュ★",
+            "url": "https://kyoto-mukomachikeirin.com/68399/",
+            "categories": [
+                "大人気❤"
+            ],
+            "publishedAt": "2026-10-23T15:01:55+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "33078-20261023",
+            "title": "初日🚲モーニング競輪 みんなの競輪杯／第５４回 幸せますカップ【FⅡ】☀",
+            "url": "https://www.hofukeirin.jp/blog/20261023/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-10-23T14:17:15+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "580",
+            "title": "10月30日（金）FM香川「競輪にい講座！」のゲストは大林亮介選手です",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-580.html",
+            "categories": [
+                "FM香川"
+            ],
+            "publishedAt": "2026-10-23T13:54:34+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49360",
+            "title": "【熊本G3】師弟として初のワンツーを達成した合志正臣/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49360",
+            "categories": [],
+            "publishedAt": "2026-10-23T13:22:00+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115652-20261023",
+            "title": "10月23日(金)に『自転車トラック世界選手権』のダイジェスト番組を日テレで放送！",
+            "url": "https://keirin-marche.jp/enjoy/media/media401/",
+            "categories": [],
+            "publishedAt": "2026-10-23T12:41:25+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6899-20261023",
+            "title": "【出走表】令和8年熊本地震復興事業 熊本競輪開設76周年記念「火の国杯争奪戦」GⅢ",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%87%ba%e8%b5%b0%e8%a1%a8%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad-%e7%86%8a%e6%9c%ac%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad/",
+            "categories": [
+                "お知らせ",
+                "レース情報",
+                "記念競輪（ＧⅢ）",
+                "2026",
+                "76周年",
+                "ＧⅢ",
+                "火の国杯",
+                "記念"
+            ],
+            "publishedAt": "2026-10-23T12:18:07+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610230000295",
+            "title": "【競輪】富武大が急病のため当日欠場／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610230000295.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-23T12:08:02+09:00"
+        },
+        {
+            "source": "girls-keirin",
+            "sourceName": "ガールズケイリン",
+            "id": "9520-20261023",
+            "title": "＜後編＞ソフトボール実業団から転向の130期・伊藤梨里花 9月に優勝！夢のグランプリへ【松本直のガールズケイリンちょっとイイ話】",
+            "url": "https://keirin-marche.jp/girlskeirin/news/2026/10/matsumoto43-2/",
+            "categories": [],
+            "publishedAt": "2026-10-23T10:39:25+09:00"
+        },
+        {
             "source": "kumamoto",
             "sourceName": "熊本競輪",
             "id": "6853-20261023",
