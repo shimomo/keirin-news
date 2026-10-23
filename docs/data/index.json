@@ -828,18 +828,8 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-23T07:45:46+09:00",
+    "checkedAt": "2026-10-23T09:58:58+09:00",
     "failures": [
-        {
-            "source": "keirin-marche",
-            "sourceName": "けいりんマルシェ",
-            "message": "GET https://keirin-marche.jp/feed/ returned HTTP 503."
-        },
-        {
-            "source": "girls-keirin",
-            "sourceName": "ガールズケイリン",
-            "message": "GET https://keirin-marche.jp/girlskeirin/news/feed/ returned HTTP 503."
-        },
         {
             "source": "omiya",
             "sourceName": "大宮競輪",

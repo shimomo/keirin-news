@@ -2,6 +2,75 @@
     "date": "2026-10-23",
     "articles": [
         {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6853-20261023",
+            "title": "【参加者募集】熊本バンク試乗イベント開催【11/15㊐】",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%8f%82%e5%8a%a0%e8%80%85%e5%8b%9f%e9%9b%86%e3%80%91%e7%86%8a%e6%9c%ac%e3%83%90%e3%83%b3%e3%82%af%e8%a9%a6%e4%b9%97%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e9%96%8b%e5%82%ac%e3%80%9011-15/",
+            "categories": [
+                "イベント情報",
+                "イベント",
+                "バンク",
+                "募集",
+                "参加",
+                "熊本",
+                "熊本けいりん",
+                "熊本競輪",
+                "熊本競輪場",
+                "試乗",
+                "試乗会",
+                "試走",
+                "試走会",
+                "選手会"
+            ],
+            "publishedAt": "2026-10-23T10:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49356",
+            "title": "【熊本G3】地元記念初陣は悔しい結果に終わった松本秀之慎/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49356",
+            "categories": [],
+            "publishedAt": "2026-10-23T09:31:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49355",
+            "title": "【熊本G3】気持ち入っている久田裕也が好発進/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49355",
+            "categories": [],
+            "publishedAt": "2026-10-23T09:24:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49354",
+            "title": "【いわき平競輪・ガールズ】ガールズ決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49354",
+            "categories": [],
+            "publishedAt": "2026-10-23T09:07:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49353",
+            "title": "【いわき平競輪・ミッドナイト】鈴木那樹 6場所ぶりのVへ「まずは自分の力を出し切れるようにしたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49353",
+            "categories": [],
+            "publishedAt": "2026-10-23T08:56:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49352",
+            "title": "【いわき平競輪・ガールズ】体調不良明けの高木萌那が連勝「初日より体調が良くなった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49352",
+            "categories": [],
+            "publishedAt": "2026-10-23T08:51:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49336",
