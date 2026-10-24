@@ -2,6 +2,90 @@
     "date": "2026-10-24",
     "articles": [
         {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "352",
+            "title": "【10/25（日）開催イベントの実施について】",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/352",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-10-24T17:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49385",
+            "title": "【熊本G3結果】地元・嘉永泰斗が連勝！ 3連単は84番⼈気の32,650円/火の国杯争奪戦準決勝(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49385",
+            "categories": [],
+            "publishedAt": "2026-10-24T16:35:00+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "33095-20261024",
+            "title": "明日決勝🏆モーニング競輪 みんなの競輪杯／第５４回 幸せますカップ【FⅡ】☀",
+            "url": "https://www.hofukeirin.jp/blog/20261024/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-10-24T15:05:22+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49384",
+            "title": "【熊本G3】敗者戦白星もライン決着ならず 表情険しい阿部将大「自力で戦った方が断然、楽です」/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49384",
+            "categories": [],
+            "publishedAt": "2026-10-24T14:40:00+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61635-20261024",
+            "title": "犬伏湧也選手KEIRINグランプリ2026出場壮行会実施のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2026/10/24/%e7%8a%ac%e4%bc%8f%e6%b9%a7%e4%b9%9f%e9%81%b8%e6%89%8bkeirin%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa2026/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-24T13:07:40+09:00"
+        },
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "109607-20261024",
+            "title": "競輪教室について",
+            "url": "https://www.sasebokeirin.jp/109607",
+            "categories": [
+                "EVENT",
+                "INFO"
+            ],
+            "publishedAt": "2026-10-24T12:33:16+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49383",
+            "title": "【厳選ナイター&ミッド】 沢田桂太郎、藤田楓、邊見竜馬ら\"1着量産\"の新鋭ズラリ！/「車券の軸しっかり」の8戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49383",
+            "categories": [],
+            "publishedAt": "2026-10-24T12:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610210000216",
+            "title": "【ボート】米丸乃絵初優勝記念アクリルスタンド＆シールセットを販売【11/8まで】",
+            "url": "https://www.nikkansports.com/public_race/info/news/202610210000216.html",
+            "categories": [
+                "ボート競輪オートライブ速報"
+            ],
+            "publishedAt": "2026-10-24T12:00:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49376",
