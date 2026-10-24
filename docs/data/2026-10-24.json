@@ -2,6 +2,95 @@
     "date": "2026-10-24",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49326",
+            "title": "【熊本G3】欠場(不参加)、追加、補充選手一覧※24日19時51分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49326",
+            "categories": [],
+            "publishedAt": "2026-10-24T19:51:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001110",
+            "title": "【競輪】枝村弘樹がホームカマシで逃げ切り勝ち「仕掛けたタイミングが良かった」／名古屋",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001110.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-24T19:28:30+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001042",
+            "title": "【競輪】賞金争い正念場の松本貴治は右肩上がりの気配「日に日に良くなっている」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001042.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-24T19:26:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001028",
+            "title": "【競輪】土田武志が初戦を快勝　５場所前のフレーム交換から好調維持「車が良く進む」／小松島",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001028.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-24T18:52:34+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49391",
+            "title": "【熊本G3】内容の濃いレースで決勝に勝ち上がった深谷知広「自分も優勝を狙って」/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49391",
+            "categories": [],
+            "publishedAt": "2026-10-24T18:49:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20107-20261024",
+            "title": "【11月7日開催】「バンク走行体験」参加者募集（各回先着30名・事前申込制）",
+            "url": "https://hiroshima-keirin.com/2026/10/24/event1107/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-24T18:17:39+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6899-20261024",
+            "title": "【出走表】令和8年熊本地震復興事業 熊本競輪開設76周年記念「火の国杯争奪戦」GⅢ",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%87%ba%e8%b5%b0%e8%a1%a8%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad-%e7%86%8a%e6%9c%ac%e7%ab%b6%e8%bc%aa%e9%96%8b%e8%a8%ad/",
+            "categories": [
+                "お知らせ",
+                "レース情報",
+                "記念競輪（ＧⅢ）",
+                "2026",
+                "76周年",
+                "ＧⅢ",
+                "火の国杯",
+                "記念"
+            ],
+            "publishedAt": "2026-10-24T17:42:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49390",
+            "title": "【小松島競輪】中野光太郎「今回からフレームを変えたんですよ」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49390",
+            "categories": [],
+            "publishedAt": "2026-10-24T17:15:00+09:00"
+        },
+        {
             "source": "takeo",
             "sourceName": "武雄競輪",
             "id": "352",
@@ -11,6 +100,26 @@
                 "EVENT"
             ],
             "publishedAt": "2026-10-24T17:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240000786",
+            "title": "【競輪】選手会熊本支部が熊本城災害復旧支援のチャリティーオークションを実施／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610240000786.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-24T16:52:25+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49382",
+            "title": "【熊本G3予想】嘉永泰斗、眞杉匠らが決勝へ　地元の中川誠一郎は敗退/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49382",
+            "categories": [],
+            "publishedAt": "2026-10-24T16:38:00+09:00"
         },
         {
             "source": "netkeirin",
@@ -111,6 +220,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49380",
             "categories": [],
             "publishedAt": "2026-10-24T08:53:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19465-20261024",
+            "title": "『熊本競輪開設76周年記念（GIII）レポート』　3日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/87kumamoto/2026/report_3.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-24T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",
