@@ -2,6 +2,70 @@
     "date": "2026-10-24",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001913",
+            "title": "【競輪】尾崎悠生が復調ムード「やりたい練習ができるようになった」／青森ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610240001913.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-24T23:28:44+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001906",
+            "title": "【競輪】川崎バンク初参戦の赤池七虹は好感触「軽くて走りやすかった」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610240001906.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-24T23:22:11+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001891",
+            "title": "【競輪】山口優依が苦しい展開しのいで２着確保「足は悪くないのかな」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610240001891.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-24T23:20:52+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001883",
+            "title": "【競輪】岡田優歩が４カ月ぶりの勝利に笑顔「だいぶ感じが戻ってきたかな」／青森ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610240001883.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-24T23:07:43+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610240001795",
+            "title": "【競輪】脇本勇希が準決をまくりで勝利「感覚が初日より良くなっていた」／奈良",
+            "url": "https://www.nikkansports.com/public_race/news/202610240001795.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-24T22:42:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49394",
+            "title": "【熊本G3】S級決勝インタビュー/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49394",
+            "categories": [],
+            "publishedAt": "2026-10-24T21:38:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49326",
