@@ -2,6 +2,173 @@
     "date": "2026-10-25",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001181",
+            "title": "【競輪】４日間の総売り上げは目標をクリア／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001181.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T18:44:34+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001087",
+            "title": "【競輪】北村貴幸は抗がん剤治療を終えて２カ月ぶりに復帰「しっかり向き合う」／小田原",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001087.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T18:32:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001126",
+            "title": "【競輪】猿楽楓樹が生まれ故郷で白星締め「知り合いも結構いたけど見ないようにした」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001126.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T18:30:38+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49414",
+            "title": "【熊本G3】決勝レース後2〜9着コメント・嘉永泰斗「悔しいですね、毎年毎年」/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49414",
+            "categories": [],
+            "publishedAt": "2026-10-25T17:54:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49415",
+            "title": "【熊本G3】優勝者インタビュー！/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49415",
+            "categories": [],
+            "publishedAt": "2026-10-25T17:49:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "353",
+            "title": "【イベント報告】10/25（日）たけお競輪まるごと体験プロジェクト「ハロウィングッズづくり＆場内トリックオアトリート」",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/353",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-10-25T17:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49413",
+            "title": "【小松島競輪】S級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49413",
+            "categories": [],
+            "publishedAt": "2026-10-25T17:22:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250000919",
+            "title": "【競輪】阿部力也はG1で決勝進出後の初戦「２度とないぐらい調子が良かった」／京王閣",
+            "url": "https://www.nikkansports.com/public_race/news/202610250000919.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T17:11:54+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250000888",
+            "title": "【競輪】小川達也が逃げ粘り２着「やっと戻ってきた」チャレンジから巻き返す／小松島",
+            "url": "https://www.nikkansports.com/public_race/news/202610250000888.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T16:40:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49409",
+            "title": "【熊本G3結果】山口拳矢が優勝！ 地元・嘉永泰斗は2着、3連単は12,670円/火の国杯争奪戦決勝",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49409",
+            "categories": [],
+            "publishedAt": "2026-10-25T16:38:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49408",
+            "title": "【京王閣競輪・新人記者が突撃取材！】山本康旗、初めてのレースは“ホカホカ”に",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49408",
+            "categories": [],
+            "publishedAt": "2026-10-25T16:34:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49407",
+            "title": "【京王閣競輪・ナイター】ほろ苦いG1デビューとなった桑名僚也",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49407",
+            "categories": [],
+            "publishedAt": "2026-10-25T16:26:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49406",
+            "title": "【京王閣競輪・ナイター】世界選手権ケイリン銅メダリスト中野慎詞が凱旋",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49406",
+            "categories": [],
+            "publishedAt": "2026-10-25T16:23:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49405",
+            "title": "【熊本G3】菅田壱道が勝負の競輪祭へ思いを込める/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49405",
+            "categories": [],
+            "publishedAt": "2026-10-25T16:17:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49404",
+            "title": "【熊本G3】藤井栄二「番手回りが増えてきたし、そういうときは仕事をしっかり」/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49404",
+            "categories": [],
+            "publishedAt": "2026-10-25T15:41:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "346",
+            "title": "【11月】たけお競輪まるごと体験プロジェクト！ 次回11/8（日）「地元選手応援グッズづくり」（家族そろって武雄競輪場で楽しめるイベント満載）",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/346",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-10-25T15:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49403",
+            "title": "【熊本G3】猿樂楓樹が初の熊本出走を振り返る/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49403",
+            "categories": [],
+            "publishedAt": "2026-10-25T15:05:00+09:00"
+        },
+        {
             "source": "hofu",
             "sourceName": "防府競輪",
             "id": "33121-20261025",
@@ -61,6 +228,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49400",
             "categories": [],
             "publishedAt": "2026-10-25T09:03:00+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "11481-20261025",
+            "title": "【静岡競輪】「競輪データならBetimo杯」（ＦⅡ・ミッドナイト・ガールズ）",
+            "url": "https://www.shizuoka38.jp/information/11481",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-25T09:00:13+09:00"
         },
         {
             "source": "netkeirin",
