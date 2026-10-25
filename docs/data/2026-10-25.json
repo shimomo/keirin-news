@@ -2,6 +2,58 @@
     "date": "2026-10-25",
     "articles": [
         {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "33121-20261025",
+            "title": "🏆決勝🏆モーニング競輪 みんなの競輪杯／第５４回 幸せますカップ【FⅡ】☀",
+            "url": "https://www.hofukeirin.jp/blog/20261025/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-10-25T14:03:28+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "12642-20261025",
+            "title": "Dome.com2026年11月号公開のお知らせ！",
+            "url": "https://www.maebashi-keirin.jp/news/news-12642/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-10-25T13:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49401",
+            "title": "【厳選ナイター&ミッド】青森9Rは来期S級の地元・齊藤英伊須がダンゼン(23:20)！ ほか/「車券の軸しっかり」の7戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49401",
+            "categories": [],
+            "publishedAt": "2026-10-25T12:35:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12170-20261025",
+            "title": "【どなたでも参加OK！】１１月１５日(日)『星空観測会 in JOMONバンク』実施のお知らせ",
+            "url": "https://aomorikeirin.com/event/uncategorized/stargazing_event/",
+            "categories": [],
+            "publishedAt": "2026-10-25T11:00:28+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61644-20261025",
+            "title": "2027年版競輪カレンダーをプレゼント！",
+            "url": "https://www.komatsushimakeirin.com/2026/10/25/2027calendar/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-25T10:18:28+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49400",
