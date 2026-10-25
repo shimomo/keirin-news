@@ -1,0 +1,63 @@
+{
+    "date": "2026-10-25",
+    "articles": [
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49400",
+            "title": "【熊本G3】動き軽快な福永大智が2勝目奪取/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49400",
+            "categories": [],
+            "publishedAt": "2026-10-25T09:03:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49399",
+            "title": "【熊本G3】徳永哲人が地元記念初勝利/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49399",
+            "categories": [],
+            "publishedAt": "2026-10-25T08:58:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49398",
+            "title": "【青森競輪・ミッドナイト】2着で準決の権利を掴んだ渡邉直弥「脚に刺激が入ってない感じ」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49398",
+            "categories": [],
+            "publishedAt": "2026-10-25T08:53:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49397",
+            "title": "熊本競輪G3（準決勝）レポート【決勝進出の9選手コメント】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49397",
+            "categories": [],
+            "publishedAt": "2026-10-25T08:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19479-20261025",
+            "title": "三井住友銀行からのシステムメンテナンスのお知らせについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19479",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-10-25T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19480-20261025",
+            "title": "ゆうちょ銀行からのシステムメンテナンスのお知らせについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19480",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-10-25T00:00:00+09:00"
+        }
+    ]
+}
