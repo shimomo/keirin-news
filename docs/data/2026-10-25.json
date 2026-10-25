@@ -4,6 +4,70 @@
         {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
+            "id": "202610250001950",
+            "title": "【競輪】篠崎新純が１着でガールズケイリン歴代最高配当が飛び出す大波乱／青森ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610250001950.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-25T23:13:25+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001931",
+            "title": "【競輪】西島叶子が決勝こそ自力を出す／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610250001931.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-25T23:02:47+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001926",
+            "title": "【競輪】熊谷芽緯は決勝も積極的に動く「初日のレースが自信になっている」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610250001926.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-25T22:58:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001707",
+            "title": "【競輪】小玉拓真は一気のカマシで決勝切符、相手の動きを冷静に見極めて決着／名古屋",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001707.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T22:02:01+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49420",
+            "title": "青森競輪場で179万3250円車券が飛び出す/Betimo杯×赤競杯2日目",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49420",
+            "categories": [],
+            "publishedAt": "2026-10-25T21:10:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610250001204",
+            "title": "【競輪】山口拳矢が２カ月連続G3制覇「隙を逃さず行ければと思っていた」／熊本G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610250001204.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-25T18:52:02+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
             "id": "202610250001181",
             "title": "【競輪】４日間の総売り上げは目標をクリア／熊本G3",
             "url": "https://www.nikkansports.com/public_race/news/202610250001181.html",
@@ -266,6 +330,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49397",
             "categories": [],
             "publishedAt": "2026-10-25T08:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19465-20261025",
+            "title": "『熊本競輪開設76周年記念（GIII）レポート』　最終日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/87kumamoto/2026/report_4.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-25T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",
