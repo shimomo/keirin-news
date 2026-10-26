@@ -2,6 +2,70 @@
     "date": "2026-10-26",
     "articles": [
         {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【10月27日（火）】タケマルナイトレース「サテライトみぞべカップ」１日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-10-26T17:00:00+09:00"
+        },
+        {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12273-20261026",
+            "title": "養成所へ入所して1番驚いたことは？131回生・132回生の声で知る養成所生活",
+            "url": "https://keirin-jik.jp/article/12273/",
+            "categories": [],
+            "publishedAt": "2026-10-26T15:51:10+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260000872",
+            "title": "【競輪】復調してきた松坂侑亮が同県同姓ワンツー導く「いい結果で終わりたい」／小田原",
+            "url": "https://www.nikkansports.com/public_race/news/202610260000872.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-26T15:28:56+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "254576-20261026",
+            "title": "ナショナルチームには福岡ゆかりの選手も多数！久留米競輪『ウィンチケット杯×HPCJC（F1ナイター）』／2026年11月1日〜3日・福岡",
+            "url": "https://morecadence.jp/keirin/254576",
+            "categories": [
+                "競輪",
+                "HPCJC支援競輪",
+                "久留米競輪場"
+            ],
+            "publishedAt": "2026-10-26T11:43:17+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49421",
+            "title": "【熊本G3・総売上】58億2393万4700円 目標額を上回る/火の国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49421",
+            "categories": [],
+            "publishedAt": "2026-10-26T11:00:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "204",
+            "title": "【10/27（火）▶29（木）】タケマルナイトレース「サテライトみぞべカップ」 番組視聴者プレゼント！",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/204",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-10-26T10:30:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49426",
@@ -9,6 +73,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49426",
             "categories": [],
             "publishedAt": "2026-10-26T10:12:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "350",
+            "title": "【10/27（火）▶29（木）】タケマルナイトレース「サテライトみぞべカップ」武雄競輪場内 本場ファンサービス！〈本格焼酎が当たる！ラッキーカード抽選会〉",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/350",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-10-26T09:30:00+09:00"
         },
         {
             "source": "hakodate",
@@ -49,6 +124,39 @@
                 "ミッドナイト競輪"
             ],
             "publishedAt": "2026-10-26T01:06:51+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19481-20261026",
+            "title": "高佐　龍太郎選手が10/27～29久留米競輪で特別昇班に挑戦！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19481",
+            "categories": [
+                "選手"
+            ],
+            "publishedAt": "2026-10-26T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19483-20261026",
+            "title": "KEIRINグランプリ2026 オフィシャル観戦バスツアー(有料)のお知らせ",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/news/2026khn/10/pdf/20261026_1500.pdf",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-26T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19484-20261026",
+            "title": "メンテナンスに伴う競輪公式投票CTCホームページの一時停止について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19484",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-10-26T00:00:00+09:00"
         }
     ]
 }
