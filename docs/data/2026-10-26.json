@@ -2,6 +2,134 @@
     "date": "2026-10-26",
     "articles": [
         {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12217-20261026",
+            "title": "【青森競輪】JOMON GP『日刊スポーツ杯/オッズパーク杯』フォロー＆リポストキャンペーンのお知らせ！",
+            "url": "https://aomorikeirin.com/event/uncategorized/10-29fororipo/",
+            "categories": [],
+            "publishedAt": "2026-10-26T22:56:16+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49438",
+            "title": "【京王閣競輪・新人記者が突撃取材！】中田拓也 「なかたー！」の声援に背中を押されて",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49438",
+            "categories": [],
+            "publishedAt": "2026-10-26T22:49:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260001671",
+            "title": "【競輪】村田祐樹が初戦をまくり快勝と気配は上昇傾向「もう少しセッティングを」／京王閣",
+            "url": "https://www.nikkansports.com/public_race/news/202610260001671.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-26T21:25:12+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260001582",
+            "title": "【競輪】北野武史は今期８場所すべてで決勝進出「調子は悪くないし優勝したい」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610260001582.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-26T20:08:31+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260001565",
+            "title": "【競輪】桜木雄太が劇的復活へ「ドラマチックストーリーを見せられるように」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610260001565.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-26T19:57:43+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260001536",
+            "title": "【競輪】先行職人の増成富夫は通算700勝で参戦も「ゼロからのスタートですよ」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202610260001536.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-26T19:46:28+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49437",
+            "title": "【京王閣競輪・ナイター】88点の前田義和が81点を相手に大苦戦「苦手意識が強すぎて…」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49437",
+            "categories": [],
+            "publishedAt": "2026-10-26T19:15:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260001229",
+            "title": "【競輪】又多風緑は梅川風子対策へ余念なし「うまく仕掛けられるよう頑張る」／大垣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610260001229.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-26T17:48:39+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610260001221",
+            "title": "【競輪】小嶋敬二はジャイアンツ愛語りつつ、Ｓ級点確保へ気合十分／大垣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610260001221.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-26T17:36:22+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61683-20261026",
+            "title": "週間ポンスターvol.520 小松島競輪（FⅠ）『けいりんラブ！ラブリン杯』のA級優勝は尾野翔一選手(福岡・127期)、S級優勝は村田雅一選手(兵庫・90期)でした！",
+            "url": "https://www.komatsushimakeirin.com/ponstar/%e9%80%b1%e9%96%93%e3%83%9d%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bcvol-520-%e5%b0%8f%e6%9d%be%e5%b3%b6%e7%ab%b6%e8%bc%aa%ef%bc%88f%e2%85%b0%ef%bc%89%e3%80%8e%e3%81%91%e3%81%84%e3%82%8a%e3%82%93%e3%83%a9/",
+            "categories": [
+                "週間ポンスター",
+                "週間ポンスター"
+            ],
+            "publishedAt": "2026-10-26T17:16:51+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257062-20261026",
+            "title": "新宿、羽田、仙台からいわきへ！『KEIRINグランプリ2026』オフィシャルバスツアー開催決定",
+            "url": "https://morecadence.jp/keirin/257062",
+            "categories": [
+                "競輪",
+                "KEIRINグランプリ2026",
+                "road to GP2026",
+                "いわき平競輪場"
+            ],
+            "publishedAt": "2026-10-26T17:05:11+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49431",
+            "title": "【KEIRINグランプリ2026】オフィシャル観戦バスツアーの参加者募集！出発地は新宿・羽田空港・仙台",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49431",
+            "categories": [],
+            "publishedAt": "2026-10-26T17:00:00+09:00"
+        },
+        {
             "source": "takeo",
             "sourceName": "武雄競輪",
             "id": "87",
@@ -11,6 +139,38 @@
                 "RACE"
             ],
             "publishedAt": "2026-10-26T17:00:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257060-20261026",
+            "title": "『KEIRINグランプリ2026』いわき平競輪場特別観覧席の抽選スタート 11月26日まで",
+            "url": "https://morecadence.jp/keirin/257060",
+            "categories": [
+                "競輪",
+                "KEIRINグランプリ2026",
+                "road to GP2026",
+                "いわき平競輪場"
+            ],
+            "publishedAt": "2026-10-26T16:51:11+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49433",
+            "title": "【武雄競輪・ナイター】A級初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49433",
+            "categories": [],
+            "publishedAt": "2026-10-26T16:45:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49432",
+            "title": "【JKA】福岡県北九州市「まつり起業祭八幡2026」で競輪とオートレースの補助事業イベント開催",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49432",
+            "categories": [],
+            "publishedAt": "2026-10-26T16:30:00+09:00"
         },
         {
             "source": "jik",
