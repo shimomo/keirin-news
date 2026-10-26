@@ -831,12 +831,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-26T08:32:57+09:00",
+    "checkedAt": "2026-10-26T10:43:11+09:00",
     "failures": [
         {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
-            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-23T23%3A32%3A56%2B00%3A00 returned HTTP 503."
+            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-24T01%3A43%3A10%2B00%3A00 returned HTTP 503."
         },
         {
             "source": "omiya",
@@ -849,9 +849,9 @@
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
         },
         {
-            "source": "takamatsu",
-            "sourceName": "高松競輪",
-            "message": "GET https://tkmtkeirin.blog.fc2.com/?xml returned HTTP 403."
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "message": "GET https://www.kumamotokeirin.jp/feed/ failed: Idle timeout reached for \"https://www.kumamotokeirin.jp/feed/\"."
         }
     ]
 }
