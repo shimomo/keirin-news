@@ -2,6 +2,183 @@
     "date": "2026-10-27",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270001440",
+            "title": "【競輪】宮道良輔が豪快まくりで予選を突破「この勢いで決勝にいけるよう頑張る」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202610270001440.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-27T19:25:09+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270001338",
+            "title": "【競輪】決勝は九州４車で別線へ　大西貴晃が“第２ライン”けん引「頑張ります」／小田原",
+            "url": "https://www.nikkansports.com/public_race/news/202610270001338.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-27T18:53:40+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47912-20261027",
+            "title": "豊臣秀長ミッドナイト　前検日コメントならウィンチケット杯(11/20-22)",
+            "url": "https://nagoyakeirin.com/47912/?utm_source=rss&utm_medium=rss&utm_campaign=47912",
+            "categories": [
+                "最新情報",
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-27T18:48:37+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49450",
+            "title": "【別府競輪・ガールズ】世界選手権メダリストの内野艶和がガールズケイリン復帰",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49450",
+            "categories": [],
+            "publishedAt": "2026-10-27T18:46:00+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47910-20261027",
+            "title": "豊臣秀長ミッドナイト　前検日コメントならウィンチケット杯(11/14-16)",
+            "url": "https://nagoyakeirin.com/47910/?utm_source=rss&utm_medium=rss&utm_campaign=47910",
+            "categories": [
+                "最新情報",
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-27T18:45:37+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49449",
+            "title": "【別府競輪・ガールズ】初の失格を猛反省した北津留千羽が再スタート",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49449",
+            "categories": [],
+            "publishedAt": "2026-10-27T18:42:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49448",
+            "title": "【別府競輪・モーニング】名伯楽の吉本哲郎が節目の白星を狙う",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49448",
+            "categories": [],
+            "publishedAt": "2026-10-27T18:33:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49430",
+            "title": "【KEIRINグランプリ2026】優勝賞金は1億6,000万円！昨年より増額、12月30日にいわき平で開催",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49430",
+            "categories": [],
+            "publishedAt": "2026-10-27T17:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49135",
+            "title": "28日に近畿、四国地区プロ大会が開催",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49135",
+            "categories": [],
+            "publishedAt": "2026-10-27T17:00:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20217-20261027",
+            "title": "【11月13日（金）開催】第53回中国地区プロ選手権自転車競技大会｜入場・観覧無料！",
+            "url": "https://hiroshima-keirin.com/2026/10/27/53thchikupro/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-27T16:33:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270000910",
+            "title": "【競輪】荒川達郎がG1初出場の前走を回顧「もみくちゃにされたけど楽しかった」／岐阜",
+            "url": "https://www.nikkansports.com/public_race/news/202610270000910.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-27T16:17:56+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270000854",
+            "title": "【競輪】世界選手権でメダル２個獲得の内野艶和が参戦「疲れはだいぶ取れた」／別府",
+            "url": "https://www.nikkansports.com/public_race/news/202610270000854.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-27T16:00:32+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47382-20261027",
+            "title": "【NCC】サイクルクラブ ゆるポタごはんライド開催のご案内",
+            "url": "https://nagoyakeirin.com/47382/?utm_source=rss&utm_medium=rss&utm_campaign=47382",
+            "categories": [
+                "最新情報",
+                "サイクルクラブ"
+            ],
+            "publishedAt": "2026-10-27T15:53:59+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21876-20261027",
+            "title": "10/31～11/3 場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20261031/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-10-27T15:53:44+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49429",
+            "title": "【ヤンググランプリ2026】中石湊、市田龍生都ら出場予定選手9名が決定！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49429",
+            "categories": [],
+            "publishedAt": "2026-10-27T15:42:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257083-20261027",
+            "title": "『ヤンググランプリ2026』出場予定選手決定",
+            "url": "https://morecadence.jp/keirin/257083",
+            "categories": [
+                "競輪",
+                "ヤンググランプリ2026",
+                "中石湊",
+                "小堀敢太",
+                "山崎歩夢",
+                "岩井芯",
+                "市田龍生都",
+                "栗山和樹",
+                "森田一郎",
+                "谷内健太",
+                "阿部英斗"
+            ],
+            "publishedAt": "2026-10-27T15:37:40+09:00"
+        },
+        {
             "source": "nagoya",
             "sourceName": "名古屋競輪",
             "id": "47895-20261027",
@@ -90,6 +267,17 @@
             "url": "https://www.kawasakikeirin.com/race/kawasaki_winner.html",
             "categories": [
                 "info"
+            ],
+            "publishedAt": "2026-10-27T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19488-20261027",
+            "title": "ヤンググランプリ2026の出場予定選手の決定について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19488",
+            "categories": [
+                "レース情報"
             ],
             "publishedAt": "2026-10-27T00:00:00+09:00"
         }
