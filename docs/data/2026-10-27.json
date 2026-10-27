@@ -4,6 +4,134 @@
         {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
+            "id": "202610270002064",
+            "title": "【競輪】又多風緑は先行態勢も梅川風子に敗れて２着、決勝でのリベンジ期す／大垣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610270002064.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-27T23:19:13+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270002046",
+            "title": "【競輪】高橋奏多は圧勝にも表情さえず　２カ月ぶり実戦で上積みに期待／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610270002046.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-27T23:08:56+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270002026",
+            "title": "【競輪】林欣司が２場所連続の白星発進　“栗山和樹効果”と先輩に感謝／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610270002026.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-27T23:08:46+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270002060",
+            "title": "【競輪】北岡マリアは強風の中を白星発進　内容は不満残るが１着には及第点／大垣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610270002060.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-27T23:08:29+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49454",
+            "title": "【京王閣競輪・新人記者が突撃取材！】100勝までM1。大台を“第1のホーム”で決めたい！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49454",
+            "categories": [],
+            "publishedAt": "2026-10-27T21:43:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【10月28日（水）】タケマルナイトレース「サテライトみぞべカップ」２日目（準決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-10-27T21:05:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270001730",
+            "title": "【競輪】鳥生知八が直線強襲で大波乱「１着が取れてうれしい。昔を思い出しました」／京王閣",
+            "url": "https://www.nikkansports.com/public_race/news/202610270001730.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-27T21:03:03+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "327",
+            "title": "【10/31（土）イベント情報】2026GO!BANK!開催（バンク体験）",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/327",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-10-27T21:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49453",
+            "title": "【京王閣競輪・ナイター】自力でも強いが人の後ろも回る小林則之「身の程を知っているので」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49453",
+            "categories": [],
+            "publishedAt": "2026-10-27T20:45:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610270001604",
+            "title": "【競輪】福田要が当日欠場、予選5Rに１番車で出場予定も急病のため／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610270001604.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-27T20:33:47+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/10/raizinfii-605c.html",
+            "title": "開催中キャンペーン・イベントのご案内 　１０月３０日（金）～１１月１日（日）宇都宮ジャパンカップサイクルロードレース記念杯，第２０回トータリゼータ宇都宮杯，RAIZINナイトレース５００（FII・ナイター）",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/10/raizinfii-605c.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-10-27T20:04:43+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/10/raizinfii-f6bc.html",
+            "title": "視聴者プレゼントのお知らせ　 １０月３０日（金）～１１月１日（日）宇都宮ジャパンカップサイクルロードレース記念杯，第２０回トータリゼータ宇都宮杯，RAIZINナイトレース５００（FII・ナイター）",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/10/raizinfii-f6bc.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-10-27T20:03:40+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
             "id": "202610270001440",
             "title": "【競輪】宮道良輔が豪快まくりで予選を突破「この勢いで決勝にいけるよう頑張る」／武雄",
             "url": "https://www.nikkansports.com/public_race/news/202610270001440.html",
@@ -189,17 +317,6 @@
                 "サイクルクラブ"
             ],
             "publishedAt": "2026-10-27T14:30:58+09:00"
-        },
-        {
-            "source": "takeo",
-            "sourceName": "武雄競輪",
-            "id": "87",
-            "title": "【10月27日（火）】タケマルナイトレース「サテライトみぞべカップ」１日目（初日！）出走表＆予想情報&ライブ放送",
-            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
-            "categories": [
-                "RACE"
-            ],
-            "publishedAt": "2026-10-27T13:00:00+09:00"
         },
         {
             "source": "utsunomiya",
