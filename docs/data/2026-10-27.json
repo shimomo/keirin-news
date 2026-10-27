@@ -2,6 +2,60 @@
     "date": "2026-10-27",
     "articles": [
         {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47895-20261027",
+            "title": "【NCC】2026年11月のスケジュール",
+            "url": "https://nagoyakeirin.com/47895/?utm_source=rss&utm_medium=rss&utm_campaign=47895",
+            "categories": [
+                "最新情報",
+                "サイクルクラブ"
+            ],
+            "publishedAt": "2026-10-27T14:30:58+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【10月27日（火）】タケマルナイトレース「サテライトみぞべカップ」１日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-10-27T13:00:00+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/10/post-06fc.html",
+            "title": "『宮コレ！２０２６～宇都宮市民の祭典～』開催に伴う無料ファンバス・路線バスの迂回運行について",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/10/post-06fc.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-10-27T11:51:43+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6918-20261027",
+            "title": "有料席購入整理券の配布について（11月～3月）",
+            "url": "https://www.kumamotokeirin.jp/news/%e6%9c%89%e6%96%99%e5%b8%ad%e8%b3%bc%e5%85%a5%e6%95%b4%e7%90%86%e5%88%b8%e3%81%ae%e9%85%8d%e5%b8%83%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%8811%e6%9c%88%ef%bd%9e3%e6%9c%88%ef%bc%89/",
+            "categories": [
+                "お知らせ",
+                "グループ",
+                "ロイヤル",
+                "ロイヤルシート",
+                "ロイヤルボックス",
+                "整理券",
+                "有料席",
+                "熊本けいりん",
+                "熊本競輪",
+                "特別観覧席"
+            ],
+            "publishedAt": "2026-10-27T09:37:30+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49439",
@@ -18,6 +72,15 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49425",
             "categories": [],
             "publishedAt": "2026-10-27T06:00:00+09:00"
+        },
+        {
+            "source": "ito",
+            "sourceName": "伊東温泉競輪",
+            "id": "/news/news26102701.html",
+            "title": "リンカイ！グッズ好評発売中！",
+            "url": "https://www.itokeirin.com/news/news26102701.html",
+            "categories": [],
+            "publishedAt": "2026-10-27T00:00:00+09:00"
         },
         {
             "source": "kawasaki",
