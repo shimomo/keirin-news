@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-10-28",
         "2026-10-27",
         "2026-10-26",
         "2026-10-25",
@@ -832,22 +833,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-28T01:51:15+09:00",
+    "checkedAt": "2026-10-28T06:28:51+09:00",
     "failures": [
         {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
-            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-25T16%3A51%3A14%2B00%3A00 returned HTTP 503."
-        },
-        {
-            "source": "morecadence",
-            "sourceName": "More CADENCE",
-            "message": "GET https://morecadence.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&categories=2&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-25T16%3A51%3A14%2B00%3A00 failed: Idle timeout reached for \"https://morecadence.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&categories=2&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-25T16%3A51%3A14%2B00%3A00\"."
-        },
-        {
-            "source": "jik",
-            "sourceName": "日本競輪選手養成所",
-            "message": "GET https://keirin-jik.jp/feed/ failed: Idle timeout reached for \"https://keirin-jik.jp/feed/\"."
+            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-25T21%3A28%3A50%2B00%3A00 returned HTTP 503."
         },
         {
             "source": "omiya",
@@ -858,46 +849,6 @@
             "source": "seibuen",
             "sourceName": "西武園競輪",
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
-        },
-        {
-            "source": "takamatsu",
-            "sourceName": "高松競輪",
-            "message": "GET https://tkmtkeirin.blog.fc2.com/?xml returned HTTP 403."
-        },
-        {
-            "source": "keirin-web",
-            "sourceName": "月刊競輪WEB",
-            "message": "GET https://keirin-web.com/feed/ failed: Idle timeout reached for \"https://keirin-web.com/feed/\"."
-        },
-        {
-            "source": "iwakidaira",
-            "sourceName": "いわき平競輪",
-            "message": "GET https://tairakeirin.com/feed/ failed: Idle timeout reached for \"https://tairakeirin.com/feed/\"."
-        },
-        {
-            "source": "nagoya",
-            "sourceName": "名古屋競輪",
-            "message": "GET https://nagoyakeirin.com/feed/ failed: Idle timeout reached for \"https://nagoyakeirin.com/feed/\"."
-        },
-        {
-            "source": "mukomachi",
-            "sourceName": "京都向日町競輪",
-            "message": "GET https://kyoto-mukomachikeirin.com/feed/ failed: Idle timeout reached for \"https://kyoto-mukomachikeirin.com/feed/\"."
-        },
-        {
-            "source": "kishiwada",
-            "sourceName": "岸和田競輪",
-            "message": "GET https://chalionkun.com/feed/ failed: Idle timeout reached for \"https://chalionkun.com/feed/\"."
-        },
-        {
-            "source": "sasebo",
-            "sourceName": "佐世保競輪",
-            "message": "GET https://www.sasebokeirin.jp/feed failed: Idle timeout reached for \"https://www.sasebokeirin.jp/feed\"."
-        },
-        {
-            "source": "kumamoto",
-            "sourceName": "熊本競輪",
-            "message": "GET https://www.kumamotokeirin.jp/feed/ failed: Idle timeout reached for \"https://www.kumamotokeirin.jp/feed/\"."
         }
     ]
 }
