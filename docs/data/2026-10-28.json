@@ -2,6 +2,28 @@
     "date": "2026-10-28",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610280002009",
+            "title": "【競輪】野見泰要がルーキー２人をまとめて撃破「バンク練習の成果が出た」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610280002009.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-28T23:21:26+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610280001989",
+            "title": "【競輪】田野口佳奈が７場所ぶりの決勝進出「車も意外に伸びました」／大垣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610280001989.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-28T22:57:15+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49469",
@@ -9,6 +31,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49469",
             "categories": [],
             "publishedAt": "2026-10-28T22:22:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610280001910",
+            "title": "【競輪】野口大誠はライン４番手回りでも軽視禁物「最後は突っ込みますから」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202610280001910.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-28T22:14:25+09:00"
         },
         {
             "source": "nikkansports",
