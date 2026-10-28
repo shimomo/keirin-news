@@ -833,12 +833,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-28T06:28:51+09:00",
+    "checkedAt": "2026-10-28T09:44:31+09:00",
     "failures": [
         {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
-            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-25T21%3A28%3A50%2B00%3A00 returned HTTP 503."
+            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T00%3A44%3A30%2B00%3A00 returned HTTP 503."
         },
         {
             "source": "omiya",
