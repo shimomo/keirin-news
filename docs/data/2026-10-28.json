@@ -2,6 +2,96 @@
     "date": "2026-10-28",
     "articles": [
         {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【10月28日（水）】タケマルナイトレース「サテライトみぞべカップ」２日目（準決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-10-28T15:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610280000546",
+            "title": "【競輪】川原未紀は初日２着発進も満足せず「沈んでもおかしくなかった」／別府",
+            "url": "https://www.nikkansports.com/public_race/news/202610280000546.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-28T14:29:29+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47923-20261028",
+            "title": "#くるくるラッキーセブンチャンスフォトコン秋 結果発表！",
+            "url": "https://nagoyakeirin.com/47923/?utm_source=rss&utm_medium=rss&utm_campaign=47923",
+            "categories": [
+                "未分類"
+            ],
+            "publishedAt": "2026-10-28T13:52:32+09:00"
+        },
+        {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/10/post-dfab.html",
+            "title": "未確定車券抽選会を開催！！",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/10/post-dfab.html",
+            "categories": [],
+            "publishedAt": "2026-10-28T13:14:18+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115675-20261028",
+            "title": "四日市競輪場勤務から選手へ転身！ “S級” 3兄弟の次男・佐々木眞也選手（神奈川・117期）",
+            "url": "https://keirin-marche.jp/enjoy/interview/introduction62/",
+            "categories": [],
+            "publishedAt": "2026-10-28T10:58:44+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "2865-20261028",
+            "title": "【熊本市営競輪】予想情報（ＦⅡ・モーニング）",
+            "url": "https://www.kumamotokeirin.jp/news/%e6%9c%ac%e5%a0%b4%e9%96%8b%e5%82%ac%e3%83%ac%e3%83%bc%e3%82%b9%e3%80%80%e4%ba%88%e6%83%b3%e6%83%85%e5%a0%b1/",
+            "categories": [
+                "予想情報",
+                "￥JOY",
+                "エンジョイ",
+                "コンドル",
+                "スポニチ",
+                "よみうり",
+                "予想",
+                "本場",
+                "東スポ",
+                "熊本けいりん",
+                "熊本競輪",
+                "読売"
+            ],
+            "publishedAt": "2026-10-28T10:25:06+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6921-20261028",
+            "title": "【熊本市営競輪】令和8年熊本地震復興事業「CTCなら3分前まで買える杯」（ＦⅡ・モーニング）",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e7%86%8a%e6%9c%ac%e5%b8%82%e5%96%b6%e7%ab%b6%e8%bc%aa%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad%e3%80%8cctc%e3%81%aa/",
+            "categories": [
+                "レース情報",
+                "ＣＳ放送",
+                "ミッドナイト",
+                "公式",
+                "熊本けいりん",
+                "熊本競輪",
+                "視聴者プレゼント"
+            ],
+            "publishedAt": "2026-10-28T10:20:38+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49455",
@@ -99,6 +189,17 @@
                 "立川吉幸コラム"
             ],
             "publishedAt": "2026-10-28T04:15:02+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19493-20261028",
+            "title": "【月刊競輪WEB】2026年アジア競技大会結果など、新着記事配信中！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19493",
+            "categories": [
+                "月刊競輪"
+            ],
+            "publishedAt": "2026-10-28T00:00:00+09:00"
         }
     ]
 }
