@@ -834,12 +834,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-29T04:06:51+09:00",
+    "checkedAt": "2026-10-29T08:33:06+09:00",
     "failures": [
         {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
-            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T19%3A06%3A50%2B00%3A00 returned HTTP 503."
+            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T23%3A33%3A05%2B00%3A00 returned HTTP 503."
         },
         {
             "source": "omiya",
@@ -850,6 +850,21 @@
             "source": "seibuen",
             "sourceName": "西武園競輪",
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "message": "GET https://www.shizuoka38.jp/information/feed/?orderby=date&order=DESC failed: Idle timeout reached for \"https://www.shizuoka38.jp/information/feed/?orderby=date&order=DESC\"."
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "message": "GET https://yokkaichikeirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T23%3A33%3A05%2B00%3A00 failed: Idle timeout reached for \"https://yokkaichikeirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T23%3A33%3A05%2B00%3A00\"."
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "message": "GET https://www.kochi-keirin.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&categories=2%2C3%2C4&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T23%3A33%3A05%2B00%3A00 failed: Idle timeout reached for \"https://www.kochi-keirin.jp/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&categories=2%2C3%2C4&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-10-26T23%3A33%3A05%2B00%3A00\"."
         }
     ]
 }
