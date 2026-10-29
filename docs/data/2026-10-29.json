@@ -2,6 +2,180 @@
     "date": "2026-10-29",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001541",
+            "title": "【競輪】埼玉連戦の宇野紅音は大宮の悪夢を西武園で晴らす／西武園ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610290001541.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-29T19:08:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001544",
+            "title": "【競輪】酒井亜樹は世界の壁を実感　日本での復帰戦にかける／西武園ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610290001544.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-29T19:07:33+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001530",
+            "title": "【競輪】新人の庄子琢心「そろそろ優勝したい」当地初も33バンク問題なし／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610290001530.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-29T18:50:55+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49457",
+            "title": "【動画公開】競輪はまるで推理小説!? 勝ち負けだけじゃないレースの魅力",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49457",
+            "categories": [],
+            "publishedAt": "2026-10-29T18:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49496",
+            "title": "【松戸競輪・ミッドナイト】半田莉都 地元記念を見て「また燃えました」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49496",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:47:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49495",
+            "title": "【松戸競輪・新人記者が突撃取材！】吉川敬介〜いつかは関東を代表する選手になりたい〜",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49495",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:43:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49492",
+            "title": "【松戸競輪・ミッドナイト】点数勝負の町田勝志「体調が良くなってきた」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49492",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:36:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49491",
+            "title": "【宇都宮競輪・ナイター】初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49491",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:33:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49487",
+            "title": "落車事故未然防止へ安全対策を強化 違反点数の一部引き上げなど実施/競輪関係3団体発表",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49487",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49490",
+            "title": "【名古屋競輪・ミッドナイト】来期3年ぶりに2班復帰の穴レーサー曽我部匡史「だいぶ踏めるようになってきた」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49490",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49489",
+            "title": "【名古屋競輪・ミッドナイト】立て直しを図る藤井準也「前回は今までで一番…」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49489",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:22:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49488",
+            "title": "【名古屋競輪・ミッドナイト】特進失敗の渡邉拓「若干、気持ちが切れかかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49488",
+            "categories": [],
+            "publishedAt": "2026-10-29T16:17:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001079",
+            "title": "【競輪】Ｓ級復帰の上川直紀がキャリアの違い見せて決勝進出　今年２度目のＶ狙う／岐阜",
+            "url": "https://www.nikkansports.com/public_race/news/202610290001079.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-29T16:01:42+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【10月29日（木）】タケマルナイトレース「サテライトみぞべカップ」３日目（決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-10-29T15:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49483",
+            "title": "【別府競輪・モーニング】ガールズ決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49483",
+            "categories": [],
+            "publishedAt": "2026-10-29T15:28:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49479",
+            "title": "【別府競輪・モーニング】苦しみながらも前を向く近谷涼",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49479",
+            "categories": [],
+            "publishedAt": "2026-10-29T14:23:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290000655",
+            "title": "【競輪】竹野百香、ガールズで唯一無傷の決勝入り「すごくいい状態。体もうまく使えてる」／別府",
+            "url": "https://www.nikkansports.com/public_race/news/202610290000655.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-29T13:42:17+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49473",
+            "title": "【厳選ナイター&ミッド】移籍後初戦V！ 新鋭・杉浦颯太が青森4R登場(16:59発走)、大垣8Rは梅川風子が3連続完全V狙う/「車券の軸しっかり」の2戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49473",
+            "categories": [],
+            "publishedAt": "2026-10-29T12:00:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49475",
@@ -96,6 +270,28 @@
                 "ミッドナイト競輪"
             ],
             "publishedAt": "2026-10-29T00:50:53+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19497-20261029",
+            "title": "KEIRINグランプリ2026スタンプラリーキャンペーン開始のお知らせ",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/news/2026khn/10/pdf/20261029_p01.pdf",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-29T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19498-20261029",
+            "title": "競走における落車事故の未然防止および安全対策強化について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19498",
+            "categories": [
+                "制度"
+            ],
+            "publishedAt": "2026-10-29T00:00:00+09:00"
         }
     ]
 }

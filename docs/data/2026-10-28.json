@@ -55,17 +55,6 @@
             "publishedAt": "2026-10-28T21:59:34+09:00"
         },
         {
-            "source": "takeo",
-            "sourceName": "武雄競輪",
-            "id": "87",
-            "title": "【10月29日（木）】タケマルナイトレース「サテライトみぞべカップ」３日目（決勝！）出走表＆予想情報&ライブ放送",
-            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
-            "categories": [
-                "RACE"
-            ],
-            "publishedAt": "2026-10-28T21:30:00+09:00"
-        },
-        {
             "source": "tamano",
             "sourceName": "玉野競輪",
             "id": "59930-20261028",
@@ -278,6 +267,15 @@
             "url": "https://aomorikeirin.com/event/uncategorized/portal_present_1029/",
             "categories": [],
             "publishedAt": "2026-10-28T10:00:57+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "11881-20261028",
+            "title": "【青森競輪】『日刊スポーツ杯／オッズパーク杯』視聴者プレゼント(１０月２９日～３１日)",
+            "url": "https://aomorikeirin.com/event/uncategorized/viewer_present_1029/",
+            "categories": [],
+            "publishedAt": "2026-10-28T10:00:22+09:00"
         },
         {
             "source": "netkeirin",
