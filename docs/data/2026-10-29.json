@@ -2,6 +2,90 @@
     "date": "2026-10-29",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49498",
+            "title": "【防府G3】今節のレース展望！/周防国杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49498",
+            "categories": [],
+            "publishedAt": "2026-10-29T20:43:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001724",
+            "title": "【競輪】金野俊秋が５場所ぶり白星発進に満面笑み「青森はやっぱり走りやすいね」／青森",
+            "url": "https://www.nikkansports.com/public_race/news/202610290001724.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-29T20:18:25+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5822-20261029",
+            "title": "11月自転車教室 開催日のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/11-matsusaka-bikeschool/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-10-29T20:16:30+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49497",
+            "title": "【西武園競輪・ガールズ】「今は本当に走っていて楽しい」と杉沢毛伊子",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49497",
+            "categories": [],
+            "publishedAt": "2026-10-29T19:25:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001622",
+            "title": "【競輪】新人・松木一将は初の決勝が目標「レースの引き出しを増やして」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610290001622.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-29T19:18:04+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001602",
+            "title": "【競輪】重大な落車事故防止へ安全対策強化　違反点数引き上げなど／競輪関係３団体発表",
+            "url": "https://www.nikkansports.com/public_race/news/202610290001602.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-29T19:16:44+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001543",
+            "title": "【競輪】水本博行は南関の33バンクと好相性　チェーンも元に戻して好感触／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610290001543.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-29T19:15:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610290001619",
+            "title": "【競輪】山村慮太は練習の成果で復調「しんどくて、きついやつを中心に」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610290001619.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-29T19:12:40+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202610290001541",
