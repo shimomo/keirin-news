@@ -2,6 +2,91 @@
     "date": "2026-10-29",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49475",
+            "title": "【武雄競輪・ナイター】700勝レーサー・“鉄人“増成富夫「競輪選手はやりがいがある」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49475",
+            "categories": [],
+            "publishedAt": "2026-10-29T10:56:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "175230-20261029",
+            "title": "嬉しい話題です",
+            "url": "https://www.kochi-keirin.jp/column/175230",
+            "categories": [
+                "くっさんの切磋琢磨　～高知競輪アナウンサーブログ～"
+            ],
+            "publishedAt": "2026-10-29T10:14:57+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18675-20261029",
+            "title": "第53回四国地区プロ選手権自転車競技大会の実施結果について",
+            "url": "https://keirincyclist-fc.jp/kyougi-news/post-18675/",
+            "categories": [
+                "自転車競技ニュース"
+            ],
+            "publishedAt": "2026-10-29T10:00:00+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18678-20261029",
+            "title": "第49回近畿地区プロ選手権自転車競技大会の実施結果について",
+            "url": "https://keirincyclist-fc.jp/kyougi-news/post-18678/",
+            "categories": [
+                "自転車競技ニュース"
+            ],
+            "publishedAt": "2026-10-29T10:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "169662-20261029",
+            "title": "高知競輪実況アナウンサーブログ更新♩",
+            "url": "https://www.kochi-keirin.jp/news/169662",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-10-29T10:00:00+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "47933-20261029",
+            "title": "管理棟北側トイレ排水配管改修工事に係る一般競争入札について",
+            "url": "https://nagoyakeirin.com/47933/?utm_source=rss&utm_medium=rss&utm_campaign=47933",
+            "categories": [
+                "最新情報",
+                "その他"
+            ],
+            "publishedAt": "2026-10-29T10:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "106760-20261029",
+            "title": "10月31日（日）の場外発売について",
+            "url": "https://www.kochi-keirin.jp/news/106760",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-10-29T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49470",
+            "title": "【競輪予想】岐阜競輪で荒井崇博が連勝狙う 本日のイチオシは本命党におススメの岐阜10R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49470",
+            "categories": [],
+            "publishedAt": "2026-10-29T09:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202610290000055",

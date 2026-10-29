@@ -122,7 +122,7 @@
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49465",
-            "title": "【青森競輪・ナイター】初日特選インタビュー",
+            "title": "【青森競輪・ナイター】S級初日特選インタビュー",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49465",
             "categories": [],
             "publishedAt": "2026-10-28T17:42:00+09:00"
@@ -197,7 +197,8 @@
             "title": "#くるくるラッキーセブンチャンスフォトコン秋 結果発表！",
             "url": "https://nagoyakeirin.com/47923/?utm_source=rss&utm_medium=rss&utm_campaign=47923",
             "categories": [
-                "未分類"
+                "イベント",
+                "最新情報"
             ],
             "publishedAt": "2026-10-28T13:52:32+09:00"
         },
@@ -385,6 +386,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19493",
             "categories": [
                 "月刊競輪"
+            ],
+            "publishedAt": "2026-10-28T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19495-20261028",
+            "title": "「Dokanto！4two」に的中者が出ました！！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19495",
+            "categories": [
+                "投票関係"
             ],
             "publishedAt": "2026-10-28T00:00:00+09:00"
         }
