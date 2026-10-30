@@ -325,6 +325,15 @@
             "publishedAt": "2026-10-29T10:00:00+09:00"
         },
         {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12050-20261029",
+            "title": "【藤崎場外】１１月１日　佐藤慎太郎、野原美咲　来場イベント",
+            "url": "https://aomorikeirin.com/event/uncategorized/20261101_fujisaki_e_satou_nohara-3/",
+            "categories": [],
+            "publishedAt": "2026-10-29T09:47:25+09:00"
+        },
+        {
             "source": "kochi",
             "sourceName": "高知競輪",
             "id": "106760-20261029",
@@ -374,6 +383,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19498",
             "categories": [
                 "制度"
+            ],
+            "publishedAt": "2026-10-29T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19505-20261029",
+            "title": "『2026年後期レインボーカップ』出場予定選手の決定について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19505",
+            "categories": [
+                "レース情報"
             ],
             "publishedAt": "2026-10-29T00:00:00+09:00"
         }
