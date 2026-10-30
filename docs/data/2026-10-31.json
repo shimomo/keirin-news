@@ -1,0 +1,83 @@
+{
+    "date": "2026-10-31",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001990",
+            "title": "【競輪】ルーキー露谷菜々花、鬼門の予２突破を目指す／西武園ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610300001990.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-31T00:09:42+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001989",
+            "title": "【競輪】ミッド走る当銘沙恵美、今年２度目のＶ狙う／西武園ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610300001989.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-31T00:08:57+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "797350-20261031",
+            "title": "【防府ＧⅢ初日・稔真チェック】太田ペースで取鳥の勝機（12Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/kumamoto-g3-toshimasa-20261025/",
+            "categories": [],
+            "publishedAt": "2026-10-31T00:05:11+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "797343-20261031",
+            "title": "【本間正則・ホンマでっか⁉】防府ＧⅢ初日　平尾　今期16勝目へ（３Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/kumamoto-g3-honma-20261025/",
+            "categories": [],
+            "publishedAt": "2026-10-31T00:04:39+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798557-20261031",
+            "title": "【岡崎兼治・打鐘日記】防府ＧⅢ初日　小林　光る安定感",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b2%a1%e5%b4%8e%e5%85%bc%e6%b2%bb%e3%83%bb%e6%89%93%e9%90%98%e6%97%a5%e8%a8%98%e3%80%91%e5%b0%8f%e6%9e%97%e3%80%80%e5%85%89%e3%82%8b%e5%ae%89%e5%ae%9a%e6%84%9f/",
+            "categories": [],
+            "publishedAt": "2026-10-31T00:03:35+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798450-20261031",
+            "title": "【防府ＧⅢ初日12Ｒ】太田　剛脚うなる",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%e5%88%9d%e6%97%a512%ef%bd%92%e3%80%91%e5%a4%aa%e7%94%b0%e3%80%80%e5%89%9b%e8%84%9a%e3%81%86%e3%81%aa%e3%82%8b/",
+            "categories": [],
+            "publishedAt": "2026-10-31T00:02:16+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798451-20261031",
+            "title": "【防府ＧⅢ初日６Ｒ】猿楽　リベンジだ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%e5%88%9d%e6%97%a5%ef%bc%96%ef%bd%92%e3%80%91%e7%8c%bf%e6%a5%bd%e3%80%80%e3%83%aa%e3%83%99%e3%83%b3%e3%82%b8%e3%81%a0/",
+            "categories": [],
+            "publishedAt": "2026-10-31T00:00:40+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/10/202611-7a9e.html",
+            "title": "2026年11月函館競輪「イベント一覧」",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/10/202611-7a9e.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-10-31T00:00:00+09:00"
+        }
+    ]
+}

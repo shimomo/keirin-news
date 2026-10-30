@@ -4,6 +4,115 @@
         {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
+            "id": "202610300001945",
+            "title": "【競輪】関根崇人が開幕戦制す　ライン独占できず悔やむも「調子自体はいい」／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610300001945.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-30T22:31:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001942",
+            "title": "【競輪】十文字悠真が次元の違うスピード披露　２班昇格決定も目標は初Ｖ／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610300001942.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-30T22:24:53+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001935",
+            "title": "【競輪】高谷敏史が余裕の運びで若手２人破る　準決も先行力と経験で勝負／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610300001935.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-30T22:16:12+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49519",
+            "title": "【名古屋競輪・ミッドナイト】初Vへの挑戦続く十文字悠真が白星発進",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49519",
+            "categories": [],
+            "publishedAt": "2026-10-30T21:48:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49518",
+            "title": "【名古屋競輪・ミッドナイト】地元の花田雄飛は悔しい2着「猪子(真実)さんのために1着取りたかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49518",
+            "categories": [],
+            "publishedAt": "2026-10-30T21:45:00+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "33158-20261030",
+            "title": "明日開幕🔥GⅢ 防府市制施行９０周年記念 開設７７周年記念競輪 周防国府杯争奪戦🏆",
+            "url": "https://www.hofukeirin.jp/blog/20261030/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-10-30T20:03:22+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49515",
+            "title": "【防府G3】桑原大志の地元記念での復帰を後押しした選手とは…/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49515",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:29:00+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115703-20261030",
+            "title": "【跳び箱モンスター】池谷直樹52歳、競輪選手養成所の試験に挑戦！",
+            "url": "https://keirin-marche.jp/enjoy/movievariety/movie-variety93/",
+            "categories": [],
+            "publishedAt": "2026-10-30T19:00:17+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49512",
+            "title": "【防府G3】追い込み戦を勉強中の長島大介/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49512",
+            "categories": [],
+            "publishedAt": "2026-10-30T18:28:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49511",
+            "title": "【防府G3】初のビッグレース出場が決定的な平尾一晃/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49511",
+            "categories": [],
+            "publishedAt": "2026-10-30T18:18:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610300001427",
+            "title": "【競輪】清水裕友が地元戦で闘志を燃やす「地元はいつも優勝するつもり」／防府G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610300001427.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-30T18:12:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
             "id": "202610300001353",
             "title": "【競輪】高橋優斗が完全Ｖ王手、４場所連続決勝進出に「自分は自力自在。状態も悪くない」／青森",
             "url": "https://www.nikkansports.com/public_race/news/202610300001353.html",
@@ -72,7 +181,7 @@
             "source": "morecadence",
             "sourceName": "More CADENCE",
             "id": "257012-20261030",
-            "title": "銅メダリストも出場！2026年最後のG1レース『競輪祭』『競輪祭女子王座戦』11月18日からスタート",
+            "title": "世界選手権メダリストも出場！2026年最後のG1レース『競輪祭』『競輪祭女子王座戦』11月18日からスタート",
             "url": "https://morecadence.jp/keirin/257012",
             "categories": [
                 "競輪",
@@ -114,6 +223,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49505",
             "categories": [],
             "publishedAt": "2026-10-30T14:30:00+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "582",
+            "title": "11月6日（金）FM香川「競輪にい講座！」のゲストは吉田彰久選手です",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-582.html",
+            "categories": [
+                "FM香川"
+            ],
+            "publishedAt": "2026-10-30T14:05:45+09:00"
         },
         {
             "source": "hiroshima",
@@ -201,6 +321,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49471",
             "categories": [],
             "publishedAt": "2026-10-30T06:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261030",
+            "title": "『防府競輪開設77周年記念（GIII）レポート』　前検日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/63houfu/2026/report_0.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-10-30T00:00:00+09:00"
         }
     ]
 }
