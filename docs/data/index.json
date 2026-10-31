@@ -837,7 +837,7 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-01T03:45:48+09:00",
+    "checkedAt": "2026-11-01T06:53:25+09:00",
     "failures": [
         {
             "source": "keirin.jp",
@@ -853,11 +853,6 @@
             "source": "seibuen",
             "sourceName": "西武園競輪",
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
-        },
-        {
-            "source": "iwakidaira",
-            "sourceName": "いわき平競輪",
-            "message": "GET https://tairakeirin.com/feed/ failed: Idle timeout reached for \"https://tairakeirin.com/feed/\"."
         }
     ]
 }
