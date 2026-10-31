@@ -2,6 +2,143 @@
     "date": "2026-10-31",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49539",
+            "title": "【名古屋競輪・ミッドナイト】北3車が好連係で本線撃破",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49539",
+            "categories": [],
+            "publishedAt": "2026-10-31T21:35:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49538",
+            "title": "【名古屋競輪・ミッドナイト】心筋梗塞から復帰した服部竜二「思ったよりは走れました」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49538",
+            "categories": [],
+            "publishedAt": "2026-10-31T21:31:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49537",
+            "title": "【宇都宮競輪・ナイター】チャレンジ決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49537",
+            "categories": [],
+            "publishedAt": "2026-10-31T20:39:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310001892",
+            "title": "【競輪】佐々木龍が２年連続バースデー勝利「いいスタートが切れて良かった」／防府G3",
+            "url": "https://www.nikkansports.com/public_race/news/202610310001892.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-31T20:23:47+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49536",
+            "title": "【防府G3】世界選帰りの太田海也は2着発進/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49536",
+            "categories": [],
+            "publishedAt": "2026-10-31T20:11:00+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "33165-20261031",
+            "title": "初日🔥GⅢ 防府市制施行９０周年記念 開設７７周年記念競輪 周防国府杯争奪戦🏆",
+            "url": "https://www.hofukeirin.jp/blog/20261031/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-10-31T20:01:04+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "48181-20261031",
+            "title": "【イベント】2026年11月のスケジュール",
+            "url": "https://nagoyakeirin.com/48181/?utm_source=rss&utm_medium=rss&utm_campaign=48181",
+            "categories": [
+                "イベント",
+                "最新情報"
+            ],
+            "publishedAt": "2026-10-31T19:36:42+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49535",
+            "title": "【防府G3】2着へ食い込んだ小川真太郎「前々に踏めて良かった」/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49535",
+            "categories": [],
+            "publishedAt": "2026-10-31T18:58:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49530",
+            "title": "【防府G3】佐々木龍が2年連続の“バースデー白星”「気持ちはデビューした10年前と変わりません」/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49530",
+            "categories": [],
+            "publishedAt": "2026-10-31T18:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49524",
+            "title": "【出場あっせん停止】伊藤涼介は12月31日まで 8月に先頭員早期追い抜きで失格",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49524",
+            "categories": [],
+            "publishedAt": "2026-10-31T18:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49520",
+            "title": "【防府G3】欠場(不参加)、追加、補充選手一覧※31日17時40分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49520",
+            "categories": [],
+            "publishedAt": "2026-10-31T17:40:00+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "4607-20261031",
+            "title": "静岡駅の無料送迎バスについて【１０月３１日更新】",
+            "url": "https://www.shizuoka38.jp/information/4607",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-10-31T17:00:57+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310001239",
+            "title": "【競輪】Ｓ級で苦戦中の三沢優樹が奮闘を誓う「全てにおいて足りていない」／久留米",
+            "url": "https://www.nikkansports.com/public_race/news/202610310001239.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-10-31T16:56:40+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49527",
+            "title": "【防府G3結果】地元・清水裕友が初日特選制す 3連単は6万8270円の波乱/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49527",
+            "categories": [],
+            "publishedAt": "2026-10-31T16:35:00+09:00"
+        },
+        {
             "source": "aomori",
             "sourceName": "青森競輪",
             "id": "12326-20261031",
@@ -88,7 +225,7 @@
             "source": "takeo",
             "sourceName": "武雄競輪",
             "id": "346",
-            "title": "【11月】たけお競輪まるごと体験プロジェクト！ 次回11/8（日）「地元選手応援グッズづくり」（家族そろって武雄競輪場で楽しめるイベント満載）",
+            "title": "【11月イベント情報】たけお競輪まるごと体験プロジェクト！ 次回11/8（日）「地元選手応援グッズづくり」（家族そろって武雄競輪場で楽しめるイベント満載）",
             "url": "https://www.keirin.city.takeo.lg.jp/news/archives/346",
             "categories": [
                 "EVENT"
@@ -161,15 +298,6 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49521",
             "categories": [],
             "publishedAt": "2026-10-31T09:02:00+09:00"
-        },
-        {
-            "source": "netkeirin",
-            "sourceName": "netkeirin",
-            "id": "49520",
-            "title": "【防府G3】欠場(不参加)、追加、補充選手一覧※31日9時00分更新",
-            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49520",
-            "categories": [],
-            "publishedAt": "2026-10-31T09:00:00+09:00"
         },
         {
             "source": "kumamoto",
@@ -309,6 +437,17 @@
             "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/10/202611-7a9e.html",
             "categories": [
                 "場内イベント"
+            ],
+            "publishedAt": "2026-10-31T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261031",
+            "title": "『防府競輪開設77周年記念（GIII）レポート』　初日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/63houfu/2026/report_1.html",
+            "categories": [
+                "レース情報"
             ],
             "publishedAt": "2026-10-31T00:00:00+09:00"
         }
