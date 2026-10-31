@@ -1,0 +1,63 @@
+{
+    "date": "2026-11-01",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611010000011",
+            "title": "【競輪】吉村美有紀はラッキー７の勢いで決勝へ／西武園ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611010000011.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-01T01:08:40+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611010000013",
+            "title": "【競輪】新人の阿部凪汰は決勝で100％の走り誓う、志願して同期の前回り／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611010000013.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-01T01:07:55+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798673-20261101",
+            "title": "【防府ＧⅢ２日目・稔真チェック】清水―久保田の突き抜け重視（12Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae%e3%83%bb%e7%a8%94%e7%9c%9f%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%e3%80%91%e6%b8%85%e6%b0%b4%e2%80%95%e4%b9%85%e4%bf%9d%e7%94%b0/",
+            "categories": [],
+            "publishedAt": "2026-11-01T00:04:54+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798675-20261101",
+            "title": "【本間正則・ホンマでっか⁉】防府ＧⅢ２日目　阿部　動き上々だ（11Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e6%9c%ac%e9%96%93%e6%ad%a3%e5%89%87%e3%83%bb%e3%83%9b%e3%83%b3%e3%83%9e%e3%81%a7%e3%81%a3%e3%81%8b%e2%81%89%e3%80%91%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae%e3%80%80/",
+            "categories": [],
+            "publishedAt": "2026-11-01T00:03:48+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798674-20261101",
+            "title": "【岡崎兼治・打鐘日記】防府ＧⅢ２日目　取鳥　軌道修正だ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b2%a1%e5%b4%8e%e5%85%bc%e6%b2%bb%e3%83%bb%e6%89%93%e9%90%98%e6%97%a5%e8%a8%98%e3%80%91%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae%e3%80%80%e5%8f%96%e9%b3%a5%e3%80%80/",
+            "categories": [],
+            "publishedAt": "2026-11-01T00:02:14+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798676-20261101",
+            "title": "【防府ＧⅢ２日目９Ｒ】桑原　地元で白星",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae%ef%bc%99%ef%bd%92%e3%80%91%e6%a1%91%e5%8e%9f%e3%80%80%e5%9c%b0%e5%85%83%e3%81%a7%e7%99%bd%e6%98%9f/",
+            "categories": [],
+            "publishedAt": "2026-11-01T00:01:11+09:00"
+        }
+    ]
+}

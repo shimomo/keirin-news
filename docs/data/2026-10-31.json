@@ -2,6 +2,50 @@
     "date": "2026-10-31",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310002112",
+            "title": "【競輪】地元の戸ノ下太郎が単騎でナイスファイトの３着「最後は足が虫の息」／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610310002112.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-31T23:20:58+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310002105",
+            "title": "【競輪】青木美保が地元Ｖへ好気合　入院中の祖父を元気づけたい／西武園ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610310002105.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-31T23:15:23+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310002102",
+            "title": "【競輪】藤井凜太郎はテンパり反省もまくりは収穫　戦法の幅広げ強くなる／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610310002102.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-31T23:09:17+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202610310002093",
+            "title": "【競輪】菅原洋輔は一般戦制し自力を見直す「負けても気持ちがすっきり」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202610310002093.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-10-31T23:06:49+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49539",

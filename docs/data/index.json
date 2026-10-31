@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-11-01",
         "2026-10-31",
         "2026-10-30",
         "2026-10-29",
@@ -836,8 +837,13 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-10-31T22:53:16+09:00",
+    "checkedAt": "2026-11-01T03:45:48+09:00",
     "failures": [
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "message": "PJ1001json has no newsList."
+        },
         {
             "source": "omiya",
             "sourceName": "大宮競輪",
@@ -847,6 +853,11 @@
             "source": "seibuen",
             "sourceName": "西武園競輪",
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
+        },
+        {
+            "source": "iwakidaira",
+            "sourceName": "いわき平競輪",
+            "message": "GET https://tairakeirin.com/feed/ failed: Idle timeout reached for \"https://tairakeirin.com/feed/\"."
         }
     ]
 }
