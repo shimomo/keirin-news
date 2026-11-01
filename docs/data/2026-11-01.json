@@ -2,6 +2,75 @@
     "date": "2026-11-01",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49542",
+            "title": "【新人記者が突撃取材！松戸競輪】2歳の息子に早く会いたい！〜家族のために走れる幸せ〜",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49542",
+            "categories": [],
+            "publishedAt": "2026-11-01T10:10:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49541",
+            "title": "【松戸競輪・ミッドナイト】チャレンジ決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49541",
+            "categories": [],
+            "publishedAt": "2026-11-01T09:01:00+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21881-20261101",
+            "title": "１１/２８・１１/２９　キッズフリマ開催！",
+            "url": "https://www.shonanbank.com/event/20261128/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-01T09:00:59+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/117811-new-573c.html",
+            "title": "【11月7日・8日】11月『ＧⅢ準決勝・決勝の日』は NEWミニガラポン抽選会イベントのお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/117811-new-573c.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-01T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49540",
+            "title": "【松戸競輪・ミッドナイト】阿部凪汰 決勝入りも「自分のやりたいことができていない」と納得いかず",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49540",
+            "categories": [],
+            "publishedAt": "2026-11-01T08:54:00+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/announcer/2026/11/11-da59.html",
+            "title": "函館けいりん「11月」休催中も道産ベジタリアン",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/announcer/2026/11/11-da59.html",
+            "categories": [],
+            "publishedAt": "2026-11-01T07:33:58+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "59494-20261101",
+            "title": "2027年競輪カレンダー(全国版)の配布について",
+            "url": "https://www.tamano-keirin.jp/2026/11/01/2027%e5%b9%b4%e7%ab%b6%e8%bc%aa%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e5%85%a8%e5%9b%bd%e7%89%88%e3%81%ae%e9%85%8d%e5%b8%83%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+            "categories": [
+                "NEWS"
+            ],
+            "publishedAt": "2026-11-01T07:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611010000011",
@@ -58,6 +127,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae%ef%bc%99%ef%bd%92%e3%80%91%e6%a1%91%e5%8e%9f%e3%80%80%e5%9c%b0%e5%85%83%e3%81%a7%e7%99%bd%e6%98%9f/",
             "categories": [],
             "publishedAt": "2026-11-01T00:01:11+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19510-20261101",
+            "title": "【CTC】ネット投票新規入会及び11月のキャンペーン実施中!",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19510",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-11-01T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19511-20261101",
+            "title": "【CTC杯】開催実施のお知らせ",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19511",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-01T00:00:00+09:00"
         }
     ]
 }
