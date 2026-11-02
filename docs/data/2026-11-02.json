@@ -2,6 +2,95 @@
     "date": "2026-11-02",
     "articles": [
         {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12283-20261102",
+            "title": "【帽子の色を変えるまで】“ノート”をきっかけに、練習への向き合い方が変わった 中村孔翼候補生",
+            "url": "https://keirin-jik.jp/article/12283/",
+            "categories": [],
+            "publishedAt": "2026-11-02T13:04:26+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49578",
+            "title": "出場あっせんをしない処置に係る違反点数累積状況",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49578",
+            "categories": [],
+            "publishedAt": "2026-11-02T13:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49577",
+            "title": "【防府G3】3日目2Rが中止、車券は全返還に 1番車の伊勢崎彰大が欠場",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49577",
+            "categories": [],
+            "publishedAt": "2026-11-02T12:37:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49568",
+            "title": "【今日の激アツレース】深谷知広が古巣・豊橋に参戦！ 伊藤旭の穴一撃も/豊橋ナイター",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49568",
+            "categories": [],
+            "publishedAt": "2026-11-02T12:35:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020000486",
+            "title": "【競輪】中野雄喜が鋭い差しで決勝一番乗り「馬越君が前前に踏んでくれたおかげ」／小田原",
+            "url": "https://www.nikkansports.com/public_race/news/202611020000486.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-02T11:58:07+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020000469",
+            "title": "【競輪】2R出走予定の伊勢崎彰大が急病のため当日欠場、2Rはレース中止に／防府G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611020000469.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-02T11:56:03+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12312-20261102",
+            "title": "【青森競輪】民間ポータルサイトキャンペーンのお知らせ",
+            "url": "https://aomorikeirin.com/event/uncategorized/portal_present_1103/",
+            "categories": [],
+            "publishedAt": "2026-11-02T10:00:35+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "4073-20261102",
+            "title": "【11月2日】エビチャリ中止のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/rainday_ebichari/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-11-02T10:00:20+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "10776-20261102",
+            "title": "静岡競輪Ｆ２ミッドナイト　１日目（１１月２日）の予想新聞公開中！",
+            "url": "https://www.shizuoka38.jp/information/10776",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-02T09:00:25+09:00"
+        },
+        {
             "source": "beppu",
             "sourceName": "別府競輪",
             "id": "/info/2026/11/iii-d636.html",
@@ -54,6 +143,50 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e8%b1%8a%e6%a9%8b%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a511%ef%bd%92%e3%80%91%e5%b0%8f%e5%a0%80%e3%80%80%ef%bd%99%ef%bd%87%ef%bd%90%e3%81%b8%e6%84%8f%e6%ac%b2/",
             "categories": [],
             "publishedAt": "2026-11-02T00:01:07+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19516-20261102",
+            "title": "【プロスポーツ号外版】四日市競輪「泗水杯争奪戦」GIIIの主力・注目選手",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19516",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-02T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19522-20261102",
+            "title": "出場あっせんをしない処置に係る違反点数累積状況",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19522",
+            "categories": [
+                "制度"
+            ],
+            "publishedAt": "2026-11-02T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19523-20261102",
+            "title": "KEIRINグランプリ2026共同記者会見および前夜祭のお知らせ",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/news/2026khn/11/pdf/20261102_p01.pdf",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-02T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19524-20261102",
+            "title": "坂本　健太郎選手が通算500勝を達成！！！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19524",
+            "categories": [
+                "選手"
+            ],
+            "publishedAt": "2026-11-02T00:00:00+09:00"
         }
     ]
 }

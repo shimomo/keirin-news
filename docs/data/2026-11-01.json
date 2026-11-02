@@ -324,6 +324,17 @@
             "publishedAt": "2026-11-01T10:10:00+09:00"
         },
         {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "162040-20261101",
+            "title": "11月23日(月祝)予想会【競輪祭】",
+            "url": "https://www.kochi-keirin.jp/event/162040",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-11-01T09:33:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49541",
@@ -351,6 +362,18 @@
             "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/117811-new-573c.html",
             "categories": [
                 "場内イベント"
+            ],
+            "publishedAt": "2026-11-01T09:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "109017-20261101",
+            "title": "11月22日(日)・23日(月祝)　KEIRINカレンダー2027　プレゼント",
+            "url": "https://www.kochi-keirin.jp/news/109017",
+            "categories": [
+                "イベント情報",
+                "高知けいりんからのお知らせ"
             ],
             "publishedAt": "2026-11-01T09:00:00+09:00"
         },
