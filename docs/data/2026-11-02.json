@@ -2,6 +2,186 @@
     "date": "2026-11-02",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020002031",
+            "title": "【競輪】木村皆斗がしぶとさ発揮して決勝へ　自らの体と向き合い単騎一発を狙う／久留米",
+            "url": "https://www.nikkansports.com/public_race/news/202611020002031.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-02T23:10:20+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020002014",
+            "title": "【競輪】佐々木綾が２場所連続で初日３着に手応え「前回よりも足はいい」／静岡ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611020002014.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-02T22:57:20+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020002009",
+            "title": "【競輪】滝本匡平が白星発進「１着はいい薬になります」若手との戦いに意欲／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611020002009.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-02T22:50:45+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001985",
+            "title": "【競輪】森川康輔が3カ月ぶりの予選1着「いい追加でしたと言えるように」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611020001985.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-02T22:50:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001754",
+            "title": "【競輪】LEGOを愛する杉浦侑吾　青森でも「YUGO」アピールへ全力疾走する／青森",
+            "url": "https://www.nikkansports.com/public_race/news/202611020001754.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-02T21:23:43+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611020001850",
+            "title": "【競輪】郡司浩平は手堅く運び決勝進出「状態は良くなっている」単騎で一発だ／防府G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611020001850.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-02T21:09:29+09:00"
+        },
+        {
+            "source": "hofu",
+            "sourceName": "防府競輪",
+            "id": "33210-20261102",
+            "title": "明日運命の決勝🏆防府市制施行９０周年記念 開設７７周年記念競輪 周防国府杯争奪戦【GⅢ】🎊",
+            "url": "https://www.hofukeirin.jp/blog/20261102/",
+            "categories": [
+                "ホープくん日記"
+            ],
+            "publishedAt": "2026-11-02T21:08:53+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49595",
+            "title": "【防府G3】上野優太が今節2勝目ゲット/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49595",
+            "categories": [],
+            "publishedAt": "2026-11-02T20:48:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12356-20261102",
+            "title": "【11/3-5開催】スポーツニッポン杯/前検日コメントならウィンチケット杯　優勝者インタビュー実施のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/2026-11-03yusyousya/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-02T19:58:41+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49520",
+            "title": "【防府G3】欠場(不参加)、追加、補充選手一覧 ※2日19時29分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49520",
+            "categories": [],
+            "publishedAt": "2026-11-02T19:29:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49590",
+            "title": "【防府G3】S級決勝インタビュー/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49590",
+            "categories": [],
+            "publishedAt": "2026-11-02T19:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49589",
+            "title": "【防府G3】小倉竜二が3着で決勝へ「力がないけど食らいつくしかない」/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49589",
+            "categories": [],
+            "publishedAt": "2026-11-02T18:46:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49588",
+            "title": "【防府G3】地元の大一番を控える岩谷拓磨「いい気持ちで上積みをして迎えたい」/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49588",
+            "categories": [],
+            "publishedAt": "2026-11-02T18:40:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49587",
+            "title": "【青森競輪】S級初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49587",
+            "categories": [],
+            "publishedAt": "2026-11-02T17:26:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49579",
+            "title": "【KEIRINグランプリ2026】前夜祭は12月16日に開催！11月24日から参加受付開始",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49579",
+            "categories": [],
+            "publishedAt": "2026-11-02T17:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49582",
+            "title": "【防府G3予想】決勝メンバー9名確定 賞金ランク上位の郡司・松本・山口らが勝ち上がり/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49582",
+            "categories": [],
+            "publishedAt": "2026-11-02T16:44:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49580",
+            "title": "【防府G3結果】地元・清水裕友が3連勝！ 太田海也は失格、3連単は36,130円/周防国府杯争奪戦準決勝(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49580",
+            "categories": [],
+            "publishedAt": "2026-11-02T16:38:00+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "4607-20261102",
+            "title": "静岡駅の無料送迎バスについて【１１月２日更新】",
+            "url": "https://www.shizuoka38.jp/information/4607",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-02T16:00:57+09:00"
+        },
+        {
             "source": "jik",
             "sourceName": "日本競輪選手養成所",
             "id": "12283-20261102",
@@ -143,6 +323,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e8%b1%8a%e6%a9%8b%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a511%ef%bd%92%e3%80%91%e5%b0%8f%e5%a0%80%e3%80%80%ef%bd%99%ef%bd%87%ef%bd%90%e3%81%b8%e6%84%8f%e6%ac%b2/",
             "categories": [],
             "publishedAt": "2026-11-02T00:01:07+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261102",
+            "title": "『防府競輪開設77周年記念（GIII）レポート』　3日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/63houfu/2026/report_3.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-02T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",

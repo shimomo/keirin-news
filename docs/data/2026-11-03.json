@@ -1,0 +1,101 @@
+{
+    "date": "2026-11-03",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611030000023",
+            "title": "【競輪】吉岡竜太が逃げ切りで白星発進「明日はもっと良くなると思う」／武雄ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611030000023.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-03T01:24:14+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611030000020",
+            "title": "【競輪】高橋明久は直線一気のごぼう抜き快勝にも冷静「たまたまですよ」／武雄ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611030000020.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-03T01:23:22+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611030000019",
+            "title": "【競輪】当地初の高井流星が予選２着「あそこしかないタイミングで行けた」／静岡ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611030000019.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-03T01:22:56+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "799008-20261103",
+            "title": "【防府ＧⅢ最終日12Ｒ】郡司　Ｓ班の意地",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%e6%9c%80%e7%b5%82%e6%97%a512%ef%bd%92%e3%80%91%e9%83%a1%e5%8f%b8%e3%80%80%ef%bd%93%e7%8f%ad%e3%81%ae%e6%84%8f%e5%9c%b0/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:07:12+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798954-20261103",
+            "title": "【防府ＧⅢ最終日・稔真チェック】松本ＧⅠ競輪祭へ弾みつける（12Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%e6%9c%80%e7%b5%82%e6%97%a5%e3%83%bb%e7%a8%94%e7%9c%9f%e3%83%81%e3%82%a7%e3%83%83%e3%82%af%e3%80%91%e6%9d%be%e6%9c%ac%ef%bd%87%e2%85%b0%e7%ab%b6%e8%bc%aa/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:05:49+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798959-20261103",
+            "title": "【防府GⅢ最終日　きょうのキーマン】松本貴治　連覇に挑戦（12Ｒ❾）",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9cg%e2%85%b2%e6%9c%80%e7%b5%82%e6%97%a5%e3%80%80%e3%81%8d%e3%82%87%e3%81%86%e3%81%ae%e3%82%ad%e3%83%bc%e3%83%9e%e3%83%b3%e3%80%91%e6%9d%be%e6%9c%ac%e8%b2%b4%e6%b2%bb%e3%80%80/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:04:19+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798958-20261103",
+            "title": "【本間正則・ホンマでっか⁉】防府ＧⅢ最終日　熊本勢ハッスル（10Ｒ）",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e6%9c%ac%e9%96%93%e6%ad%a3%e5%89%87%e3%83%bb%e3%83%9b%e3%83%b3%e3%83%9e%e3%81%a7%e3%81%a3%e3%81%8b%e2%81%89%e3%80%91%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%e6%9c%80%e7%b5%82%e6%97%a5%e3%80%80/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:03:58+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798957-20261103",
+            "title": "【防府ＧⅢ３日目】準決ＶＴＲ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%93%e6%97%a5%e7%9b%ae%e3%80%91%e6%ba%96%e6%b1%ba%ef%bd%96%ef%bd%94%ef%bd%92/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:02:52+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "799009-20261103",
+            "title": "【防府ＧⅢ】準決は波乱続出",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%e3%80%91%e6%ba%96%e6%b1%ba%e3%81%af%e6%b3%a2%e4%b9%b1%e7%b6%9a%e5%87%ba/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:01:17+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "798956-20261103",
+            "title": "【防府ＧⅢ３日目２Ｒ】中止",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%98%b2%e5%ba%9c%ef%bd%87%e2%85%b2%ef%bc%93%e6%97%a5%e7%9b%ae%ef%bc%92%ef%bd%92%e3%80%91%e4%b8%ad%e6%ad%a2/",
+            "categories": [],
+            "publishedAt": "2026-11-03T00:00:40+09:00"
+        }
+    ]
+}
