@@ -2,6 +2,97 @@
     "date": "2026-11-04",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49597",
+            "title": "【四日市G3・出場選手】S班は寺崎浩平、古性優作の2名が参戦！/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49597",
+            "categories": [],
+            "publishedAt": "2026-11-04T06:00:00+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8341-20261104",
+            "title": "第68回朝日新聞社杯競輪祭（GI）展望",
+            "url": "https://keirin-web.com/race-prospects/great-race/8341/",
+            "categories": [
+                "グレードレース展望",
+                "レース展望"
+            ],
+            "publishedAt": "2026-11-04T05:54:39+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8340-20261104",
+            "title": "第4回競輪祭女子王座戦展望",
+            "url": "https://keirin-web.com/race-prospects/great-race/8340/",
+            "categories": [
+                "グレードレース展望",
+                "レース展望"
+            ],
+            "publishedAt": "2026-11-04T05:54:26+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8338-20261104",
+            "title": "直送！競輪場便り from 武雄競輪場　大村涼兼（神奈川129期）",
+            "url": "https://keirin-web.com/interview/news/8338/",
+            "categories": [
+                "インタビュー",
+                "競輪場便り"
+            ],
+            "publishedAt": "2026-11-04T05:54:05+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8339-20261104",
+            "title": "直送！競輪場便りfrom防府競輪場　大瀬戸潤一郎（広島95期）",
+            "url": "https://keirin-web.com/interview/news/8339/",
+            "categories": [
+                "インタビュー",
+                "競輪場便り"
+            ],
+            "publishedAt": "2026-11-04T05:53:38+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8336-20261104",
+            "title": "夜のキッチン　ガールズケイリン",
+            "url": "https://keirin-web.com/special-issue/8336/",
+            "categories": [
+                "特集"
+            ],
+            "publishedAt": "2026-11-04T02:47:00+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8335-20261104",
+            "title": "霜月の御贔屓オアシ選手",
+            "url": "https://keirin-web.com/special-issue/tatekawa-kikkou/8335/",
+            "categories": [
+                "特集",
+                "立川吉幸コラム"
+            ],
+            "publishedAt": "2026-11-04T01:47:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611040000001",
+            "title": "【競輪】下山聖斗は５度目のVへ照準「手応えはつかみました」／武雄ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611040000001.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-04T00:58:41+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "799186-20261104",
