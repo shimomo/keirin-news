@@ -2,6 +2,117 @@
     "date": "2026-11-03",
     "articles": [
         {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12378-20261103",
+            "title": "【青森競輪】入場口変更のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/2026-11-16gate/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-03T16:06:03+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611030000890",
+            "title": "【競輪】鈴木小次廊が近況好調の要因は先輩の存在「すごく刺激になっています」／取手",
+            "url": "https://www.nikkansports.com/public_race/news/202611030000890.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-03T15:47:43+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49604",
+            "title": "【大宮競輪】中村浩士 息子・嶺央の走りに「アッパレだった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49604",
+            "categories": [],
+            "publishedAt": "2026-11-03T15:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49603",
+            "title": "【大宮競輪】佐々木悠葵 グランプリ出場へ勝負の1か月「賞金は意識する」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49603",
+            "categories": [],
+            "publishedAt": "2026-11-03T14:55:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12374-20261103",
+            "title": "場外ナイター【先着プレゼントのお知らせ】",
+            "url": "https://aomorikeirin.com/news/info/2026-11funsa/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-03T14:35:19+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12368-20261103",
+            "title": "【青森競輪送迎バス】１１月ナイター時刻表",
+            "url": "https://aomorikeirin.com/news/info/2026-11bus/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-03T14:32:52+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49602",
+            "title": "【防府G3】最終日8Rで35万2140円車券が飛び出す/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49602",
+            "categories": [],
+            "publishedAt": "2026-11-03T14:32:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12361-20261103",
+            "title": "【先着プレゼント】競輪カレンダー２０２７　プレゼントのお知らせ",
+            "url": "https://aomorikeirin.com/event/uncategorized/2027calendar/",
+            "categories": [],
+            "publishedAt": "2026-11-03T13:33:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月3日（火）】ミッドナイト競輪in武雄「オッズパーク杯」２日目（準決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-03T13:00:00+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "11926-20261103",
+            "title": "静岡競輪Ｆ２ミッドナイト　２日目（１１月３日）の予想新聞公開中！",
+            "url": "https://www.shizuoka38.jp/information/11926",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-03T11:00:34+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12299-20261103",
+            "title": "【青森競輪】『スポーツニッポン杯／前検日コメントならウィンチケット杯』視聴者プレゼント(１１月３日～５日)",
+            "url": "https://aomorikeirin.com/event/uncategorized/viewer_present_1103/",
+            "categories": [],
+            "publishedAt": "2026-11-03T09:50:40+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49596",
