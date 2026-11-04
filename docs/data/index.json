@@ -841,7 +841,7 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-05T01:35:21+09:00",
+    "checkedAt": "2026-11-05T07:12:46+09:00",
     "failures": [
         {
             "source": "omiya",
@@ -852,11 +852,6 @@
             "source": "seibuen",
             "sourceName": "西武園競輪",
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
-        },
-        {
-            "source": "yokkaichi",
-            "sourceName": "四日市競輪",
-            "message": "GET https://yokkaichikeirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-11-02T16%3A35%3A20%2B00%3A00 failed: Idle timeout reached for \"https://yokkaichikeirin.com/wp-json/wp/v2/posts?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-11-02T16%3A35%3A20%2B00%3A00\"."
         }
     ]
 }
