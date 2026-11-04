@@ -4,6 +4,47 @@
         {
             "source": "netkeirin",
             "sourceName": "netkeirin",
+            "id": "49628",
+            "title": "【防府G3】AIはこう見た 決勝戦のレース評価/周防国府杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49628",
+            "categories": [],
+            "publishedAt": "2026-11-04T10:25:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13867-20261104",
+            "title": "群馬支部ブログ「心にググッと群馬支部」石川雅望選手-vol.2",
+            "url": "https://www.maebashi-keirin.jp/racer/masamochi_ishikawa/13867/",
+            "categories": [
+                "ブログ",
+                "石川雅望選手"
+            ],
+            "publishedAt": "2026-11-04T10:00:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月4日（水）】ミッドナイト競輪in武雄「オッズパーク杯」３日目（決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-04T09:27:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49626",
+            "title": "【競輪予想】青森競輪で新山響平が連勝を狙う 本日のイチオシは本命党におススメの豊橋12R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49626",
+            "categories": [],
+            "publishedAt": "2026-11-04T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
             "id": "49597",
             "title": "【四日市G3・出場選手】S班は寺崎浩平、古性優作の2名が参戦！/泗水杯争奪戦",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49597",
@@ -109,6 +150,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e6%9d%be%e6%9c%ac%e3%80%80%e5%a4%a7%e4%bc%9a%e9%80%a3%e8%a6%87%e3%81%a7%ef%bd%87%e2%85%b2%ef%bc%96%ef%bd%96%e3%80%80%e9%98%b2%e5%ba%9c%e7%ab%b6%e8%bc%aa%e3%80%8c%e5%91%a8%e9%98%b2%e5%9b%bd%e5%ba%9c/",
             "categories": [],
             "publishedAt": "2026-11-04T00:01:56+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19529-20261104",
+            "title": "【月刊競輪WEB】第68回朝日新聞社杯競輪祭展望など、新着記事配信中！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19529",
+            "categories": [
+                "月刊競輪"
+            ],
+            "publishedAt": "2026-11-04T00:00:00+09:00"
         }
     ]
 }
