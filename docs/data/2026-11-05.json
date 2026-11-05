@@ -2,6 +2,36 @@
     "date": "2026-11-05",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49641",
+            "title": "福井競輪場で64万3430円車券が飛び出す/FBC杯　福井アリーナ賞初日",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49641",
+            "categories": [],
+            "publishedAt": "2026-11-05T10:35:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12418-20261105",
+            "title": "【青森競輪】２０２６年１１月５日（木）のＡ級決勝戦は第５Ｒとなります",
+            "url": "https://aomorikeirin.com/news/info/attention_1105/",
+            "categories": [
+                "お知らせ",
+                "重要"
+            ],
+            "publishedAt": "2026-11-05T10:14:16+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49627",
+            "title": "【競輪賞金ランキング】防府G3優勝の松本貴治が10位にランクイン",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49627",
+            "categories": [],
+            "publishedAt": "2026-11-05T06:00:00+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "799337-20261105",
@@ -36,6 +66,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%9b%9b%e6%97%a5%e5%b8%82%ef%bd%87%e2%85%b2%e5%88%9d%e6%97%a5%ef%bc%91%ef%bd%92%e3%80%91%e4%b8%89%e7%a5%9e%e3%80%80%ef%bd%87%e2%85%b2%e5%88%9d%e7%99%bb%e5%a0%b4/",
             "categories": [],
             "publishedAt": "2026-11-05T00:01:50+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261105",
+            "title": "四日市競輪開設75周年記念（GIII）レポート　前検日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/48yokkaiti/2026/report_0.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-05T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19537-20261105",
+            "title": "三菱UFJ銀行からのシステムメンテナンスのお知らせについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19537",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-11-05T00:00:00+09:00"
         }
     ]
 }
