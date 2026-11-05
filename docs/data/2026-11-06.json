@@ -2,6 +2,37 @@
     "date": "2026-11-06",
     "articles": [
         {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6947-20261106",
+            "title": "【CS放送視聴者プレゼント】令和8年熊本地震復興事業「チャリロト協賛松本秀人杯争奪戦」（ＦⅠ・デイ）",
+            "url": "https://www.kumamotokeirin.jp/news/20261106f2/",
+            "categories": [
+                "イベント情報",
+                "CS",
+                "ＳＰＥＥＤチャンネル",
+                "クオカード",
+                "スピードチャンネル",
+                "プレゼント",
+                "熊本",
+                "熊本けいりん",
+                "熊本競輪",
+                "視聴者"
+            ],
+            "publishedAt": "2026-11-06T08:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611050001785",
+            "title": "【競輪】ひと皮向けた福田稔希　真杉匠のナイスアドバイスで視野が広くなった／ヤマコウ",
+            "url": "https://www.nikkansports.com/public_race/keirin/yamakou/news/202611050001785.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-06T05:00:00+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "800143-20261106",
