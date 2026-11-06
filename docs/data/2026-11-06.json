@@ -2,6 +2,108 @@
     "date": "2026-11-06",
     "articles": [
         {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61766-20261106",
+            "title": "未確定車券抽選会【高松競輪「西日本カップ 日本名輪会カップ　第32回 吉田実記念杯」FⅠ】",
+            "url": "https://www.komatsushimakeirin.com/2026/11/06/%e6%9c%aa%e7%a2%ba%e5%ae%9a%e8%bb%8a%e5%88%b8%e6%8a%bd%e9%81%b8%e4%bc%9a%e3%80%90%e9%ab%98%e6%9d%be%e7%ab%b6%e8%bc%aa%e3%80%91/",
+            "categories": [
+                "EVENT",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-06T15:38:52+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61757-20261106",
+            "title": "未確定車券抽選会【小倉競輪「第68回朝日新聞社杯競輪祭」GⅠ】",
+            "url": "https://www.komatsushimakeirin.com/2026/11/06/%e6%9c%aa%e7%a2%ba%e5%ae%9a%e8%bb%8a%e5%88%b8%e6%8a%bd%e9%81%b8%e4%bc%9a%e3%80%90%e5%b0%8f%e5%80%89%e7%ab%b6%e8%bc%aa%e3%80%91/",
+            "categories": [
+                "EVENT",
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-06T15:38:35+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "7003-20261106",
+            "title": "【場内イベント｜11/7㊏・8 ㊐】ＦⅠイベント情報！【松本秀人杯争奪戦】",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%a0%b4%e5%86%85%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%ef%bd%9c11-7%e3%8a%8f%e3%83%bb8-%e3%8a%90%e3%80%91%ef%bd%86%e2%85%b0%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%83%85%e5%a0%b1%ef%bc%81/",
+            "categories": [
+                "過去のイベント情報",
+                "イベント",
+                "クオカード",
+                "プレゼント",
+                "抽選会",
+                "未確定車券",
+                "熊本けいりん",
+                "熊本競輪"
+            ],
+            "publishedAt": "2026-11-06T15:27:46+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49665",
+            "title": "【厳選ナイター&ミッド】別府2Rの野見泰要(16:01発走)ら「車券の軸しっかり」の4戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49665",
+            "categories": [],
+            "publishedAt": "2026-11-06T12:15:00+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/11/ctcraizinfii-4306.html",
+            "title": "視聴者プレゼントのお知らせ　 １１月８日（日）～１１月１０日（火）CTCは３分前杯，RAIZINナイトレース５００（ナイター・FII）",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/11/ctcraizinfii-4306.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-11-06T12:12:13+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/11/ctcraizinfii-98d0.html",
+            "title": "開催中キャンペーン・イベントのご案内 　１１月８日（日）～１１月１０日（火）CTCは３分前杯，RAIZINナイトレース５００（ナイター・FII）",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/11/ctcraizinfii-98d0.html",
+            "categories": [
+                "イベント・サービス"
+            ],
+            "publishedAt": "2026-11-06T12:11:42+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49650",
+            "title": "【今週の競輪好プレー】皿屋豊“やるしかないでしょう”  /防府G3・最終日特別優秀・11R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49650",
+            "categories": [],
+            "publishedAt": "2026-11-06T12:00:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20341-20261106",
+            "title": "11月のたこやき大八営業時間のお知らせ",
+            "url": "https://hiroshima-keirin.com/2026/11/06/daihachi2611/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-11-06T10:49:46+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49663",
+            "title": "【京王閣競輪・ガールズ】成績急上昇中の普久原美海",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49663",
+            "categories": [],
+            "publishedAt": "2026-11-06T09:00:00+09:00"
+        },
+        {
             "source": "kumamoto",
             "sourceName": "熊本競輪",
             "id": "6947-20261106",
@@ -49,6 +151,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%9b%9b%e6%97%a5%e5%b8%82%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae11%ef%bd%92%e3%80%91%e7%9c%9f%e9%8d%8b%e3%80%80%e5%be%a9%e8%aa%bf%e9%81%82%e3%81%92%e3%81%a6/",
             "categories": [],
             "publishedAt": "2026-11-06T00:01:42+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261106",
+            "title": "『四日市競輪開設75周年記念（GIII）レポート』　初日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/48yokkaiti/2026/report_1.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-06T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19542-20261106",
+            "title": "吉川　敬介選手が11/8～10奈良競輪で特別昇班に挑戦！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19542",
+            "categories": [
+                "選手"
+            ],
+            "publishedAt": "2026-11-06T00:00:00+09:00"
         }
     ]
 }
