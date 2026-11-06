@@ -2,6 +2,242 @@
     "date": "2026-11-06",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060002029",
+            "title": "【競輪】小原唯志が単騎まくりで決勝進出「何とかなると思っていました」／京王閣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611060002029.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-06T23:43:51+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060002027",
+            "title": "【競輪】増成富夫が今年初の決勝進出「たまにはうれしいことがあってもええな」／小倉ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611060002027.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-06T23:27:37+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49678",
+            "title": "【四日市G3】中野慎詞「後手を踏むレースは自分の中で許せなかった」/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49678",
+            "categories": [],
+            "publishedAt": "2026-11-06T22:33:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49640",
+            "title": "【四日市G3】欠場(不参加)、追加、補充選手一覧 ※6日22時8分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49640",
+            "categories": [],
+            "publishedAt": "2026-11-06T22:08:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49677",
+            "title": "【四日市G3予想】寺崎浩平、古性優作、浅井康太ら27名が準決勝へ/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49677",
+            "categories": [],
+            "publishedAt": "2026-11-06T22:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060001914",
+            "title": "【競輪】富永昌久が最後方からイン突き快勝「内が空いていたのは分かった」／小倉ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611060001914.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-06T21:39:03+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060001889",
+            "title": "【競輪】初日4着の鈴木奈央が予2を差し切り快勝「結果にこだわりました」／京王閣ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611060001889.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-06T21:20:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060001477",
+            "title": "【競輪】中野浩一氏がチャリティゴルフコンペ開催、収益金は被災した熊本の復興支援に寄付",
+            "url": "https://www.nikkansports.com/public_race/news/202611060001477.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-06T21:07:14+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49673",
+            "title": "【四日市G3結果】和田圭が1着、古性優作は3着に敗れる 3連単は85番⼈気の29,480円/泗水杯争奪戦二次予選(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49673",
+            "categories": [],
+            "publishedAt": "2026-11-06T20:45:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060001589",
+            "title": "【競輪】藤田楓が14場所連続で予選１着クリア「最後までしっかり踏めました」／熊本",
+            "url": "https://www.nikkansports.com/public_race/news/202611060001589.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-06T20:22:16+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49671",
+            "title": "【熊本競輪】櫻井正孝が難局を凌いで準決勝進出",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49671",
+            "categories": [],
+            "publishedAt": "2026-11-06T20:08:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49670",
+            "title": "【熊本競輪】同期や父の走りが刺激になっている藤田楓",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49670",
+            "categories": [],
+            "publishedAt": "2026-11-06T19:34:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12473-20261106",
+            "title": "【青森競輪】11月23日　先着スピードくじ",
+            "url": "https://aomorikeirin.com/event/uncategorized/2026-11-23senntyaku/",
+            "categories": [],
+            "publishedAt": "2026-11-06T19:26:20+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12464-20261106",
+            "title": "【青森競輪】11月22日　先着スピードくじ",
+            "url": "https://aomorikeirin.com/event/uncategorized/2026-11-22senntyaku/",
+            "categories": [],
+            "publishedAt": "2026-11-06T19:21:16+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12456-20261106",
+            "title": "【青森競輪】11月13日　先着スピードくじ",
+            "url": "https://aomorikeirin.com/event/uncategorized/2026-11-13senntyaku/",
+            "categories": [],
+            "publishedAt": "2026-11-06T19:16:10+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115731-20261106",
+            "title": "【借金1億2800万円】池谷直樹×競輪ルーキー アスリートとお金の話",
+            "url": "https://keirin-marche.jp/enjoy/movievariety/movie-variety94/",
+            "categories": [],
+            "publishedAt": "2026-11-06T19:00:52+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257461-20261106",
+            "title": "「競輪」テーマの短編映画が国際スポーツ映画祭で優秀賞受賞",
+            "url": "https://morecadence.jp/keirin/257461",
+            "categories": [
+                "競輪",
+                "JKA"
+            ],
+            "publishedAt": "2026-11-06T18:37:48+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6957-20261106",
+            "title": "【熊本市営競輪】令和8年熊本地震復興事業「チャリロト協賛松本秀人杯争奪戦」（ＦⅠ・デイ）",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e7%86%8a%e6%9c%ac%e5%b8%82%e5%96%b6%e7%ab%b6%e8%bc%aa%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad%e3%80%8c%e3%83%81%e3%83%a3/",
+            "categories": [
+                "レース情報",
+                "ＣＳ放送",
+                "ミッドナイト",
+                "公式",
+                "熊本けいりん",
+                "熊本競輪",
+                "視聴者プレゼント"
+            ],
+            "publishedAt": "2026-11-06T18:34:29+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49669",
+            "title": "【熊本競輪】佐藤幸治「ホームで菱田君が駆けてくれたおかげでいい流れになった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49669",
+            "categories": [],
+            "publishedAt": "2026-11-06T18:11:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49668",
+            "title": "【熊本競輪】才迫開との2分戦になった林慶次郎「あんな感触は久しぶりでした」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49668",
+            "categories": [],
+            "publishedAt": "2026-11-06T18:05:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060001234",
+            "title": "【競輪】菊池竣太朗は成長を実感「自力は選手になって今が一番だと思う」／四日市G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611060001234.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-06T17:41:12+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "68584-20261106",
+            "title": "おさいふパンパン！けいりん！マダムッシュ★",
+            "url": "https://kyoto-mukomachikeirin.com/68584/",
+            "categories": [
+                "大人気❤"
+            ],
+            "publishedAt": "2026-11-06T16:32:47+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "68578-20261106",
+            "title": "ムッチーナイトレースin奈良　開催！！",
+            "url": "https://kyoto-mukomachikeirin.com/68578/",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-06T16:26:48+09:00"
+        },
+        {
             "source": "komatsushima",
             "sourceName": "小松島競輪",
             "id": "61766-20261106",
@@ -42,6 +278,17 @@
                 "熊本競輪"
             ],
             "publishedAt": "2026-11-06T15:27:46+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "585",
+            "title": "11月13日（金）FM香川「競輪にい講座！」のゲストは福島栄一選手です",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-585.html",
+            "categories": [
+                "FM香川"
+            ],
+            "publishedAt": "2026-11-06T14:31:10+09:00"
         },
         {
             "source": "netkeirin",
@@ -171,6 +418,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19542",
             "categories": [
                 "選手"
+            ],
+            "publishedAt": "2026-11-06T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19543-20261106",
+            "title": "ミラノ国際スポーツ映画祭における競輪をテーマとした映像作品の受賞について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19543",
+            "categories": [
+                "お知らせ"
             ],
             "publishedAt": "2026-11-06T00:00:00+09:00"
         }
