@@ -2,6 +2,17 @@
     "date": "2026-11-07",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611060001983",
+            "title": "【競輪】逃げて勝ち上がった岩井芯は着実に成長している／ヤマコウ",
+            "url": "https://www.nikkansports.com/public_race/keirin/yamakou/news/202611060001983.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-07T05:00:00+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "800215-20261107",
