@@ -2,6 +2,35 @@
     "date": "2026-11-08",
     "articles": [
         {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12307-20261108",
+            "title": "【青森競輪】『前検日コメントならウィンチケット杯/ニッカン・コム杯』視聴者プレゼント(１１月８日～１０日)",
+            "url": "https://aomorikeirin.com/event/uncategorized/viewer_present_1108/",
+            "categories": [],
+            "publishedAt": "2026-11-08T07:55:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49695",
+            "title": "四日市競輪G3ナイター（準決勝）レポート【決勝進出の9選手コメント】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49695",
+            "categories": [],
+            "publishedAt": "2026-11-08T07:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070001913",
+            "title": "【競輪】浅井康太は単騎の戦いになるが少ないチャンスをものにしたい／ヤマコウ",
+            "url": "https://www.nikkansports.com/public_race/keirin/yamakou/news/202611070001913.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-08T05:01:00+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "800525-20261108",
