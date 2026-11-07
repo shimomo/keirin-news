@@ -2,6 +2,72 @@
     "date": "2026-11-07",
     "articles": [
         {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "9034-20261107",
+            "title": "CSキーワードクイズ応募ページ",
+            "url": "https://www.kochi-keirin.jp/news/9034",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-07T10:00:00+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8341-20261107",
+            "title": "第68回朝日新聞社杯競輪祭（GI）展望",
+            "url": "https://keirin-web.com/race-prospects/great-race/8341/",
+            "categories": [
+                "グレードレース展望",
+                "レース展望"
+            ],
+            "publishedAt": "2026-11-07T09:38:00+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8383-20261107",
+            "title": "KEIRINグランプリ2026への道 第35回寬仁親王牌・世界選手権記念トーナメント",
+            "url": "https://keirin-web.com/movie/8383/",
+            "categories": [
+                "動画"
+            ],
+            "publishedAt": "2026-11-07T09:37:06+09:00"
+        },
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "10443-20261107",
+            "title": "〈12/20〉PIST6おやこ補助輪卒業教室 開催のお知らせ🚲",
+            "url": "https://chiba.pist6.com/news/10443.html",
+            "categories": [
+                "イベント",
+                "ピックアップ"
+            ],
+            "publishedAt": "2026-11-07T09:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "528-20261107",
+            "title": "マル得情報更新♪",
+            "url": "https://www.kochi-keirin.jp/news/528",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-07T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49679",
+            "title": "【京王閣競輪・ミッドナイト】A級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49679",
+            "categories": [],
+            "publishedAt": "2026-11-07T08:58:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611060001983",
@@ -20,6 +86,39 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%ab%98%e7%9f%a5%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a5%ef%bc%96%ef%bd%92%e3%80%91%e9%9c%b2%e8%b0%b7%e8%8f%9c%e3%80%85%e8%8a%b1%e3%80%80%e6%86%a7%e3%82%8c%e3%81%ae%e5%b1%b1%e5%8e%9f%e3%81%a8/",
             "categories": [],
             "publishedAt": "2026-11-07T00:01:58+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19544-20261107",
+            "title": "【プロスポーツ号外版】立川競輪「施設整備等協賛競輪」GIIIの主力・注目選手",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19544",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-07T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19545-20261107",
+            "title": "ゆうちょ銀行からのシステムメンテナンスのお知らせについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19545",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-11-07T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19546-20261107",
+            "title": "楽天銀行からのシステムメンテナンスのお知らせについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19546",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-11-07T00:00:00+09:00"
         }
     ]
 }
