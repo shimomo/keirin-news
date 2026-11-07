@@ -2,6 +2,175 @@
     "date": "2026-11-07",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49694",
+            "title": "【四日市G3】S級決勝インタビュー/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49694",
+            "categories": [],
+            "publishedAt": "2026-11-07T22:55:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49691",
+            "title": "【四日市G3予想】古性優作、地元・浅井康太ら決勝へ 松浦悠士は敗退/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49691",
+            "categories": [],
+            "publishedAt": "2026-11-07T20:51:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49688",
+            "title": "【四日市G3結果】中野慎詞が1着 3連単は79番⼈気の16,990円/泗水杯争奪戦準決勝(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49688",
+            "categories": [],
+            "publishedAt": "2026-11-07T20:42:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070001541",
+            "title": "【競輪】三神遼矢がG3初勝利も反省の弁「踏み出しが緩く苦しくなってしまった」／四日市G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611070001541.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-07T20:32:10+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070001417",
+            "title": "【競輪】今場所で特昇かかる吉川敬介「特に意識しないようにして」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611070001417.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-07T20:03:44+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070001428",
+            "title": "【競輪】庄子琢心がライバルの特昇阻止に気合「決勝までピン、ピンで行きたい」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611070001428.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-07T19:28:46+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49687",
+            "title": "【熊本競輪】松本秀之介が寒さ対策施して初の地元優勝へ",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49687",
+            "categories": [],
+            "publishedAt": "2026-11-07T19:25:00+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5847-20261107",
+            "title": "競輪カレンダー2027年版　プレゼントのお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/%e7%ab%b6%e8%bc%aa%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc2027%e5%b9%b4%e7%89%88%e3%80%80%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-11-07T19:03:23+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49686",
+            "title": "【熊本競輪】半田誠が初対戦の強敵に挑む",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49686",
+            "categories": [],
+            "publishedAt": "2026-11-07T18:39:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49685",
+            "title": "【熊本競輪】S級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49685",
+            "categories": [],
+            "publishedAt": "2026-11-07T18:05:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49684",
+            "title": "【熊本競輪】伊藤京介「しっかり自分のレースで勝てるように」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49684",
+            "categories": [],
+            "publishedAt": "2026-11-07T17:57:00+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "6957-20261107",
+            "title": "【熊本市営競輪】令和8年熊本地震復興事業「チャリロト協賛松本秀人杯争奪戦」（ＦⅠ・デイ）",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e7%86%8a%e6%9c%ac%e5%b8%82%e5%96%b6%e7%ab%b6%e8%bc%aa%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87%e5%be%a9%e8%88%88%e4%ba%8b%e6%a5%ad%e3%80%8c%e3%83%81%e3%83%a3/",
+            "categories": [
+                "レース情報",
+                "ＣＳ放送",
+                "ミッドナイト",
+                "公式",
+                "熊本けいりん",
+                "熊本競輪",
+                "視聴者プレゼント"
+            ],
+            "publishedAt": "2026-11-07T17:36:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070001059",
+            "title": "【競輪】船山真生は途中欠場となった前回地元戦のリベンジ「最終日を決勝で」／松山ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611070001059.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-07T17:26:11+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070001054",
+            "title": "【競輪】梶原大地が肉離れから復帰戦、状態微妙でまずは「準決進出」が目標／松山ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611070001054.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-07T17:25:30+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/2027-3107.html",
+            "title": "2027年競輪カレンダー配布のお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/2027-3107.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-07T17:00:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13923-20261107",
+            "title": "前橋恵輪堂閉店のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13923/",
+            "categories": [
+                "重要",
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-11-07T17:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611070000773",
@@ -58,7 +227,7 @@
             "source": "hakodate",
             "sourceName": "函館競輪",
             "id": "/event/2026/11/2026117-9231.html",
-            "title": "2026年11月7日【函館けいりん わくわくファミリーフェスタ】のお知らせ",
+            "title": "≪終了しました≫2026年11月7日【函館けいりん わくわくファミリーフェスタ】のお知らせ",
             "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/2026117-9231.html",
             "categories": [
                 "場内イベント"
