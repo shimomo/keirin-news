@@ -2,6 +2,70 @@
     "date": "2026-11-07",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070000773",
+            "title": "【競輪】大崎和也が初日番組にニンマリ「地元3割増しで頑張ります」／青森",
+            "url": "https://www.nikkansports.com/public_race/keirin/nikkan/2026/news/202611070000773.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-07T16:12:59+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611070000766",
+            "title": "【競輪】入江航太と高本美穂のきょうだい弟子がヤル気満々、高本は「師匠と一緒だし…」／青森",
+            "url": "https://www.nikkansports.com/public_race/keirin/nikkan/2026/news/202611070000766.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-07T15:57:29+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49683",
+            "title": "【宇都宮競輪・ナイター】A級初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49683",
+            "categories": [],
+            "publishedAt": "2026-11-07T15:32:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49682",
+            "title": "【青森競輪・モーニング】特別昇級を目指す尾野翔一「あと4場所の内に決めたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49682",
+            "categories": [],
+            "publishedAt": "2026-11-07T14:12:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257067-20261107",
+            "title": "【競輪】競輪祭直前、2026年G1「決勝進出者」をまとめてチェック",
+            "url": "https://morecadence.jp/keirin/257067",
+            "categories": [
+                "競輪",
+                "road to GP2026",
+                "競輪祭"
+            ],
+            "publishedAt": "2026-11-07T14:03:06+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/2026117-9231.html",
+            "title": "2026年11月7日【函館けいりん わくわくファミリーフェスタ】のお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/2026117-9231.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-07T10:05:00+09:00"
+        },
+        {
             "source": "kochi",
             "sourceName": "高知競輪",
             "id": "9034-20261107",
@@ -86,6 +150,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e9%ab%98%e7%9f%a5%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a5%ef%bc%96%ef%bd%92%e3%80%91%e9%9c%b2%e8%b0%b7%e8%8f%9c%e3%80%85%e8%8a%b1%e3%80%80%e6%86%a7%e3%82%8c%e3%81%ae%e5%b1%b1%e5%8e%9f%e3%81%a8/",
             "categories": [],
             "publishedAt": "2026-11-07T00:01:58+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261107",
+            "title": "『四日市競輪開設75周年記念（GIII）レポート』　2日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/48yokkaiti/2026/report_2.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-07T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",
