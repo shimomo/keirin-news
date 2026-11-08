@@ -2,6 +2,155 @@
     "date": "2026-11-08",
     "articles": [
         {
+            "source": "kishiwada",
+            "sourceName": "岸和田競輪",
+            "id": "3650-20261108",
+            "title": "2027年版KEIRINカレンダープレゼント！",
+            "url": "https://chalionkun.com/news/2027%e5%b9%b4%e7%89%88keirin%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%ef%bc%81/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-08T17:56:25+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月9日（月）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」１日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-08T17:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080001132",
+            "title": "【競輪】市田龍生都は４週間ぶり実戦　年末のヤングGPへ「きっかけを作りたい」／松戸",
+            "url": "https://www.nikkansports.com/public_race/news/202611080001132.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-08T16:54:01+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080001109",
+            "title": "【競輪】鈴木竜士は直前まで真杉匠と合宿「競輪祭に向けて頑張っているところなので」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202611080001109.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-08T16:51:19+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49706",
+            "title": "【松戸競輪・ナイター】A級でも強さを見せている小笠原匠海",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49706",
+            "categories": [],
+            "publishedAt": "2026-11-08T16:03:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49705",
+            "title": "【武雄競輪】追加参戦となる町田太我「チェーンを変えて、競輪祭の前に実戦を走っておきたかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49705",
+            "categories": [],
+            "publishedAt": "2026-11-08T15:51:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49704",
+            "title": "【武雄競輪】山田英明「地元大会ですし、昭彦さんの大会は特別なもの」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49704",
+            "categories": [],
+            "publishedAt": "2026-11-08T15:47:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49703",
+            "title": "【武雄競輪】S級初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49703",
+            "categories": [],
+            "publishedAt": "2026-11-08T15:41:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12491-20261108",
+            "title": "【再掲及び追加事項】おもしろ自転車エリア/こども広場エリア　今期終了について",
+            "url": "https://aomorikeirin.com/news/%e9%87%8d%e8%a6%81/2026-11-08omosirokodomo/",
+            "categories": [
+                "重要"
+            ],
+            "publishedAt": "2026-11-08T15:30:28+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49702",
+            "title": "【松戸競輪・ナイター】シリーズリーダーは追加参戦の小原太樹「実戦を走って仕上げていきたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49702",
+            "categories": [],
+            "publishedAt": "2026-11-08T15:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49701",
+            "title": "【松戸競輪・ナイター】松崎広太は前回G1初出場も「何もできなかったし悔しかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49701",
+            "categories": [],
+            "publishedAt": "2026-11-08T15:21:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "356",
+            "title": "【イベント報告】11/8(土）たけお競輪まるごとプロジェクト「地元選手応援グッズづくり」が開催されました。",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/356",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-08T15:17:19+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49700",
+            "title": "【青森競輪・モーニング】深澤伸介は復調ムード「伏見世代51歳、まだまだ頑張らないと」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49700",
+            "categories": [],
+            "publishedAt": "2026-11-08T14:50:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080000477",
+            "title": "【競輪】移動疲れなんの、北津留千羽巻き返す「ホームで緩んでいるときに行けば良かった」／青森",
+            "url": "https://www.nikkansports.com/public_race/news/202611080000477.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-08T13:41:23+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49699",
+            "title": "【厳選ナイター&ミッド】15連勝中の太田りゆは宇都宮6R(17:51発走)、特昇挑戦のルーキー吉川敬介は奈良4R！/「車券の軸しっかり」の6戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49699",
+            "categories": [],
+            "publishedAt": "2026-11-08T12:45:00+09:00"
+        },
+        {
             "source": "takeo",
             "sourceName": "武雄競輪",
             "id": "204",
