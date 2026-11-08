@@ -2,15 +2,104 @@
     "date": "2026-11-08",
     "articles": [
         {
-            "source": "kishiwada",
-            "sourceName": "岸和田競輪",
-            "id": "3650-20261108",
-            "title": "2027年版KEIRINカレンダープレゼント！",
-            "url": "https://chalionkun.com/news/2027%e5%b9%b4%e7%89%88keirin%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%ef%bc%81/",
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080002420",
+            "title": "【競輪】ベテラン小泉俊也が押し切り白星発進　反省多いが「１着で良かった」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611080002420.html",
             "categories": [
-                "お知らせ"
+                "ミッドナイト競輪"
             ],
-            "publishedAt": "2026-11-08T17:56:25+09:00"
+            "publishedAt": "2026-11-08T22:53:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080002386",
+            "title": "【競輪】福地晶がパワー対決制して「状態は悪くない」５場所連続の決勝照準／松山ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611080002386.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-08T22:31:03+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49713",
+            "title": "【四日市競輪G3ナイター】古性優作が今年4回目のG3優勝！「頼もしい後輩に助けられて優勝できたと思います」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49713",
+            "categories": [],
+            "publishedAt": "2026-11-08T22:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080002382",
+            "title": "【競輪】山下季秦が３カ月ぶりの予選１着「状態がやっと良くなってきた」／松山ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611080002382.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-08T22:25:33+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49711",
+            "title": "【四日市G3】優勝者インタビュー/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49711",
+            "categories": [],
+            "publishedAt": "2026-11-08T21:51:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49712",
+            "title": "【四日市G3】決勝レース後2、3着コメント/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49712",
+            "categories": [],
+            "publishedAt": "2026-11-08T21:47:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080002212",
+            "title": "【競輪】４日間の総売り上げは59億円オーバーで目標をクリア／四日市G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611080002212.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-08T21:45:11+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49710",
+            "title": "【宇都宮競輪・ガールズ】太田りゆ「まずは競輪祭より、この開催を勝ち切ることが大事」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49710",
+            "categories": [],
+            "publishedAt": "2026-11-08T21:20:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49707",
+            "title": "【四日市G3結果】古性優作が優勝！ 地元・浅井康太は3着、3連単は3,130円/泗水杯争奪戦決勝",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49707",
+            "categories": [],
+            "publishedAt": "2026-11-08T20:41:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611080001848",
+            "title": "【競輪】松岡晋乃介が当日欠場　予選7Rに５番車で出走予定も急病のため／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611080001848.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-08T19:44:55+09:00"
         },
         {
             "source": "takeo",
@@ -21,7 +110,18 @@
             "categories": [
                 "RACE"
             ],
-            "publishedAt": "2026-11-08T17:00:00+09:00"
+            "publishedAt": "2026-11-08T18:30:00+09:00"
+        },
+        {
+            "source": "kishiwada",
+            "sourceName": "岸和田競輪",
+            "id": "3650-20261108",
+            "title": "2027年版KEIRINカレンダープレゼント！",
+            "url": "https://chalionkun.com/news/2027%e5%b9%b4%e7%89%88keirin%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%83%97%e3%83%ac%e3%82%bc%e3%83%b3%e3%83%88%ef%bc%81/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-08T17:56:25+09:00"
         },
         {
             "source": "nikkansports",
