@@ -845,7 +845,7 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-09T01:20:05+09:00",
+    "checkedAt": "2026-11-09T05:45:47+09:00",
     "failures": [
         {
             "source": "omiya",
@@ -856,11 +856,6 @@
             "source": "seibuen",
             "sourceName": "西武園競輪",
             "message": "GET https://www.keirin-saitama.jp/seibuen/topics/feed/ returned HTTP 503."
-        },
-        {
-            "source": "takamatsu",
-            "sourceName": "高松競輪",
-            "message": "GET https://tkmtkeirin.blog.fc2.com/?xml returned HTTP 403."
         }
     ]
 }

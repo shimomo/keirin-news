@@ -2,6 +2,17 @@
     "date": "2026-11-09",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090000020",
+            "title": "【競輪】山村慮太は白星発進で後輩に感謝も「ものにできてる」と好調を維持／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611090000020.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-09T01:19:09+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "800709-20261109",
