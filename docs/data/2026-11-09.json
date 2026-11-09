@@ -2,6 +2,59 @@
     "date": "2026-11-09",
     "articles": [
         {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/11141511-new-7108.html",
+            "title": "【11月14日・15日】11月『ＧⅢ準決勝・決勝の日』は NEWミニガラポン抽選会イベントのお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/11141511-new-7108.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-09T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49715",
+            "title": "【競輪予想】武雄競輪で山崎賢人が地元勢を連れて白星発進狙う 本日のイチオシは本命党におススメの高知12R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49715",
+            "categories": [],
+            "publishedAt": "2026-11-09T09:00:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月9日（月）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」１日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-09T09:00:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "204",
+            "title": "【11/9（月）▶11（水）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」 番組視聴者プレゼント！",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/204",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-11-09T07:59:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "355",
+            "title": "【11/9（月）～11（水）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」武雄競輪場内ファンサービス！情報",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/355",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-09T07:30:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611090000020",
