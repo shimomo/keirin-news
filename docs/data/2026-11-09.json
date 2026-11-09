@@ -2,6 +2,116 @@
     "date": "2026-11-09",
     "articles": [
         {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257128-20261109",
+            "title": "『ヤンググランプリ2026』出場予定選手の経歴・プロフィール",
+            "url": "https://morecadence.jp/keirin/257128",
+            "categories": [
+                "競輪",
+                "ヤンググランプリ2026",
+                "中石湊",
+                "小堀敢太",
+                "山崎歩夢",
+                "岩井芯",
+                "市田龍生都",
+                "栗山和樹",
+                "森田一郎",
+                "谷内健太",
+                "阿部英斗"
+            ],
+            "publishedAt": "2026-11-09T15:56:09+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115752-20261109",
+            "title": "11月20日は「競輪発祥の日」！10月29日は「オートレース発祥の日」！ 豪華プレゼントキャンペーン開催！",
+            "url": "https://keirin-marche.jp/enjoy/special/campaign1109/",
+            "categories": [],
+            "publishedAt": "2026-11-09T15:05:45+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090000658",
+            "title": "【競輪】磯村光舞が突っ張り先行で勝利　２度目の優勝のチャンスも十分だ／青森",
+            "url": "https://www.nikkansports.com/public_race/keirin/nikkan/2026/news/202611090000658.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-09T14:06:27+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090000675",
+            "title": "【競輪】決勝は田口勇介に援軍ずらり　今年最後の地元戦で有終の美を飾るか／青森",
+            "url": "https://www.nikkansports.com/public_race/keirin/nikkan/2026/news/202611090000675.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-09T14:00:59+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "584",
+            "title": "高松市営松山競輪「モーニング競輪 ラブリン杯＆ガールズケイリン」（ＦⅡ） 開催＆実況中継等のお知らせ ※プレゼントキャンペーンの応募はこちらから",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-584.html",
+            "categories": [
+                "イベント・キャンペーン"
+            ],
+            "publishedAt": "2026-11-09T13:06:13+09:00"
+        },
+        {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12349-20261109",
+            "title": "高校生たちが考える、自転車競技のその先 『競輪甲子園2026』に養成所ブースを出展",
+            "url": "https://keirin-jik.jp/article/12349/",
+            "categories": [],
+            "publishedAt": "2026-11-09T12:49:41+09:00"
+        },
+        {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "60028-20261109",
+            "title": "令和8年度　第6回後節　玉野市営玉野競輪（FⅡナイター）「両備バス杯&CTCは3分前杯」",
+            "url": "https://www.tamano-keirin.jp/holding/%e4%bb%a4%e5%92%8c8%e5%b9%b4%e5%ba%a6%e3%80%80%e7%ac%ac6%e5%9b%9e%e5%be%8c%e7%af%80%e3%80%80%e7%8e%89%e9%87%8e%e5%b8%82%e5%96%b6%e7%8e%89%e9%87%8e%e7%ab%b6%e8%bc%aa%ef%bc%88f%e2%85%b1%e3%83%8a/",
+            "categories": [
+                "開催情報"
+            ],
+            "publishedAt": "2026-11-09T12:28:36+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49714",
+            "title": "【競輪賞金ランキング】古性優作が賞金積み増し、首位堅持",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49714",
+            "categories": [],
+            "publishedAt": "2026-11-09T12:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49725",
+            "title": "【四日市G3】AIはこう見た 決勝戦のレース評価/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49725",
+            "categories": [],
+            "publishedAt": "2026-11-09T11:50:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49716",
+            "title": "【四日市G3・総売上】59億668万9800円 目標額を上回る/泗水杯争奪戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49716",
+            "categories": [],
+            "publishedAt": "2026-11-09T11:00:00+09:00"
+        },
+        {
             "source": "hakodate",
             "sourceName": "函館競輪",
             "id": "/event/2026/11/11141511-new-7108.html",
@@ -9,6 +119,17 @@
             "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/11141511-new-7108.html",
             "categories": [
                 "場内イベント"
+            ],
+            "publishedAt": "2026-11-09T09:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "528-20261109",
+            "title": "マル得情報更新♪",
+            "url": "https://www.kochi-keirin.jp/news/528",
+            "categories": [
+                "高知けいりんからのお知らせ"
             ],
             "publishedAt": "2026-11-09T09:00:00+09:00"
         },
@@ -82,6 +203,50 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e6%ad%a6%e9%9b%84%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a5%ef%bc%97%ef%bd%92%e3%80%91%e8%b0%b7%e5%86%85%e3%80%80%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%82%8b/",
             "categories": [],
             "publishedAt": "2026-11-09T00:01:35+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/event/event_2026110901.html",
+            "title": "川崎競輪所属　競輪祭出場選手　壮行会＆トークショー開催！",
+            "url": "https://www.kawasakikeirin.com/event/event_2026110901.html",
+            "categories": [
+                "event"
+            ],
+            "publishedAt": "2026-11-09T00:00:00+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/info/info_2026110901.html",
+            "title": "「２０２７年版競輪カレンダー」配布について",
+            "url": "https://www.kawasakikeirin.com/info/info_2026110901.html",
+            "categories": [
+                "info"
+            ],
+            "publishedAt": "2026-11-09T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19506-20261109",
+            "title": "『四日市競輪開設75周年記念（GIII）レポート』　最終日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/48yokkaiti/2026/report_4.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-09T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19556-20261109",
+            "title": "篠原 輝利選手が11/10～12大宮競輪で特別昇班に挑戦！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19556",
+            "categories": [
+                "選手"
+            ],
+            "publishedAt": "2026-11-09T00:00:00+09:00"
         }
     ]
 }
