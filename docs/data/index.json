@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-11-10",
         "2026-11-09",
         "2026-11-08",
         "2026-11-07",
@@ -845,8 +846,13 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-09T16:12:01+09:00",
+    "checkedAt": "2026-11-10T02:48:31+09:00",
     "failures": [
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "message": "PJ1001json was not found."
+        },
         {
             "source": "omiya",
             "sourceName": "大宮競輪",

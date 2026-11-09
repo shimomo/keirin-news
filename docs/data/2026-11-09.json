@@ -2,6 +2,191 @@
     "date": "2026-11-09",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001770",
+            "title": "【競輪】久保田智之が２場所連続の完全Ｖに挑む「力を出し切って勝ちたい」／松山ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611090001770.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-09T23:26:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001768",
+            "title": "【競輪】野口修平は望外の展開利で決勝へ「想定外のいい流れになっている」／松山ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611090001768.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-09T23:25:08+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49735",
+            "title": "【松戸競輪・ナイター】次走に向けて弾みを付けたい柏野智典",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49735",
+            "categories": [],
+            "publishedAt": "2026-11-09T23:16:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49734",
+            "title": "【宇都宮競輪・ナイター】A級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49734",
+            "categories": [],
+            "publishedAt": "2026-11-09T23:12:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001764",
+            "title": "【競輪】吉川敬介が８連勝で特昇リーチも準決を反省、決勝は平常心で挑む／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611090001764.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-09T23:07:40+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001760",
+            "title": "【競輪】庄子琢心が連勝で決勝進出「一番いい状態に持っていきたいですね」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611090001760.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-09T23:01:43+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001737",
+            "title": "【競輪】充実と進化光る中島詩音　予選突破に浮かれず準決も「自力勝負」と強攻策／松戸",
+            "url": "https://www.nikkansports.com/public_race/news/202611090001737.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-09T22:13:21+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20383-20261109",
+            "title": "11月13日【山原さくら選手 トークショー中止のお知らせ】",
+            "url": "https://hiroshima-keirin.com/2026/11/09/11%e6%9c%8813%e6%97%a5%e3%80%90%e5%b1%b1%e5%8e%9f%e3%81%95%e3%81%8f%e3%82%89%e9%81%b8%e6%89%8b-%e3%83%88%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%bc%e4%b8%ad%e6%ad%a2%e3%81%ae%e3%81%8a%e7%9f%a5/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-09T22:06:18+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49733",
+            "title": "【松戸競輪・ナイター】上向きな橋本瑠偉「一番ひどかった時を思えばだいぶ良くなっている」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49733",
+            "categories": [],
+            "publishedAt": "2026-11-09T20:45:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49732",
+            "title": "【松戸競輪・ナイター】病み上がりの市田龍生都が逃げ切り発進「心肺機能が落ちていてキツかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49732",
+            "categories": [],
+            "publishedAt": "2026-11-09T20:38:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13889-20261109",
+            "title": "11月29日（日）「群馬マンモスキッズスクール」参加者募集のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13889/",
+            "categories": [
+                "競輪",
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-11-09T20:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001378",
+            "title": "【競輪】坂田康季がまくって予選３連勝「今回は大師匠の冠レースだし、しっかり走る」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202611090001378.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-09T19:02:33+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49730",
+            "title": "【武雄競輪】山田英明と再連係する山崎賢人「今度は抜かれないように(笑)」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49730",
+            "categories": [],
+            "publishedAt": "2026-11-09T19:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090001411",
+            "title": "【競輪】豪華ゲスト出演の前橋ミッドナイト「競輪居酒屋」イベントチケット販売中",
+            "url": "https://www.nikkansports.com/public_race/info/news/202611090001411.html",
+            "categories": [
+                "ボート競輪オートライブ速報"
+            ],
+            "publishedAt": "2026-11-09T18:57:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49729",
+            "title": "【武雄競輪】坂田康季は大師匠の冠杯直前にアクシデントも「佐賀の選手として休むわけにはいかない」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49729",
+            "categories": [],
+            "publishedAt": "2026-11-09T18:50:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月10日（火）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」２日目（準決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-09T17:30:00+09:00"
+        },
+        {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/11/8iictc381146-11d6.html",
+            "title": "第8回後節ＦIIナイター「CTCは3分前杯♡」（令和8年11月4日～6日）の優勝者はコチラ！",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/11/8iictc381146-11d6.html",
+            "categories": [],
+            "publishedAt": "2026-11-09T16:44:32+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611090000945",
+            "title": "【競輪】ルーキー篠原輝利は今節で特昇に挑戦　ヤング茨城勢ともがき合って急成長／大宮",
+            "url": "https://www.nikkansports.com/public_race/news/202611090000945.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-09T15:58:14+09:00"
+        },
+        {
             "source": "morecadence",
             "sourceName": "More CADENCE",
             "id": "257128-20261109",
@@ -140,17 +325,6 @@
             "title": "【競輪予想】武雄競輪で山崎賢人が地元勢を連れて白星発進狙う 本日のイチオシは本命党におススメの高知12R",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49715",
             "categories": [],
-            "publishedAt": "2026-11-09T09:00:00+09:00"
-        },
-        {
-            "source": "takeo",
-            "sourceName": "武雄競輪",
-            "id": "87",
-            "title": "【11月9日（月）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」１日目（初日！）出走表＆予想情報&ライブ放送",
-            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
-            "categories": [
-                "RACE"
-            ],
             "publishedAt": "2026-11-09T09:00:00+09:00"
         },
         {
