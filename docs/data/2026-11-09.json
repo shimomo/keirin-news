@@ -156,17 +156,6 @@
             "publishedAt": "2026-11-09T18:50:00+09:00"
         },
         {
-            "source": "takeo",
-            "sourceName": "武雄競輪",
-            "id": "87",
-            "title": "【11月10日（火）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」２日目（準決勝！）出走表＆予想情報&ライブ放送",
-            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
-            "categories": [
-                "RACE"
-            ],
-            "publishedAt": "2026-11-09T17:30:00+09:00"
-        },
-        {
             "source": "beppu",
             "sourceName": "別府競輪",
             "id": "/info/2026/11/8iictc381146-11d6.html",
@@ -419,6 +408,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19556",
             "categories": [
                 "選手"
+            ],
+            "publishedAt": "2026-11-09T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19557-20261109",
+            "title": "「Dokanto！4two」に的中者が出ました！！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19557",
+            "categories": [
+                "投票関係"
             ],
             "publishedAt": "2026-11-09T00:00:00+09:00"
         }
