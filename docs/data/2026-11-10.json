@@ -2,6 +2,99 @@
     "date": "2026-11-10",
     "articles": [
         {
+            "source": "tamano",
+            "sourceName": "玉野競輪",
+            "id": "60252-20261110",
+            "title": "11月12日両備バス杯＆CTCは３分前杯(Ｆ２ナイター)",
+            "url": "https://www.tamano-keirin.jp/preexamination/11%e6%9c%8812%e6%97%a5%e4%b8%a1%e5%82%99%e3%83%90%e3%82%b9%e6%9d%af%ef%bc%86ctc%e3%81%af%ef%bc%93%e5%88%86%e5%89%8d%e6%9d%af%ef%bd%86%ef%bc%92%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc/",
+            "categories": [
+                "前検インタビュー"
+            ],
+            "publishedAt": "2026-11-10T17:27:46+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/20261121-3234.html",
+            "title": "2026年11月21日(土)スーパーチャリ物語開催！",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/20261121-3234.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-10T17:05:38+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "30282-20261110",
+            "title": "１１月１８日（水）～２３日（月）のファンバス運行時間一部変更について",
+            "url": "https://yokkaichikeirin.com/30282/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-10T17:00:19+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100000885",
+            "title": "【競輪】当地出身の竹野百香はバンク改修後の初出走に「楽しみ」白星発進を狙う／四日市",
+            "url": "https://www.nikkansports.com/public_race/news/202611100000885.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-10T16:43:55+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49741",
+            "title": "【立川G3】今節のレース展望！/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49741",
+            "categories": [],
+            "publishedAt": "2026-11-10T16:26:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100000844",
+            "title": "【競輪】ルーキー永田吏玖が白星発進　大学同期のエリートに触発されてプロの道に／大宮",
+            "url": "https://www.nikkansports.com/public_race/news/202611100000844.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-10T16:21:19+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "37716-20261110",
+            "title": "１１月イベントスケジュール(１１/１０更新)",
+            "url": "https://yokkaichikeirin.com/37716/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-10T15:15:22+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49736",
+            "title": "【ガールズ賞金ランキング】梅川風子が完全優勝で6位浮上 山原さくらは4位へ",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49736",
+            "categories": [],
+            "publishedAt": "2026-11-10T12:00:00+09:00"
+        },
+        {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12328-20261110",
+            "title": "【適性試験から技能試験へ】適性で知った本気度を次の挑戦へ　笹川玲音候補生",
+            "url": "https://keirin-jik.jp/article/12328/",
+            "categories": [],
+            "publishedAt": "2026-11-10T10:52:57+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49737",
@@ -67,6 +160,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19559",
             "categories": [
                 "投票関係"
+            ],
+            "publishedAt": "2026-11-10T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19560-20261110",
+            "title": "兒島 直樹選手が11/12～14玉野競輪で特別昇班に挑戦！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19560",
+            "categories": [
+                "選手"
             ],
             "publishedAt": "2026-11-10T00:00:00+09:00"
         }

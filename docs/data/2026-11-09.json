@@ -165,6 +165,18 @@
             "publishedAt": "2026-11-09T16:44:32+09:00"
         },
         {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "48484-20261109",
+            "title": "「芋フェス in 名古屋けいりん 2026秋」開催！",
+            "url": "https://nagoyakeirin.com/48484/?utm_source=rss&utm_medium=rss&utm_campaign=48484",
+            "categories": [
+                "イベント",
+                "最新情報"
+            ],
+            "publishedAt": "2026-11-09T16:06:47+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611090000945",
