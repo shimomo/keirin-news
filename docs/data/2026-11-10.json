@@ -2,6 +2,192 @@
     "date": "2026-11-10",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001796",
+            "title": "【競輪】市田龍生都は当地で無傷５連勝　験いい番手の村田雅一と決勝で絶妙コンビ／松戸",
+            "url": "https://www.nikkansports.com/public_race/news/202611100001796.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-10T22:32:23+09:00"
+        },
+        {
+            "source": "utsunomiya",
+            "sourceName": "宇都宮競輪",
+            "id": "/notification/2026/11/post-7fab.html",
+            "title": "祝！上川直紀選手　優勝！！",
+            "url": "https://blog.utsunomiya-keirin.jp/notification/2026/11/post-7fab.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-10T21:24:17+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12000-20261110",
+            "title": "AKJグッズショップ(Yahoo!ショッピング)閉店のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/shop_close/",
+            "categories": [
+                "お知らせ",
+                "重要"
+            ],
+            "publishedAt": "2026-11-10T20:00:45+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49752",
+            "title": "【佐世保競輪・ミッドナイト】57歳になった小嶋敬二が2節連続ミッドナイト出走",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49752",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:33:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001249",
+            "title": "【競輪】西村剛が快勝で準決突破　尊敬する自力ライバル破り決勝ではその分も奮闘／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202611100001249.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-10T19:32:17+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49751",
+            "title": "【佐世保競輪・ミッドナイト】高佐龍太郎がここから再スタート",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49751",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49750",
+            "title": "【松戸競輪・ナイター】点数上げたい岩本和也が貴重な1着「初日やらかしていたので…」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49750",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:16:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49749",
+            "title": "【松戸競輪・ナイター】ケイリンマン・山中秀将が地元で連勝！ 決勝は小笠原匠海を目標に指名",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49749",
+            "categories": [],
+            "publishedAt": "2026-11-10T19:12:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "257147-20261110",
+            "title": "【競輪の補助事業】過去295レースをAI解析！ケイリンの「勝ちパターン」を導き出す最先端システムとは",
+            "url": "https://morecadence.jp/keirin/257147",
+            "categories": [
+                "トラック競技",
+                "競輪",
+                "JKA補助事業",
+                "road to LA"
+            ],
+            "publishedAt": "2026-11-10T19:06:42+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49746",
+            "title": "【武雄競輪】S級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49746",
+            "categories": [],
+            "publishedAt": "2026-11-10T18:20:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49745",
+            "title": "【武雄競輪】通算200勝のメモリアル達成となった町田太我",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49745",
+            "categories": [],
+            "publishedAt": "2026-11-10T18:15:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49742",
+            "title": "【武雄競輪】納得の走りでファイナル進出を決めた吉本哲郎",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49742",
+            "categories": [],
+            "publishedAt": "2026-11-10T18:10:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49726",
+            "title": "【動画公開】これで初心者卒業!? その買い方、やってない？ 競輪初心者が陥りがちな落とし穴",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49726",
+            "categories": [],
+            "publishedAt": "2026-11-10T18:00:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月11日（水）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」３日目（決勝戦！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-10T18:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001095",
+            "title": "【競輪】前節散々の松本昂大が立て直して参戦「今回は普通に練習ができた」／佐世保ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611100001095.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-10T17:58:53+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001088",
+            "title": "【競輪】特昇失敗の高佐龍太郎が練習強化して再出発「足は大丈夫だと思う」／佐世保ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611100001088.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-10T17:51:29+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001077",
+            "title": "【競輪】真鍋顕汰は連続優勝中でも浮かぬ顔、Ｓ級復帰見据えて厳しい自己評価／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611100001077.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-10T17:50:27+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611100001063",
+            "title": "【競輪】クビにビクビクから一転、野寺梓が競走得点急上昇「気持ち前向きに」／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611100001063.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-10T17:38:54+09:00"
+        },
+        {
             "source": "tamano",
             "sourceName": "玉野競輪",
             "id": "60252-20261110",
@@ -102,17 +288,6 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49737",
             "categories": [],
             "publishedAt": "2026-11-10T09:00:00+09:00"
-        },
-        {
-            "source": "takeo",
-            "sourceName": "武雄競輪",
-            "id": "87",
-            "title": "【11月10日（火）】日本名輪会カップ「第15回 闘将 佐々木昭彦杯」２日目（準決勝！）出走表＆予想情報&ライブ放送",
-            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
-            "categories": [
-                "RACE"
-            ],
-            "publishedAt": "2026-11-10T08:30:00+09:00"
         },
         {
             "source": "keirinsponichi",
