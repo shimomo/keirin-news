@@ -2,6 +2,111 @@
     "date": "2026-11-11",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49738",
+            "title": "【立川G3・出場選手】神田紘輔、篠田幸希らが参戦/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49738",
+            "categories": [],
+            "publishedAt": "2026-11-11T06:00:00+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8397-20261111",
+            "title": "第68回競輪祭直前展望",
+            "url": "https://keirin-web.com/race-prospects/great-race/8397/",
+            "categories": [
+                "グレードレース展望",
+                "レース展望"
+            ],
+            "publishedAt": "2026-11-11T04:13:10+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8395-20261111",
+            "title": "第４回競輪祭女子王座戦直前展望",
+            "url": "https://keirin-web.com/race-prospects/great-race/8395/",
+            "categories": [
+                "グレードレース展望",
+                "レース展望"
+            ],
+            "publishedAt": "2026-11-11T04:02:05+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8394-20261111",
+            "title": "競輪祭と女子王座戦の注目選手",
+            "url": "https://keirin-web.com/race-prospects/great-race/8394/",
+            "categories": [
+                "グレードレース展望",
+                "レース展望"
+            ],
+            "publishedAt": "2026-11-11T03:54:23+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8390-20261111",
+            "title": "１０月の印象に残った選手を紹介！",
+            "url": "https://keirin-web.com/special-issue/monthly-bestplayer/8390/",
+            "categories": [
+                "マンスリーベストプレイヤー",
+                "特集"
+            ],
+            "publishedAt": "2026-11-11T03:44:07+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8391-20261111",
+            "title": "１０月の印象に残ったレースを紹介！",
+            "url": "https://keirin-web.com/special-issue/monthly-bestplayer/8391/",
+            "categories": [
+                "マンスリーベストプレイヤー",
+                "特集"
+            ],
+            "publishedAt": "2026-11-11T03:42:01+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8388-20261111",
+            "title": "直送！競輪場便り from 奈良競輪場 村上翔馬（兵庫・１２３期）",
+            "url": "https://keirin-web.com/interview/news/8388/",
+            "categories": [
+                "インタビュー",
+                "競輪場便り"
+            ],
+            "publishedAt": "2026-11-11T03:14:45+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8386-20261111",
+            "title": "直送！競輪場便り from 別府競輪場　山田南（千葉・130期）",
+            "url": "https://keirin-web.com/interview/news/8386/",
+            "categories": [
+                "インタビュー",
+                "競輪場便り"
+            ],
+            "publishedAt": "2026-11-11T03:01:03+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8385-20261111",
+            "title": "朝日新聞社杯競輪祭＆競輪祭女子王座戦の注目オアシはこの選手だ!!",
+            "url": "https://keirin-web.com/special-issue/tatekawa-kikkou/8385/",
+            "categories": [
+                "特集",
+                "立川吉幸コラム"
+            ],
+            "publishedAt": "2026-11-11T02:49:48+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "801094-20261111",
