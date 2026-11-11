@@ -2,6 +2,83 @@
     "date": "2026-11-11",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001836",
+            "title": "【競輪】新人の清水美海がしぶとさ発揮の２着「本能のまま戦ってるんですよ」／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611110001836.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-11T23:33:07+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001807",
+            "title": "【競輪】森崎英登は想定外の“楽逃げ”で１着「準決はしっかりと駆けたい」／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611110001807.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-11T23:18:17+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001772",
+            "title": "【競輪】人気に応えた木曽田晃大は組み立て反省も「自分の力は出せたと思う」／佐世保ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611110001772.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-11T22:31:53+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001718",
+            "title": "【競輪】宮田龍一が予選１着、けがから復帰後「走るたびに良くなっている」／佐世保ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611110001718.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-11T22:13:58+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001703",
+            "title": "【競輪】高木萌那が“１並びの日”に１着発進「明日は２着にならないように」／四日市",
+            "url": "https://www.nikkansports.com/public_race/news/202611110001703.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-11T22:08:28+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001629",
+            "title": "【競輪】2R３番車で出場予定だった伊沢茉那は病気のため途中欠場／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611110001629.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-11T21:37:19+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611110001415",
+            "title": "【競輪】シリーズリーダー神田紘輔「直線が長いし好きなバンク」突き抜け狙う／立川G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611110001415.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-11T19:45:28+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49755",
