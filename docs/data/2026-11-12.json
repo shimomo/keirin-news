@@ -2,6 +2,144 @@
     "date": "2026-11-12",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120002255",
+            "title": "【競輪】当銘直美は先行勝負実らず３着も前を向く「いい形のレースはできた」／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611120002255.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-12T23:51:14+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120002253",
+            "title": "【競輪】方針転換が奏功　平子結菜が初日大敗から巻き返して決勝進出に成功／松阪ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611120002253.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-12T23:40:32+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120002250",
+            "title": "【競輪】地元の田山誠が１年４カ月ぶり決勝進出「奇跡ですね」／佐世保ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611120002250.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-12T23:36:14+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120002246",
+            "title": "【競輪】点数上位の力を見せた　田中弘章が２カ月ぶりの白星に安堵／佐世保ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611120002246.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-12T23:35:48+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49794",
+            "title": "【玉野競輪・ナイター】前々走も決勝入りと調子を取り戻す浅見隼「だいぶ馴染んで来ました」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49794",
+            "categories": [],
+            "publishedAt": "2026-11-12T21:35:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120001864",
+            "title": "【競輪】高橋梨香は決勝進出も「少しも差し込めてないからセッティングを見直す」／四日市",
+            "url": "https://www.nikkansports.com/public_race/news/202611120001864.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-12T20:07:27+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120001719",
+            "title": "【競輪】棚瀬義大が中２日の疲労を感じさせない力走で白星発進「直線も踏み直せた」／立川",
+            "url": "https://www.nikkansports.com/public_race/news/202611120001719.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-12T19:43:28+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120001697",
+            "title": "【競輪】復帰戦の加藤圭一が１着で３連単164万円超のG3最高配当「ヤバいね」／立川",
+            "url": "https://www.nikkansports.com/public_race/news/202611120001697.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-12T19:29:03+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49793",
+            "title": "【立川G3】山口富生は必死の追走も3着「すいません！」/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49793",
+            "categories": [],
+            "publishedAt": "2026-11-12T18:47:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49784",
+            "title": "13日に中国地区プロ大会が開催 松浦悠士、太田海也らエントリー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49784",
+            "categories": [],
+            "publishedAt": "2026-11-12T18:33:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258044-20261112",
+            "title": "2026年『競輪祭（G1）』小倉競輪場イベント情報",
+            "url": "https://morecadence.jp/keirin/258044",
+            "categories": [
+                "競輪",
+                "road to GP2026",
+                "競輪祭",
+                "競輪祭女子王座戦"
+            ],
+            "publishedAt": "2026-11-12T18:31:37+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49791",
+            "title": "【立川G3】初日特選1着〜3着 レース後コメント/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49791",
+            "categories": [],
+            "publishedAt": "2026-11-12T18:07:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611120001453",
+            "title": "【競輪】鈴木奈央が堂々の主役　G1不出場の悔しさを晴らす連続Ｖへ／松戸",
+            "url": "https://www.nikkansports.com/public_race/news/202611120001453.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-12T17:48:21+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49774",
@@ -308,6 +446,17 @@
             "title": "2027年度全国版競輪カレンダープレゼントについて",
             "url": "https://www.itokeirin.com/news/news26111201.html",
             "categories": [],
+            "publishedAt": "2026-11-12T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19570-20261112",
+            "title": "『施設整備等協賛競輪in立川（GIII）レポート』　初日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/28tatikawa/2026/report_1.html",
+            "categories": [
+                "レース情報"
+            ],
             "publishedAt": "2026-11-12T00:00:00+09:00"
         },
         {
