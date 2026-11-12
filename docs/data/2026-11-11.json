@@ -240,6 +240,17 @@
             "publishedAt": "2026-11-11T11:43:44+09:00"
         },
         {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18699-20261111",
+            "title": "吉川敬介選手のA級2班特別昇班について",
+            "url": "https://keirincyclist-fc.jp/info/post-18699/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-11-11T11:00:00+09:00"
+        },
+        {
             "source": "beppu",
             "sourceName": "別府競輪",
             "id": "/info/2026/11/post-dfab.html",
