@@ -2,6 +2,359 @@
     "date": "2026-11-13",
     "articles": [
         {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20424-20261113",
+            "title": "【キッチンカー出店者様募集】",
+            "url": "https://hiroshima-keirin.com/2026/11/13/%e3%80%90%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3%e3%82%ab%e3%83%bc%e5%87%ba%e5%ba%97%e8%80%85%e6%a7%98%e5%8b%9f%e9%9b%86%e3%80%91/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-11-13T19:48:49+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001716",
+            "title": "【競輪】川上隆義が初日の反省を生かした走りで連勝「気持ちで走っていた」／立川G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611130001716.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-13T19:17:29+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001725",
+            "title": "【競輪】岡村潤が１日遅れのバースデー白星　「日高の足が良かっただけ」／立川G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611130001725.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-13T19:15:26+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001568",
+            "title": "【競輪】チャレンジは福田海響が主役「先行メインでやりたいレースができています」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611130001568.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-13T19:14:43+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "357",
+            "title": "【11/28.29開催！】オッズパーク武雄１０周年記念たけ丸オータムフェスタ2026",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/357",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-13T19:11:45+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "13506-20261113",
+            "title": "開催展望を更新しました",
+            "url": "https://www.shonanbank.com/news/kaisaitenbou/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-13T19:00:01+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "12017-20261113",
+            "title": "『第１３１回生・第１３２回生　参加実習』が実施されました。",
+            "url": "https://www.shizuoka38.jp/information/12017",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-13T18:59:04+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001559",
+            "title": "【競輪】先月から栃木に移籍した杉浦颯太「いい環境で練習をさせてもらっています」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611130001559.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-13T18:52:50+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49826",
+            "title": "【立川G3】山本伸一、未勝利も「高速域で踏みシロがある」と手応えアリ/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49826",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:46:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49825",
+            "title": "【立川G3】岡村潤、同県の後輩の番手で1着「プライベートと違っていいレースをしてくれた(笑い)」/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49825",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:42:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49824",
+            "title": "【立川G3】連勝で勝ち上がった星野洋輝/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49824",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:37:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49801",
+            "title": "【地区プロ競技大会結果・中国】取鳥雄吾がケイリン優勝！松浦悠士がエリミネーションでV",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49801",
+            "categories": [],
+            "publishedAt": "2026-11-13T18:32:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001373",
+            "title": "【競輪】近況好ムードの志佐明が好相性バンクに登場「優勝したときのイメージを」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611130001373.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-13T18:15:25+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001359",
+            "title": "【競輪】加藤恵が疲労回復に努めて強行日程をはねのける／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611130001359.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-13T17:53:58+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49774",
+            "title": "【立川G3】欠場(不参加)、追加、補充選手一覧 ※13日17時45分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49774",
+            "categories": [],
+            "publishedAt": "2026-11-13T17:45:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49821",
+            "title": "【立川G3予想】小原佑太、高橋築ら27名が準決勝へ/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49821",
+            "categories": [],
+            "publishedAt": "2026-11-13T17:40:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130001004",
+            "title": "【競輪】山本真が前回待望Vで参戦「ようやく落ち着いて走れるように」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202611130001004.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-13T16:45:12+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49818",
+            "title": "【立川G3結果】高橋築が1着 3連単は1番⼈気の390円/施設整備等協賛競輪Betimo二次予選(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49818",
+            "categories": [],
+            "publishedAt": "2026-11-13T16:33:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49817",
+            "title": "【武雄競輪・モーニング】安定感増す宮本寛大、7月当地のリベンジ期す",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49817",
+            "categories": [],
+            "publishedAt": "2026-11-13T16:30:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月14日（土）】モーニング競輪「CTCなら3分前まで買える杯」１日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-13T16:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49816",
+            "title": "【武雄競輪・モーニング】柳沼鼓太朗が熊本での単騎Vを振り返る",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49816",
+            "categories": [],
+            "publishedAt": "2026-11-13T16:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49815",
+            "title": "【玉野競輪・ナイター】11R・A級準決勝インタビュー！　",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49815",
+            "categories": [],
+            "publishedAt": "2026-11-13T16:18:00+09:00"
+        },
+        {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/11/76giii1236-6f0f.html",
+            "title": "開設76周年記念別府競輪GIIIオランダ王国友好杯特設サイト（12月3日～6日）を公開しました",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/11/76giii1236-6f0f.html",
+            "categories": [
+                "重要"
+            ],
+            "publishedAt": "2026-11-13T16:17:12+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49814",
+            "title": "【玉野競輪・ナイター】10R・A級準決勝インタビュー！　",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49814",
+            "categories": [],
+            "publishedAt": "2026-11-13T16:11:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49813",
+            "title": "【玉野競輪・ナイター】9R・A級準決勝インタビュー！　",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49813",
+            "categories": [],
+            "publishedAt": "2026-11-13T16:04:00+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21889-20261113",
+            "title": "11/27～11/29 平塚本場ナイター開催 未確定車券ガラポン抽選会",
+            "url": "https://www.shonanbank.com/event/20261127/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-13T15:54:12+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49812",
+            "title": "【立川G3】太田竜馬「(落車の)影響はないと思っているけど、結果が出ていない」/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49812",
+            "categories": [],
+            "publishedAt": "2026-11-13T15:53:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49811",
+            "title": "【立川G3】日高裕太が突っ張り先行で別線撃破「後ろの先輩を信じて駆けるだけでした」/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49811",
+            "categories": [],
+            "publishedAt": "2026-11-13T15:50:00+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21886-20261113",
+            "title": "11/21～11/23 場外開催！未確定車券ガラポン抽選会！",
+            "url": "https://www.shonanbank.com/event/20261121/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-13T15:49:05+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/info/2026/11/post-658e-1.html",
+            "title": "地元選手スタジオ出演！",
+            "url": "https://blog.tachikawakeirin.jp/info/2026/11/post-658e-1.html",
+            "categories": [],
+            "publishedAt": "2026-11-13T15:45:21+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130000918",
+            "title": "【競輪】塩島嵩一朗は約１年ぶりの地元戦も緊張はなし「いつも練習しているバンクだし…」／川崎",
+            "url": "https://www.nikkansports.com/public_race/news/202611130000918.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-13T15:28:39+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611130000808",
+            "title": "【競輪】小林真矢香がスロースターター返上の初日１着「これで油断しないように」／松戸",
+            "url": "https://www.nikkansports.com/public_race/news/202611130000808.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-13T15:27:44+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49802",
+            "title": "【松戸競輪・ガールズ】7R・ガールズ予選②インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49802",
+            "categories": [],
+            "publishedAt": "2026-11-13T13:40:00+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "588",
+            "title": "11月20日（金）FM香川「競輪にい講座！」のゲストは遠藤拓巳選手です",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-588.html",
+            "categories": [
+                "FM香川"
+            ],
+            "publishedAt": "2026-11-13T13:36:51+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "586",
+            "title": "石原颯選手（香川）が高松市長へ表敬訪問を行いました。",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-586.html",
+            "categories": [
+                "イベント・キャンペーン"
+            ],
+            "publishedAt": "2026-11-13T13:00:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49798",
@@ -71,6 +424,17 @@
                 "競輪祭"
             ],
             "publishedAt": "2026-11-13T11:06:49+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12170-20261113",
+            "title": "【中止】１１月１５日(日)『星空観測会 in JOMONバンク』実施のお知らせ",
+            "url": "https://aomorikeirin.com/event/end/stargazing_event/",
+            "categories": [
+                "終了"
+            ],
+            "publishedAt": "2026-11-13T11:00:28+09:00"
         },
         {
             "source": "aomori",
@@ -154,6 +518,39 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%ab%8b%e5%b7%9d%ef%bd%87%e2%85%b2%e5%88%9d%e6%97%a5%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
             "categories": [],
             "publishedAt": "2026-11-13T00:01:22+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19570-20261113",
+            "title": "『施設整備等協賛競輪in立川（GIII）レポート』　2日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/28tatikawa/2026/report_2.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-13T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19579-20261113",
+            "title": "11月20日は『競輪発祥の日』",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19579",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-13T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19580-20261113",
+            "title": "Road to GP 競輪祭直前展望 グランプリ出場を賭けた最後の戦いが始まる!",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19580",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-13T00:00:00+09:00"
         }
     ]
 }
