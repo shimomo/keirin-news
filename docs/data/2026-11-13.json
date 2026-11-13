@@ -2,6 +2,130 @@
     "date": "2026-11-13",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49798",
+            "title": "【競輪祭】太田海也が負傷欠場/小倉G1",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49798",
+            "categories": [],
+            "publishedAt": "2026-11-13T12:22:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49481",
+            "title": "【競輪祭】KEIRINグランプリ2026『最後の切符』読者アンケート結果発表！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49481",
+            "categories": [],
+            "publishedAt": "2026-11-13T12:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49797",
+            "title": "【佐世保競輪・ミッドナイト】別所英幸が感慨深い誕生日勝利",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49797",
+            "categories": [],
+            "publishedAt": "2026-11-13T11:53:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49796",
+            "title": "【佐世保競輪・ミッドナイト】オールビリから中3日で決勝に進んだ田山誠",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49796",
+            "categories": [],
+            "publishedAt": "2026-11-13T11:48:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49792",
+            "title": "【厳選ナイター&ミッド】特昇挑戦中のルーキー兒島直樹は玉野5R(17:43発走)、佐世保1Rは5車立て先行一車/「車券の軸しっかり」の2戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49792",
+            "categories": [],
+            "publishedAt": "2026-11-13T11:45:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258056-20261113",
+            "title": "兒島直樹（福岡・129期）特別昇班なるか／玉野F2",
+            "url": "https://morecadence.jp/keirin/258056",
+            "categories": [
+                "競輪",
+                "兒島直樹",
+                "競輪"
+            ],
+            "publishedAt": "2026-11-13T11:29:55+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258051-20261113",
+            "title": "太田海也『競輪祭（G1）』欠場",
+            "url": "https://morecadence.jp/keirin/258051",
+            "categories": [
+                "競輪",
+                "太田海也",
+                "競輪祭"
+            ],
+            "publishedAt": "2026-11-13T11:06:49+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12522-20261113",
+            "title": "【第36回寬仁親王牌・世界選手権記念トーナメントGⅠ】ポスターデザイン制作業務について",
+            "url": "https://aomorikeirin.com/news/info/2026-11-13dai36pos/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-13T11:00:06+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18693-20261113",
+            "title": "『第35回寬仁親王牌・世界選手権記念トーナメント』優勝者サイン色紙プレゼントキャンペーン！",
+            "url": "https://keirincyclist-fc.jp/fc/post-18693/",
+            "categories": [
+                "ファンクラブからのお知らせ"
+            ],
+            "publishedAt": "2026-11-13T11:00:00+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/11181123684-g-ac16.html",
+            "title": "11月18日～11月23日「第68回朝日新聞社杯競輪祭・第4回競輪祭女子王座戦 GⅠ」小倉競輪　場内イベントのお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/11181123684-g-ac16.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-13T10:59:19+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "204",
+            "title": "【11/14（土）▶16（月）】モーニング競輪「CTCなら3分前まで買える杯」 番組視聴者プレゼント！",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/204",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-11-13T10:30:00+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115827-20261113",
+            "title": "今年最後のガールズケイリンGⅠ『第4回競輪祭女子王座戦』 11月18日から小倉競輪場で開催！",
+            "url": "https://keirin-marche.jp/watch/race/race625/",
+            "categories": [],
+            "publishedAt": "2026-11-13T07:56:06+09:00"
+        },
+        {
             "source": "komatsushima",
             "sourceName": "小松島競輪",
             "id": "61796-20261113",
