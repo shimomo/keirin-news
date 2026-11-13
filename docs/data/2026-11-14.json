@@ -1,0 +1,39 @@
+{
+    "date": "2026-11-14",
+    "articles": [
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "109634-20261114",
+            "title": "※参加者募集※　 佐世保記念　12月13日(日)　バンク内観戦の実施について",
+            "url": "https://www.sasebokeirin.jp/109634",
+            "categories": [
+                "MIKI",
+                "EVENT",
+                "INFO",
+                "TOPICS"
+            ],
+            "publishedAt": "2026-11-14T00:02:39+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "801822-20261114",
+            "title": "【立川ＧⅢ２日目】出来事",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%ab%8b%e5%b7%9d%ef%bd%87%e2%85%b2%ef%bc%92%e6%97%a5%e7%9b%ae%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
+            "categories": [],
+            "publishedAt": "2026-11-14T00:01:59+09:00"
+        },
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "109625-20261114",
+            "title": "★☆11月11日～11月13日　佐世保 ＦⅡミッドナイト 優勝者☆★",
+            "url": "https://www.sasebokeirin.jp/109625",
+            "categories": [
+                "TOPICS"
+            ],
+            "publishedAt": "2026-11-14T00:00:56+09:00"
+        }
+    ]
+}
