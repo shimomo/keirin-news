@@ -2,6 +2,206 @@
     "date": "2026-11-14",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001964",
+            "title": "【競輪】谷沢優貴が4場所ぶり予選1着　4度目の連勝での決勝進出目指す／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611140001964.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-14T23:11:50+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001962",
+            "title": "【競輪】Ｖ候補の川上いちごが想定外でも順当勝ち「流れに反応できた」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611140001962.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-14T23:11:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001894",
+            "title": "【競輪】白井輝「優勝を狙える足です」鐘4角カマシで押し切り勢いに乗った／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611140001894.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-14T22:18:49+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001826",
+            "title": "【競輪】重量挙げ東京五輪代表の近内三孝が2度目の準決進出「焦らず走れた」／奈良ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611140001826.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-14T21:48:06+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "48564-20261114",
+            "title": "競輪カレンダー2027年版　配布のお知らせ",
+            "url": "https://nagoyakeirin.com/48564/?utm_source=rss&utm_medium=rss&utm_campaign=48564",
+            "categories": [
+                "イベント",
+                "最新情報"
+            ],
+            "publishedAt": "2026-11-14T21:06:48+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001676",
+            "title": "【競輪】堀江省吾、後ろの競りを尻目に逃げ切り白星発進「もっと上を目指したい」／川崎",
+            "url": "https://www.nikkansports.com/public_race/news/202611140001676.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-14T20:44:11+09:00"
+        },
+        {
+            "source": "nagoya",
+            "sourceName": "名古屋競輪",
+            "id": "48529-20261114",
+            "title": "競輪祭（小倉）場外発売＆イベント実施のお知らせ",
+            "url": "https://nagoyakeirin.com/48529/?utm_source=rss&utm_medium=rss&utm_campaign=48529",
+            "categories": [
+                "イベント",
+                "最新情報"
+            ],
+            "publishedAt": "2026-11-14T20:27:49+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001543",
+            "title": "【競輪】畑崎大輝が負傷明け復帰戦を逃げ切って制しホッ「腰の違和感はなかった」／川崎",
+            "url": "https://www.nikkansports.com/public_race/news/202611140001543.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-14T20:10:49+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49829",
+            "title": "立川競輪G3（準決勝）レポート【決勝進出の9選手コメント】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49829",
+            "categories": [],
+            "publishedAt": "2026-11-14T19:50:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001489",
+            "title": "【競輪】星野洋輝が俊敏な動き見せ３連勝で決勝　番手の仕事してG3初V狙う／立川G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611140001489.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-14T19:47:09+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49849",
+            "title": "【立川G3】S級決勝インタビュー/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49849",
+            "categories": [],
+            "publishedAt": "2026-11-14T19:17:00+09:00"
+        },
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "10519-20261114",
+            "title": "【第14回 PIST6 Presents MTB Challenge in 幕張】開催！ 〈1/24〉",
+            "url": "https://chiba.pist6.com/news/10519.html",
+            "categories": [
+                "イベント",
+                "ピックアップ"
+            ],
+            "publishedAt": "2026-11-14T18:47:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49848",
+            "title": "【立川G3】小原佑太 何とか3着で決勝入り「後ろに申し訳なかった」/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49848",
+            "categories": [],
+            "publishedAt": "2026-11-14T18:32:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49774",
+            "title": "【立川G3】欠場(不参加)、追加、補充選手一覧 ※14日18時24分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49774",
+            "categories": [],
+            "publishedAt": "2026-11-14T18:24:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140001040",
+            "title": "【競輪】「宇佐神宮でお参りしてきました」林大悟が“安全祈願”済ませて登場／別府",
+            "url": "https://www.nikkansports.com/public_race/news/202611140001040.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-14T17:20:05+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49843",
+            "title": "【立川G3予想】開催無傷3連勝の地元・高橋築ら9名が決勝へ/施設整備等協賛競輪Betimo",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49843",
+            "categories": [],
+            "publishedAt": "2026-11-14T16:39:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49842",
+            "title": "【立川G3結果】地元・高橋築が3連勝！ 3連単は16,210円/施設整備等協賛競輪Betimo準決勝(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49842",
+            "categories": [],
+            "publishedAt": "2026-11-14T16:34:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140000917",
+            "title": "【競輪】伊東佑晟がG3初勝利「最終日も強気に走りたい」経験積み高み目指す／立川G3",
+            "url": "https://www.nikkansports.com/public_race/news/202611140000917.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-14T16:31:13+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611140000931",
+            "title": "【競輪】柏木伸介と近藤隆司が当日欠場　2Rと5Rに出走予定も家事都合のため／川崎",
+            "url": "https://www.nikkansports.com/public_race/news/202611140000931.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-14T16:24:54+09:00"
+        },
+        {
             "source": "takeo",
             "sourceName": "武雄競輪",
             "id": "87",
@@ -67,6 +267,17 @@
                 "競輪"
             ],
             "publishedAt": "2026-11-14T14:07:09+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5191-20261114",
+            "title": "【開催中止】2026年11月15日開催「ドリームオーシャンカップ キッズケイリン in 松阪けいりん」開催中止のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/entrylist_kidskeirin2026/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-11-14T14:00:58+09:00"
         },
         {
             "source": "morecadence",
@@ -139,6 +350,17 @@
             "publishedAt": "2026-11-14T11:43:14+09:00"
         },
         {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20430-20261114",
+            "title": "11月の非開催日のお知らせ",
+            "url": "https://hiroshima-keirin.com/2026/11/14/close2611/",
+            "categories": [
+                "その他"
+            ],
+            "publishedAt": "2026-11-14T08:25:16+09:00"
+        },
+        {
             "source": "sasebo",
             "sourceName": "佐世保競輪",
             "id": "109634-20261114",
@@ -169,6 +391,17 @@
                 "TOPICS"
             ],
             "publishedAt": "2026-11-14T00:00:56+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19570-20261114",
+            "title": "『施設整備等協賛競輪in立川（GIII）レポート』　3日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/GIII/28tatikawa/2026/report_3.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-14T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",
