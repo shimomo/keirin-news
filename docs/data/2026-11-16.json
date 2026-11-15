@@ -2,6 +2,26 @@
     "date": "2026-11-16",
     "articles": [
         {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115854-20261116",
+            "title": "グランプリ争いの結末は！？今年最後のGⅠ『第68回朝日新聞社杯競輪祭』 11月18日から小倉競輪場で開催！",
+            "url": "https://keirin-marche.jp/watch/race/race626/",
+            "categories": [],
+            "publishedAt": "2026-11-16T08:02:22+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月16日（月）】モーニング競輪「CTCなら3分前まで買える杯」３日目（決勝戦！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-16T08:00:00+09:00"
+        },
+        {
             "source": "keirinsponichi",
             "sourceName": "競輪スポニチ",
             "id": "802143-20261116",
