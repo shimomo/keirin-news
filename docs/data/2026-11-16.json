@@ -2,6 +2,242 @@
     "date": "2026-11-16",
     "articles": [
         {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "68799-20261116",
+            "title": "おさいふパンパン！けいりん！マダムッシュ★",
+            "url": "https://kyoto-mukomachikeirin.com/68799/",
+            "categories": [
+                "大人気❤"
+            ],
+            "publishedAt": "2026-11-16T20:59:45+09:00"
+        },
+        {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "68793-20261116",
+            "title": "楽天Ｋドリームス杯　京紅葉賞in奈良　ＦⅡ",
+            "url": "https://kyoto-mukomachikeirin.com/68793/",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-16T20:53:18+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611160001621",
+            "title": "【競輪】西原裕太郎３カ月ぶりＶへ「思っている走りできれば結果は付いてくる」／高知ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611160001621.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-16T18:47:55+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611160001607",
+            "title": "【競輪】坂井央雅は前回の大宮で500バンク初経験　教訓を生かして挑む／高知ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611160001607.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-16T18:44:29+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49888",
+            "title": "【動画公開】だからS班にふさわしい！KEIRINグランプリ『最後の切符』候補7名レース集",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49888",
+            "categories": [],
+            "publishedAt": "2026-11-16T18:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611160001530",
+            "title": "【競輪】比佐宝太「しごかれましたよ」G1出場する山崎歩夢と一緒に練習／宇都宮ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611160001530.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-16T18:22:02+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611160001524",
+            "title": "【競輪】夏の落車で重傷負った吉村和之　想像以上の復調スピードに驚き／宇都宮ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611160001524.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-16T18:01:18+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49891",
+            "title": "【小松島競輪】破竹の勢いで突き進む小笠原匠海",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49891",
+            "categories": [],
+            "publishedAt": "2026-11-16T17:35:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49890",
+            "title": "【宇都宮競輪・ミッドナイト】初日特選インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49890",
+            "categories": [],
+            "publishedAt": "2026-11-16T17:25:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611160001234",
+            "title": "【競輪】新人の小川佑希也が２場所連続で決勝進出　好気配の要因は「緊張しなくなった」／静岡",
+            "url": "https://www.nikkansports.com/public_race/news/202611160001234.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-16T16:42:10+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611160001250",
+            "title": "【競輪】先行への意欲高い長川達哉「自分はスタイルにこだわって先行するだけ」／小松島",
+            "url": "https://www.nikkansports.com/public_race/news/202611160001250.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-16T16:35:32+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "359",
+            "title": "【11/21（土）】2027KEIRINカレンダー プレゼント！",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/359",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-11-16T16:34:20+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "4211-20261116",
+            "title": "１１月１７日（火）～１１月１９日（木）静岡競輪ＦⅡ 富士山バンクナイトレース第９回古代建設杯 インタビュー公開！！",
+            "url": "https://www.shizuoka38.jp/information/4211",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-16T16:30:42+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258241-20261116",
+            "title": "兒島直樹（福岡）が特別昇班でA級2班へ 129期としては6人目",
+            "url": "https://morecadence.jp/keirin/258241",
+            "categories": [
+                "競輪",
+                "兒島直樹",
+                "競輪"
+            ],
+            "publishedAt": "2026-11-16T16:26:01+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "326",
+            "title": "【11/21（土）イベント情報】2026キックバイクレース開催！『参加者募集中！』（武雄競輪場公園）",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/326",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-16T16:00:00+09:00"
+        },
+        {
+            "source": "girls-keirin",
+            "sourceName": "ガールズケイリン",
+            "id": "9530-20261116",
+            "title": "＜前編＞ガールズ強豪一門から新たなスター候補・緒方詩央里 卓球、介護職を経て転身【松本直のガールズケイリンちょっとイイ話】",
+            "url": "https://keirin-marche.jp/girlskeirin/news/2026/11/matsumoto44/",
+            "categories": [],
+            "publishedAt": "2026-11-16T15:48:03+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "252756-20261116",
+            "title": "オリンピック種目「ケイリン」誕生秘話 日本の競輪から世界のKEIRINへ",
+            "url": "https://morecadence.jp/keirin/252756",
+            "categories": [
+                "トラック競技",
+                "競輪",
+                "ケイリン"
+            ],
+            "publishedAt": "2026-11-16T15:37:04+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "346",
+            "title": "【11月イベント情報】たけお競輪まるごと体験プロジェクト！ 次回11/21（土）「狙いをさだめて！紙飛行機づくり」（家族そろって武雄競輪場で楽しめるイベント満載）",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/346",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-16T15:05:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "327",
+            "title": "【12/6（日）イベント情報】2026GO!BANK!開催（バンク体験）",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/327",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-16T15:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49889",
+            "title": "出場あっせんをしない処置に係る違反点数累積状況",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49889",
+            "categories": [],
+            "publishedAt": "2026-11-16T13:40:00+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18710-20261116",
+            "title": "第53回中国地区プロ選手権自転車競技大会の実施結果について",
+            "url": "https://keirincyclist-fc.jp/kyougi-news/post-18710/",
+            "categories": [
+                "自転車競技ニュース"
+            ],
+            "publishedAt": "2026-11-16T12:12:12+09:00"
+        },
+        {
+            "source": "matsusaka",
+            "sourceName": "松阪競輪",
+            "id": "5822-20261116",
+            "title": "12月自転車教室 開催日のお知らせ",
+            "url": "https://matsusaka-keirin.jp/new-post/matsusaka-bikeschool/",
+            "categories": [
+                "新着情報"
+            ],
+            "publishedAt": "2026-11-16T12:00:30+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49877",
@@ -136,6 +372,39 @@
             "url": "https://keirinsponichi.jp/keirin_news/20261116-tachikawa-dekigoto/",
             "categories": [],
             "publishedAt": "2026-11-16T00:01:06+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19591-20261116",
+            "title": "出場あっせんをしない処置に係る違反点数累積状況",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19591",
+            "categories": [
+                "制度"
+            ],
+            "publishedAt": "2026-11-16T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19592-20261116",
+            "title": "中村　嶺央選手が11/17～19静岡競輪で特別昇級に挑戦！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19592",
+            "categories": [
+                "選手"
+            ],
+            "publishedAt": "2026-11-16T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19593-20261116",
+            "title": "KEIRINグランプリ2026 オフィシャル観戦バスツアー(有料)のお知らせ",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/news/2026khn/11/pdf/20261116_p01.pdf",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-16T00:00:00+09:00"
         }
     ]
 }
