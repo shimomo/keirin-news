@@ -95,6 +95,17 @@
             "publishedAt": "2026-11-16T17:25:00+09:00"
         },
         {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "511",
+            "title": "高松市営松山競輪　モーニング競輪　ラブリン杯＆ガールズケイリン（ＦⅡ）初日予想情報　提供：競輪毎日",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-511.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-16T17:12:31+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611160001234",
@@ -372,6 +383,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/20261116-tachikawa-dekigoto/",
             "categories": [],
             "publishedAt": "2026-11-16T00:01:06+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/race/kawasaki_winner.html",
+            "title": "川崎競輪場　歴代優勝者情報を更新しました。",
+            "url": "https://www.kawasakikeirin.com/race/kawasaki_winner.html",
+            "categories": [
+                "info"
+            ],
+            "publishedAt": "2026-11-16T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",
