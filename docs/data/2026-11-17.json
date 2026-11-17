@@ -2,6 +2,288 @@
     "date": "2026-11-17",
     "articles": [
         {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "9034-20261117",
+            "title": "CSキーワードクイズ応募ページ",
+            "url": "https://www.kochi-keirin.jp/news/9034",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-17T20:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49476",
+            "title": "【競輪祭】「一次予選ポイント速報」を車券戦術に活かそう！ 1着点数シミュレーション機能も搭載",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49476",
+            "categories": [],
+            "publishedAt": "2026-11-17T19:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170001502",
+            "title": "【競輪】石原颯はG1制覇後もさらなる進化へ「航続距離を伸ばす練習を強化している」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611170001502.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-17T19:03:44+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170001539",
+            "title": "【競輪】新人の庄子琢心が予選４連勝「出切ってからはいい感じで走れた」／静岡",
+            "url": "https://www.nikkansports.com/public_race/news/202611170001539.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-17T18:49:38+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170001488",
+            "title": "【競輪】吉川美穂はGGP出場へ正念場「昨年、亡くなった父にいい報告がしたい」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611170001488.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-17T18:48:13+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49924",
+            "title": "【競輪祭女子王座戦】勝負駆けの尾崎睦「自分を表現できれば」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49924",
+            "categories": [],
+            "publishedAt": "2026-11-17T18:25:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170001460",
+            "title": "【競輪】与古田龍門は来期の戦い見据える「バックを取るレースを心がけている」／小松島",
+            "url": "https://www.nikkansports.com/public_race/news/202611170001460.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-17T18:24:28+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18719-20261117",
+            "title": "第68回朝日新聞社杯競輪祭（GI）＆第4回競輪祭女子王座戦（GI）が開催されます！",
+            "url": "https://keirincyclist-fc.jp/info/post-18719/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-11-17T18:24:27+09:00"
+        },
+        {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12381-20261117",
+            "title": "来年度入所試験（一般試験）における一部応募資格に関する周知事項",
+            "url": "https://keirin-jik.jp/article/12381/",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:57:37+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49920",
+            "title": "【競輪祭】新山響平 2年ぶりS班へは獲るしかない「攻められそうですね」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49920",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:50:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49919",
+            "title": "【小松島競輪】A級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49919",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:45:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49916",
+            "title": "【競輪祭】北日本浮上のカギを握る中石湊",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49916",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:35:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49915",
+            "title": "【競輪祭】G1覇者となり周囲の警戒が強まった石原颯「ずっと見られている感じがあった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49915",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49914",
+            "title": "【競輪祭】約1か月ぶりの実戦となる吉田拓矢「いい雰囲気で走って年末を迎えたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49914",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:20:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170001184",
+            "title": "【競輪】「課題？　いろいろです」小松崎大地は向上心が尽きない／西武園",
+            "url": "https://www.nikkansports.com/public_race/news/202611170001184.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-17T17:19:45+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49913",
+            "title": "【競輪祭女子王座戦】坂口楓華「気持ちの整理をしてきた」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49913",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:15:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49912",
+            "title": "【競輪祭女子王座戦】山原さくらはグランプリ出場が濃厚も「競輪に絶対はないので」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49912",
+            "categories": [],
+            "publishedAt": "2026-11-17T17:10:00+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/1213125-c541.html",
+            "title": "12月13日「北海道／125期 小堀　敢太選手 ヤンググランプリ出場 壮行会トークショー」実施について",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/1213125-c541.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-17T17:00:00+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/1220125-5ff3.html",
+            "title": "12月20日「北海道／125期 中石　湊選手 ヤンググランプリ出場 壮行会トークショー」実施について",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/1220125-5ff3.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-17T17:00:00+09:00"
+        },
+        {
+            "source": "chiba",
+            "sourceName": "PIST6（千葉）",
+            "id": "10441-20261117",
+            "title": "【イベントレポート】「PIST6秋まつり2026」（10/24-25）を開催しました！",
+            "url": "https://chiba.pist6.com/news/10441.html",
+            "categories": [
+                "トピックス",
+                "ピックアップ",
+                "レポート"
+            ],
+            "publishedAt": "2026-11-17T16:46:16+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49569",
+            "title": "【競輪祭・初日】一次予選はポイント制 初日は72選手が大事な1走目に挑む/小倉G1・勝ち上がり解説",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49569",
+            "categories": [],
+            "publishedAt": "2026-11-17T16:31:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "528-20261117",
+            "title": "マル得情報更新♪",
+            "url": "https://www.kochi-keirin.jp/news/528",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-17T16:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49574",
+            "title": "【競輪祭女子王座戦・初日】予選4着は選考順位上位2名が準決勝へ/小倉ガールズG1・勝ち上がり解説",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49574",
+            "categories": [],
+            "publishedAt": "2026-11-17T16:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170001077",
+            "title": "【競輪】稲毛健太は上杉嘉槻の番手へ「今回に向けても、だいぶ練習してきました」／大垣",
+            "url": "https://www.nikkansports.com/public_race/news/202611170001077.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-17T16:27:07+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "511",
+            "title": "高松市営松山競輪　モーニング競輪　ラブリン杯＆ガールズケイリン（ＦⅡ）２日目予想情報　提供：競輪毎日",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-511.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-17T15:11:27+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49906",
+            "title": "【西武園競輪】職人気質の郡英治「付くか付かないかはその選手に協力できるかどうか」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49906",
+            "categories": [],
+            "publishedAt": "2026-11-17T14:30:00+09:00"
+        },
+        {
+            "source": "matsudo",
+            "sourceName": "松戸競輪",
+            "id": "25935-20261117",
+            "title": "１１/２３　　競輪祭GI場外発売イベント情報！",
+            "url": "https://www.matsudokeirin.jp/news-cat/%ef%bc%91%ef%bc%91-%ef%bc%92%ef%bc%93%e3%80%80%e3%80%80%e7%ab%b6%e8%bc%aa%e7%a5%adgi%e5%a0%b4%e5%a4%96%e7%99%ba%e5%a3%b2%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%83%85%e5%a0%b1%ef%bc%81",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-17T13:58:22+09:00"
+        },
+        {
+            "source": "seibuen",
+            "sourceName": "西武園競輪",
+            "id": "16955-20261117",
+            "title": "＜12月5日＞『岩崎ゆみこ＆野原美咲のまったり休日けいりん』開催",
+            "url": "https://www.keirin-saitama.jp/seibuen/topics/20261205/",
+            "categories": [],
+            "publishedAt": "2026-11-17T12:20:34+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49896",
@@ -11,6 +293,24 @@
             "publishedAt": "2026-11-17T12:00:00+09:00"
         },
         {
+            "source": "seibuen",
+            "sourceName": "西武園競輪",
+            "id": "16951-20261117",
+            "title": "＜12月6日＞西武園競輪「KEIRIN CALENDAR 2027」配布",
+            "url": "https://www.keirin-saitama.jp/seibuen/topics/keirin_calendar_2027/",
+            "categories": [],
+            "publishedAt": "2026-11-17T11:49:54+09:00"
+        },
+        {
+            "source": "omiya",
+            "sourceName": "大宮競輪",
+            "id": "15343-20261117",
+            "title": "＜11月23日＞大宮けいりん『チャリフェス』特設ページ",
+            "url": "https://www.keirin-saitama.jp/omiya/topics/20261123/",
+            "categories": [],
+            "publishedAt": "2026-11-17T11:00:23+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49779",
@@ -18,6 +318,15 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49779",
             "categories": [],
             "publishedAt": "2026-11-17T11:00:00+09:00"
+        },
+        {
+            "source": "omiya",
+            "sourceName": "大宮競輪",
+            "id": "15675-20261117",
+            "title": "＜11月23日＞大宮競輪「KEIRIN CALENDAR 2027」配布",
+            "url": "https://www.keirin-saitama.jp/omiya/topics/keirin_calendar_2027/",
+            "categories": [],
+            "publishedAt": "2026-11-17T10:30:49+09:00"
         },
         {
             "source": "netkeirin",
