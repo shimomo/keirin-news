@@ -2,6 +2,75 @@
     "date": "2026-11-17",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49934",
+            "title": "【宇都宮競輪・ミッドナイト】悔しさをにじませる鴨下佳朋「せめて3着には残りたかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49934",
+            "categories": [],
+            "publishedAt": "2026-11-17T23:58:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49933",
+            "title": "【競輪祭】エースフレームが壊れてしまった阿部力也",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49933",
+            "categories": [],
+            "publishedAt": "2026-11-17T23:53:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49932",
+            "title": "【競輪祭】18年日本選手権以来でG1出走3度目の志村龍己",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49932",
+            "categories": [],
+            "publishedAt": "2026-11-17T23:50:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170002177",
+            "title": "【競輪】安部龍文が番手戦を制して白星発進「１着は何よりの薬になります」／高知ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611170002177.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-17T23:05:23+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49904",
+            "title": "第68回朝日新聞社杯競輪祭G1（前検日）レポート【初日一次予選1の注目選手ピックアップ】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49904",
+            "categories": [],
+            "publishedAt": "2026-11-17T23:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170002172",
+            "title": "【競輪】高橋聖太は松本貴治に借りた自転車で逃げ切り「すごく乗りやすかった」／高知ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611170002172.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-17T22:59:32+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611170002158",
+            "title": "【競輪】ルーキー福田悠航は５場所ぶり準決進出　初の決勝も見えてきた／宇都宮ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611170002158.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-17T22:51:00+09:00"
+        },
+        {
             "source": "kochi",
             "sourceName": "高知競輪",
             "id": "9034-20261117",
