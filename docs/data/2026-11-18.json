@@ -4,6 +4,64 @@
         {
             "source": "netkeirin",
             "sourceName": "netkeirin",
+            "id": "49982",
+            "title": "【宇都宮競輪・ミッドナイト】チャレンジ決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49982",
+            "categories": [],
+            "publishedAt": "2026-11-18T23:25:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49981",
+            "title": "UCIトラック世界選手権の報奨金授与式に佐藤水菜、中野慎詞、内野艶和が登場",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49981",
+            "categories": [],
+            "publishedAt": "2026-11-18T23:20:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611180002200",
+            "title": "【競輪】坂井央雅、準決まくり快勝も反省しきり　決勝は同期対決に闘志を燃やす／高知ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611180002200.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-18T23:00:17+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611180002197",
+            "title": "【競輪】西原裕太郎は決勝もライン４車の先導役「大きなレースをしたい」／高知ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611180002197.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-18T22:54:22+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49946",
+            "title": "【競輪祭】欠場(不参加)、追加、補充選手一覧　※18日22時47更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49946",
+            "categories": [],
+            "publishedAt": "2026-11-18T22:47:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49979",
+            "title": "【競輪祭】九州エースの嘉永泰斗が白星発進",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49979",
+            "categories": [],
+            "publishedAt": "2026-11-18T22:33:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
             "id": "49570",
             "title": "【競輪祭・2日目】“挽回”するなら確定板必須！一次予選2走目は上位が高ポイント/小倉G1・勝ち上がり解説",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49570",
@@ -52,7 +110,7 @@
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49954",
-            "title": "【競輪祭予想】一次予選獲得ポイント結果　松本貴治、吉田拓矢が敗退ピンチ/初日終了時点",
+            "title": "【競輪祭予想】一次予選獲得ポイント初日結果　松本貴治が敗退ピンチ/初日終了時点",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49954",
             "categories": [],
             "publishedAt": "2026-11-18T20:58:00+09:00"
@@ -358,15 +416,6 @@
             "url": "https://keirin-marche.jp/enjoy/media/media402/",
             "categories": [],
             "publishedAt": "2026-11-18T14:13:17+09:00"
-        },
-        {
-            "source": "netkeirin",
-            "sourceName": "netkeirin",
-            "id": "49946",
-            "title": "【競輪祭】欠場(不参加)、追加、補充選手一覧　※18日14時00更新",
-            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49946",
-            "categories": [],
-            "publishedAt": "2026-11-18T14:00:00+09:00"
         },
         {
             "source": "yokkaichi",
