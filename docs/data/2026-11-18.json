@@ -2,6 +2,94 @@
     "date": "2026-11-18",
     "articles": [
         {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/11/post-f84a.html",
+            "title": "令和９年度別府競輪誘客プロモーション業務公募型プロポーザルの実施",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/11/post-f84a.html",
+            "categories": [],
+            "publishedAt": "2026-11-18T12:27:12+09:00"
+        },
+        {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/11/iii-e28e.html",
+            "title": "令和９年度別府競輪ＧIIIナイター運営等業務公募型プロポーザルの実施",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/11/iii-e28e.html",
+            "categories": [],
+            "publishedAt": "2026-11-18T12:25:01+09:00"
+        },
+        {
+            "source": "beppu",
+            "sourceName": "別府競輪",
+            "id": "/info/2026/11/cs-3b01.html",
+            "title": "令和９年度CS放送用番組制作・配信業務　公募型プロポーザルの実施",
+            "url": "https://beppu-keirin.lekumo.biz/info/2026/11/cs-3b01.html",
+            "categories": [],
+            "publishedAt": "2026-11-18T12:21:53+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49885",
+            "title": "【競輪祭女子王座戦予想】牙城を崩すのは誰だ!? 上位陣を脅かす注目の若手4選手を徹底チェック",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49885",
+            "categories": [],
+            "publishedAt": "2026-11-18T12:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49909",
+            "title": "【競輪祭予想】KEIRINグランプリ出場へ最後の大勝負！ 佐々木悠葵、松本貴治、郡司浩平の運命は？",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49909",
+            "categories": [],
+            "publishedAt": "2026-11-18T12:00:00+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/202713-08d4.html",
+            "title": "2027年1月～3月【函館けいりん 冬のワークショップ】のお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/202713-08d4.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-18T11:43:31+09:00"
+        },
+        {
+            "source": "hakodate",
+            "sourceName": "函館競輪",
+            "id": "/event/2026/11/2026126-9cb0.html",
+            "title": "2026年12月6日【函館けいりん 冬のファミリーシアター】のお知らせ",
+            "url": "https://blog-hakodate-keirin.lekumo.biz/event/2026/11/2026126-9cb0.html",
+            "categories": [
+                "場内イベント"
+            ],
+            "publishedAt": "2026-11-18T11:32:49+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49937",
+            "title": "【競輪祭】迷わず踏み切った決勝から1年…松本貴治が再び運命の舞台へ/二宮歩美のG1現地レポート",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49937",
+            "categories": [],
+            "publishedAt": "2026-11-18T10:45:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13880-20261118",
+            "title": "日本競輪選手養成所132回候補生ブログ Vol.5（金子梨亜さん）",
+            "url": "https://www.maebashi-keirin.jp/trainee-5/ria_kaneko/13880/",
+            "categories": [
+                "ブログ",
+                "金子梨亜さん"
+            ],
+            "publishedAt": "2026-11-18T09:00:00+09:00"
+        },
+        {
             "source": "morecadence",
             "sourceName": "More CADENCE",
             "id": "258250-20261118",
@@ -165,6 +253,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e8%a5%bf%e6%ad%a6%e5%9c%92%ef%bd%86%e2%85%b0%e3%82%b9%e3%83%9d%e3%83%8b%e3%83%81%e6%9d%af%e5%88%9d%e6%97%a5%ef%bc%97%ef%bd%92%e3%80%91%e5%b9%b3%e9%87%8e%e3%80%80%e5%90%8c%e6%9c%9f%e6%92%83/",
             "categories": [],
             "publishedAt": "2026-11-18T00:00:02+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19595-20261118",
+            "title": "【月刊競輪WEB】菊池岳仁選手インタビューなど、新着記事配信中！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19595",
+            "categories": [
+                "月刊競輪"
+            ],
+            "publishedAt": "2026-11-18T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "graderace/keirinsai/2026/report_0",
+            "title": "『第68回朝日新聞社杯競輪祭（GI）レポート』　前検日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_0.html",
+            "categories": [
+                "グレードレースレポート"
+            ],
+            "publishedAt": "2026-11-18T00:00:00+09:00"
         },
         {
             "source": "netkeirin",
