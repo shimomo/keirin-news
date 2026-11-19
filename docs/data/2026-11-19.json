@@ -2,6 +2,312 @@
     "date": "2026-11-19",
     "articles": [
         {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "4607-20261119",
+            "title": "静岡駅の無料送迎バスについて【１１月１９日更新】",
+            "url": "https://www.shizuoka38.jp/information/4607",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-19T21:00:57+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50000",
+            "title": "【競輪祭女子王座戦】佐藤水菜、太田りゆ、児玉碧衣らが決勝へ 柳原真緒は準決敗退、仲澤春香は失格",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50000",
+            "categories": [],
+            "publishedAt": "2026-11-19T20:47:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49998",
+            "title": "【競輪祭結果】佐藤水菜が連勝 3連単は2番⼈気の670円/ガールズ準決勝(12R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49998",
+            "categories": [],
+            "publishedAt": "2026-11-19T20:41:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49989",
+            "title": "【競輪祭予想】一次予選獲得ポイント結果 賞金8位・佐々木悠葵が敗退の危機/2日目終了時点",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49989",
+            "categories": [],
+            "publishedAt": "2026-11-19T20:35:00+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "11927-20261119",
+            "title": "１１月１７日（火）～１１月１９日（木）静岡競輪ＦⅡ　第９回古代建設杯視聴者プレゼントのお知らせ♪",
+            "url": "https://www.shizuoka38.jp/information/11927",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-19T20:20:24+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49997",
+            "title": "【競輪祭】松本貴治「去年より勝ちたい気持ちあるけど空回りしないように」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49997",
+            "categories": [],
+            "publishedAt": "2026-11-19T20:11:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49996",
+            "title": "【競輪祭】8番手まくりで快勝の山口拳矢「ダイヤモンドレースを狙って頑張りたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49996",
+            "categories": [],
+            "publishedAt": "2026-11-19T20:08:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "7204-20261119",
+            "title": "YouTubeLIVE視聴者プレゼント応募ページ",
+            "url": "https://www.kochi-keirin.jp/news/7204",
+            "categories": [
+                "イベント情報",
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-19T20:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49994",
+            "title": "【競輪祭女子王座戦】たくさんの思いを乗せて尾崎睦が勝ち切る",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49994",
+            "categories": [],
+            "publishedAt": "2026-11-19T19:54:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190002111",
+            "title": "【競輪】小笠原一真「原因不明です」前節オール７着も相性いい当地で強気に／前橋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611190002111.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-19T19:29:06+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190002059",
+            "title": "【競輪】中田拓也“新たな武器”でパンチ力アップ「最悪は脱した」と上向き／前橋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611190002059.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-19T19:06:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001666",
+            "title": "【競輪】強風なんの　池田充槻が２周先行で逃げ切り勝ち「長い距離を踏めた」／大垣",
+            "url": "https://www.nikkansports.com/public_race/news/202611190001666.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-19T18:38:39+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001673",
+            "title": "【競輪】中川聖大が同期ワンツーでＳ級初の決勝進出「できることをやると決めて臨んだ」／西武園",
+            "url": "https://www.nikkansports.com/public_race/news/202611190001673.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-19T18:33:34+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001751",
+            "title": "【競輪】GP出場権争う松浦悠士が白星発進「ローラーから自転車の感触が良かった」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611190001751.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-19T18:24:11+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49991",
+            "title": "【競輪祭女子王座戦】久米詩 2年連続ガールズグランプリならずも 26年G1ラストを「課題を見つけて帰りたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49991",
+            "categories": [],
+            "publishedAt": "2026-11-19T18:20:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49990",
+            "title": "【競輪祭】犬伏湧也 冷静な仕掛けで松浦悠士とワンツー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49990",
+            "categories": [],
+            "publishedAt": "2026-11-19T18:15:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001563",
+            "title": "【競輪】Ｖから遠ざかる長谷川飛向　悪い流れ断ち切るため積極的仕掛けを／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611190001563.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-19T17:51:12+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49987",
+            "title": "日本競輪選手養成所で第131・132回生第1回トーナメント競走実施",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49987",
+            "categories": [],
+            "publishedAt": "2026-11-19T17:30:00+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "589",
+            "title": "高松市営松山競輪 「モーニング競輪　ラブリン杯&ガールズケイリン」（FⅡ）Ａ級戦優勝は尾野 翔一選手（福岡）、L級戦優勝は永禮 美瑠選手（愛知）",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-589.html",
+            "categories": [
+                "イベント・キャンペーン"
+            ],
+            "publishedAt": "2026-11-19T17:11:54+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13916-20261119",
+            "title": "前橋競輪 ニッカン・コム杯 (ＦⅡ ＭＮ) Ａ級初日特選出場選手前検日インタビュー",
+            "url": "https://www.maebashi-keirin.jp/news/news-13916/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-11-19T17:10:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13736-20261119",
+            "title": "【ご応募はこちらから】11/20～11/22 ニッカン・コム杯 (ＦⅡ ＭＮ) 視聴者プレゼントのご案内！",
+            "url": "https://www.maebashi-keirin.jp/news/news-13736/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-11-19T17:00:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13737-20261119",
+            "title": "前橋競輪 ニッカン・コム杯 (ＦⅡ ＭＮ) イー新聞特設サイト開設のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13737/",
+            "categories": [
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-11-19T17:00:00+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13956-20261119",
+            "title": "キッズクリスマスフェスティバルのお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13956/",
+            "categories": [
+                "競輪",
+                "前橋競輪"
+            ],
+            "publishedAt": "2026-11-19T17:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611190001453",
+            "title": "【競輪】新人の高橋奏多は悔しさバネに成長する「走るごとに吸収して…」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611190001453.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-19T16:56:53+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49988",
+            "title": "【西武園競輪】S級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49988",
+            "categories": [],
+            "publishedAt": "2026-11-19T16:52:00+09:00"
+        },
+        {
+            "source": "seibuen",
+            "sourceName": "西武園競輪",
+            "id": "16972-20261119",
+            "title": "＜11月18日～20日＞西武園競輪 第100回ｽﾎﾟｰﾂﾆｯﾎﾟﾝ新聞社杯 F1「決勝出場選手」",
+            "url": "https://www.keirin-saitama.jp/seibuen/topics/1120_finalist/",
+            "categories": [],
+            "publishedAt": "2026-11-19T16:28:56+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/event/2026/11/126gpin-4441.html",
+            "title": "12月6日　ティラノサウルスレースGPin立川競輪場を開催します！",
+            "url": "https://blog.tachikawakeirin.jp/event/2026/11/126gpin-4441.html",
+            "categories": [
+                "トップ固定表示"
+            ],
+            "publishedAt": "2026-11-19T16:11:58+09:00"
+        },
+        {
+            "source": "iwakidaira",
+            "sourceName": "いわき平競輪",
+            "id": "9545-20261119",
+            "title": "非開催払戻業務休止日のお知らせ",
+            "url": "https://tairakeirin.com/%e9%9d%9e%e9%96%8b%e5%82%ac%e6%89%95%e6%88%bb%e6%a5%ad%e5%8b%99%e4%bc%91%e6%ad%a2%e6%97%a5%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b-9/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-19T14:42:47+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49986",
+            "title": "【厳選ミッド】宇都宮1Rの佐藤譲士郎(20:50発走)ら「車券の軸しっかり」の3戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49986",
+            "categories": [],
+            "publishedAt": "2026-11-19T14:25:00+09:00"
+        },
+        {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12674-20261119",
+            "title": "井出晃太郎候補生が完全優勝、新坂太佳子候補生が女子を制す 第131・132回生「第1回トーナメント競走」",
+            "url": "https://keirin-jik.jp/article/12674/",
+            "categories": [],
+            "publishedAt": "2026-11-19T13:26:46+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "49983",
@@ -120,6 +426,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%e5%88%9d%e6%97%a5%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
             "categories": [],
             "publishedAt": "2026-11-19T00:01:03+09:00"
+        },
+        {
+            "source": "kawasaki",
+            "sourceName": "川崎競輪",
+            "id": "/event/event_2026111901.html",
+            "title": "「桜花賞・海老澤清杯」PRイベントをボートピア横浜で開催！",
+            "url": "https://www.kawasakikeirin.com/event/event_2026111901.html",
+            "categories": [
+                "event"
+            ],
+            "publishedAt": "2026-11-19T00:00:00+09:00"
         },
         {
             "source": "keirin.jp",
