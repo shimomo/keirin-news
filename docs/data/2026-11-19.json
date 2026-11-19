@@ -2,6 +2,48 @@
     "date": "2026-11-19",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49983",
+            "title": "【競輪祭】太田りゆの「タイトルを獲りにいく」宣言 その言葉に込められた1年間の覚悟/二宮歩美のG1現地レポート",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49983",
+            "categories": [],
+            "publishedAt": "2026-11-19T11:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49949",
+            "title": "第68回朝日新聞社杯競輪祭G1（初日）レポート【一次予選の注目選手ピックアップ】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49949",
+            "categories": [],
+            "publishedAt": "2026-11-19T09:00:00+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61889-20261119",
+            "title": "おはようチャリロト杯（FⅡモーニング）プレゼントキャンペーン！",
+            "url": "https://www.komatsushimakeirin.com/2026/11/19/campaign_r8_11_2_f2mo/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-19T07:55:28+09:00"
+        },
+        {
+            "source": "komatsushima",
+            "sourceName": "小松島競輪",
+            "id": "61904-20261119",
+            "title": "おはようチャリロト杯（FⅡモーニング）開催のお知らせ",
+            "url": "https://www.komatsushimakeirin.com/2026/11/19/info_r8_11_2_f2mo/",
+            "categories": [
+                "INFO",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-19T07:50:46+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611180002195",
@@ -78,6 +120,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%e5%88%9d%e6%97%a5%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
             "categories": [],
             "publishedAt": "2026-11-19T00:01:03+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19597-20261119",
+            "title": "競輪ネットバンクサービス（KNB）からのお知らせ　令和8年11月一括精算日",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19597",
+            "categories": [
+                "投票関係"
+            ],
+            "publishedAt": "2026-11-19T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "graderace/keirinsai/2026/report_1",
+            "title": "『第68回朝日新聞社杯競輪祭（GI）レポート』　初日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_1.html",
+            "categories": [
+                "グレードレースレポート"
+            ],
+            "publishedAt": "2026-11-19T00:00:00+09:00"
         },
         {
             "source": "netkeirin",
