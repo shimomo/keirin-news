@@ -1,0 +1,79 @@
+{
+    "date": "2026-11-21",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611210000013",
+            "title": "【競輪】吉田航「走り方を修正します」初のバンクで1走して対策施し準決へ／前橋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611210000013.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-21T00:50:10+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803115-20261121",
+            "title": "「ガールズグランプリ2026」出場選手決定",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%8c%e3%82%ac%e3%83%bc%e3%83%ab%e3%82%ba%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa2026%e3%80%8d%e5%87%ba%e5%a0%b4%e9%81%b8%e6%89%8b%e6%b1%ba%e5%ae%9a/",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:08:09+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803078-20261121",
+            "title": "【豊橋ＦⅠ初日８Ｒ】高橋　１着量産中",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e8%b1%8a%e6%a9%8b%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a5%ef%bc%98%ef%bd%92%e3%80%91%e9%ab%98%e6%a9%8b%e3%80%80%ef%bc%91%e7%9d%80%e9%87%8f%e7%94%a3%e4%b8%ad/",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:06:21+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803092-20261121",
+            "title": "【小田原ＦⅠ初日５Ｒ】古賀　勢いＭＡＸ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e7%94%b0%e5%8e%9f%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a5%ef%bc%95%ef%bd%92%e3%80%91%e5%8f%a4%e8%b3%80%e3%80%80%e5%8b%a2%e3%81%84%ef%bd%8d%ef%bd%81%ef%bd%98/",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:04:00+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803108-20261121",
+            "title": "【小倉ＧⅠ４日目12Ｒ】松浦〝３連覇〟へ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%ef%bc%94%e6%97%a5%e7%9b%ae12%ef%bd%92%e3%80%91%e6%9d%be%e6%b5%a6%e3%80%9d%ef%bc%93%e9%80%a3%e8%a6%87%e3%80%9f%e3%81%b8/",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:02:35+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803107-20261121",
+            "title": "【小倉ＧⅠ３日目】出来事",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%ef%bc%93%e6%97%a5%e7%9b%ae%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:01:40+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803113-20261121",
+            "title": "水菜　連続グランドスラム　小倉ＧＩ「第４回競輪祭女子王座戦」",
+            "url": "https://keirinsponichi.jp/keirin_news/%e6%b0%b4%e8%8f%9c%e3%80%80%e9%80%a3%e7%b6%9a%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%89%e3%82%b9%e3%83%a9%e3%83%a0%e3%80%80%e5%b0%8f%e5%80%89%ef%bd%87%ef%bd%89%e3%80%8c%e7%ac%ac%ef%bc%94%e5%9b%9e%e7%ab%b6/",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:00:51+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50039",
+            "title": "【G1熱ケツ情報・4日目】9Rは寺崎浩平・南修二がSSタッグ結成！ 11Rは古性優作VS佐々木悠葵",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50039",
+            "categories": [],
+            "publishedAt": "2026-11-21T00:00:00+09:00"
+        }
+    ]
+}

@@ -2,6 +2,249 @@
     "date": "2026-11-20",
     "articles": [
         {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258934-20261120",
+            "title": "佐藤水菜が2年連続の年間グランドスラム！ 小倉で大会3連覇、G1通算10勝目／『第4回競輪祭女子王座戦（G1）』決勝",
+            "url": "https://morecadence.jp/keirin/258934",
+            "categories": [
+                "競輪",
+                "佐藤水菜",
+                "児玉碧衣",
+                "吉川美穂",
+                "太田りゆ",
+                "小林莉子",
+                "梅川風子",
+                "競輪祭女子王座戦",
+                "竹野百香"
+            ],
+            "publishedAt": "2026-11-20T23:50:27+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002447",
+            "title": "【競輪】丹波孝佑は２着も確定板独占に導く「ラインが機能した結果です」／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611200002447.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-20T23:36:48+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50023",
+            "title": "佐藤水菜が10度目のG1優勝！ガールズケイリンG1最多V記録を更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50023",
+            "categories": [],
+            "publishedAt": "2026-11-20T23:22:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49572",
+            "title": "【競輪祭・4日目】二次予選Bは2着権利の“狭き門” 準決勝進出条件は？/小倉G1・勝ち上がり解説",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49572",
+            "categories": [],
+            "publishedAt": "2026-11-20T23:10:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002405",
+            "title": "【競輪】絶体絶命のピンチ乗り越えた　佐藤水菜が２年連続の年間グランドスラム達成／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611200002405.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-20T23:02:47+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49953",
+            "title": "【ガールズグランプリ2026】佐藤水菜、太田りゆら出場選手7名が決定！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49953",
+            "categories": [],
+            "publishedAt": "2026-11-20T22:31:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002379",
+            "title": "【競輪】３着児玉碧衣はガールズGPで悔しさ晴らすと誓う「もったいなかったです」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611200002379.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-20T22:23:22+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50050",
+            "title": "【競輪祭女子王座戦】ガールズ決勝4〜7着選手のコメント！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50050",
+            "categories": [],
+            "publishedAt": "2026-11-20T22:20:00+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115915-20261120",
+            "title": "佐藤水菜選手が完全優勝！9開催連続GⅠ制覇、“年間グランドスラム”を達成！！ 『第4回競輪祭女子王座戦』結果",
+            "url": "https://keirin-marche.jp/watch/race/race627/",
+            "categories": [],
+            "publishedAt": "2026-11-20T22:17:50+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50048",
+            "title": "【競輪祭女子王座戦】無敗女王！ 佐藤水菜 優勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50048",
+            "categories": [],
+            "publishedAt": "2026-11-20T22:14:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258989-20261120",
+            "title": "戦いの舞台は、いわき平へ！『ガールズグランプリ2026』出場選手決定",
+            "url": "https://morecadence.jp/keirin/258989",
+            "categories": [
+                "競輪",
+                "ガールズグランプリ2026",
+                "佐藤水菜",
+                "児玉碧衣",
+                "吉川美穂",
+                "太田りゆ",
+                "尾崎睦",
+                "山原さくら",
+                "梅川風子"
+            ],
+            "publishedAt": "2026-11-20T21:59:23+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50046",
+            "title": "【競輪祭】ダイヤモンドレースインタビュー！　",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50046",
+            "categories": [],
+            "publishedAt": "2026-11-20T21:55:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002338",
+            "title": "【競輪】補欠から繰り上がりの吉沢純平が快進撃「街道で練習するつもりだったのに」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611200002338.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-20T21:49:37+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002344",
+            "title": "【競輪】松浦悠士が連勝　21日のダイヤモンドレースでは36歳誕生日を勝利で祝う／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611200002344.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-20T21:49:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50045",
+            "title": "【競輪祭女子王座戦】ガールズ決勝2、3着コメント",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50045",
+            "categories": [],
+            "publishedAt": "2026-11-20T21:46:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50043",
+            "title": "【競輪祭】松浦悠士 連勝も笑顔なし「2人で勝ち上がらないと意味がない」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50043",
+            "categories": [],
+            "publishedAt": "2026-11-20T21:39:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002296",
+            "title": "【競輪】児玉東次郎が強気の突っ張り先行で予選初勝利　落車明けも大丈夫／名古屋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611200002296.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-20T21:30:08+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002310",
+            "title": "【競輪】十文字悠真は成長感じさせる突っ張り先行、ライン決着で気分も良く／前橋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611200002310.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-20T21:29:41+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49946",
+            "title": "【競輪祭】欠場(不参加)、追加、補充選手一覧　※20日21時22更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49946",
+            "categories": [],
+            "publishedAt": "2026-11-20T21:22:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50038",
+            "title": "【競輪祭女子王座戦結果】佐藤水菜が9連続G1優勝！2着は梅川風子で3連単1,770円/ガールズ決勝",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50038",
+            "categories": [],
+            "publishedAt": "2026-11-20T20:43:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002110",
+            "title": "【競輪】犬伏湧也は２予Ａ回り「いいスピード感で仕掛けることができたが…」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611200002110.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-20T20:20:59+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50018",
+            "title": "【競輪祭予想】初戦大敗の佐々木悠葵・森田優弥が挽回に成功 12ptで泣き別れ/一次予選獲得ポイント最終結果",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50018",
+            "categories": [],
+            "publishedAt": "2026-11-20T20:18:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50035",
+            "title": "【競輪祭】連勝の郡司、清水らダイヤモンドレースへ 賞金6位の深谷、7位松浦も進出/小倉G1",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50035",
+            "categories": [],
+            "publishedAt": "2026-11-20T20:09:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "50034",
@@ -285,7 +528,7 @@
             "source": "sasebo",
             "sourceName": "佐世保競輪",
             "id": "110105-20261120",
-            "title": "スマホ投票についてのお知らせ",
+            "title": "スマホ投票についてサービス再開のお知らせ",
             "url": "https://www.sasebokeirin.jp/110105",
             "categories": [
                 "INFO",
@@ -383,6 +626,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19599",
             "categories": [
                 "選手"
+            ],
+            "publishedAt": "2026-11-20T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19605-20261120",
+            "title": "ガールズグランプリ2026出場予定選手の決定について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19605",
+            "categories": [
+                "レース情報"
             ],
             "publishedAt": "2026-11-20T00:00:00+09:00"
         },
