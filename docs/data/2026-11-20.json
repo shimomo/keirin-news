@@ -2,6 +2,141 @@
     "date": "2026-11-20",
     "articles": [
         {
+            "source": "jik",
+            "sourceName": "日本競輪選手養成所",
+            "id": "12385-20261120",
+            "title": "レースに臨む準備と、支える人への感謝を学ぶ 静岡競輪場で「参加実習」を実施",
+            "url": "https://keirin-jik.jp/article/12385/",
+            "categories": [],
+            "publishedAt": "2026-11-20T11:09:01+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "258501-20261120",
+            "title": "『競輪ワールドシリーズ2026』ハイライト動画公開！UCI × JKAコラボ",
+            "url": "https://morecadence.jp/keirin/258501",
+            "categories": [
+                "競輪",
+                "KeirinWS2026"
+            ],
+            "publishedAt": "2026-11-20T11:01:30+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "175936-20261120",
+            "title": "緊急メンテナンスに伴う一部サービスの停止について",
+            "url": "https://www.kochi-keirin.jp/news/175936",
+            "categories": [
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-20T10:08:51+09:00"
+        },
+        {
+            "source": "kumamoto",
+            "sourceName": "熊本競輪",
+            "id": "7027-20261120",
+            "title": "【参加者募集】熊本バンク試乗イベント開催【12/13㊐】",
+            "url": "https://www.kumamotokeirin.jp/news/%e3%80%90%e5%8f%82%e5%8a%a0%e8%80%85%e5%8b%9f%e9%9b%86%e3%80%91%e7%86%8a%e6%9c%ac%e3%83%90%e3%83%b3%e3%82%af%e8%a9%a6%e4%b9%97%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e9%96%8b%e5%82%ac%e3%80%9012-13/",
+            "categories": [
+                "イベント情報",
+                "イベント",
+                "バンク",
+                "募集",
+                "参加",
+                "熊本",
+                "熊本けいりん",
+                "熊本競輪",
+                "熊本競輪場",
+                "試乗",
+                "試乗会",
+                "試走",
+                "試走会",
+                "選手会"
+            ],
+            "publishedAt": "2026-11-20T10:00:52+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49985",
+            "title": "第68回朝日新聞社杯競輪祭G1（2日目）レポート【一次予選から注目選手ピックアップ】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49985",
+            "categories": [],
+            "publishedAt": "2026-11-20T09:15:00+09:00"
+        },
+        {
+            "source": "aomori",
+            "sourceName": "青森競輪",
+            "id": "12143-20261120",
+            "title": "【11月20日】スマートフォン投票サービス「T-Linkage」発売中止のお知らせ",
+            "url": "https://aomorikeirin.com/news/info/important_t-linkage/",
+            "categories": [
+                "お知らせ",
+                "重要"
+            ],
+            "publishedAt": "2026-11-20T09:11:28+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49995",
+            "title": "【競輪祭女子王座戦】佐藤水菜の相手は誰だ!? 高木真備が読み解く決勝の行方「炎の予想12番勝負」第9戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49995",
+            "categories": [],
+            "publishedAt": "2026-11-20T09:00:00+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "37527-20261120",
+            "title": "【重要】四日市競輪スマホ投票について（11/20）",
+            "url": "https://yokkaichikeirin.com/37527/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-20T08:55:33+09:00"
+        },
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "110105-20261120",
+            "title": "スマホ投票についてのお知らせ",
+            "url": "https://www.sasebokeirin.jp/110105",
+            "categories": [
+                "INFO",
+                "TOPICS"
+            ],
+            "publishedAt": "2026-11-20T08:46:22+09:00"
+        },
+        {
+            "source": "sasebo",
+            "sourceName": "佐世保競輪",
+            "id": "109589-20261120",
+            "title": "スマホ投票についてのお知らせ",
+            "url": "https://www.sasebokeirin.jp/109589",
+            "categories": [
+                "INFO",
+                "TOPICS"
+            ],
+            "publishedAt": "2026-11-20T08:41:01+09:00"
+        },
+        {
+            "source": "maebashi",
+            "sourceName": "前橋競輪",
+            "id": "13971-20261120",
+            "title": "【11月20日】スマートフォン投票「T-Linkage」発売中止のお知らせ",
+            "url": "https://www.maebashi-keirin.jp/news/news-13971/",
+            "categories": [
+                "重要",
+                "前橋競輪",
+                "館林場外",
+                "利根西"
+            ],
+            "publishedAt": "2026-11-20T07:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611190002553",
@@ -56,6 +191,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%a4%a7%e5%9e%a3%ef%bd%86%e2%85%b0%e6%9c%80%e7%b5%82%e6%97%a5%ef%bc%99%ef%bd%92%e3%80%91%e4%b8%80%e5%ae%88%e3%80%80%e6%98%87%e7%b4%9a%e5%89%8d%e3%81%ab%ef%bd%96%e3%81%a0/",
             "categories": [],
             "publishedAt": "2026-11-20T00:01:13+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "graderace/keirinsai/2026/report_2",
+            "title": "『第68回朝日新聞社杯競輪祭（GI）レポート』　2日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_2.html",
+            "categories": [
+                "グレードレースレポート"
+            ],
+            "publishedAt": "2026-11-20T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "graderace/keirinsai/2026/report_int_2",
+            "title": "『第4回競輪祭女子王座戦（GI）』　決勝戦共同インタビュー",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_int_2.html",
+            "categories": [
+                "グレードレースレポート"
+            ],
+            "publishedAt": "2026-11-20T00:00:00+09:00"
         },
         {
             "source": "netkeirin",
