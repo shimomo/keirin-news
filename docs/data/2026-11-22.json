@@ -1,0 +1,70 @@
+{
+    "date": "2026-11-22",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220000007",
+            "title": "【競輪】二藤元太「ここ最近の中ではかなりいい」Ｓ級復帰へ完全Vで弾みを／前橋ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220000007.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T00:45:10+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803225-20261122",
+            "title": "【福井ＦⅡ最終日】４、５Ｒ中止",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%a6%8f%e4%ba%95%ef%bd%86%e2%85%b1%e6%9c%80%e7%b5%82%e6%97%a5%e3%80%91%ef%bc%94%e3%80%81%ef%bc%95%ef%bd%92%e4%b8%ad%e6%ad%a2/",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:15:56+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803236-20261122",
+            "title": "【奈良ＦⅡ初日５Ｒ】アニー　上向きだ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%a5%88%e8%89%af%ef%bd%86%e2%85%b1%e5%88%9d%e6%97%a5%ef%bc%95%ef%bd%92%e3%80%91%e3%82%a2%e3%83%8b%e3%83%bc%e3%80%80%e4%b8%8a%e5%90%91%e3%81%8d%e3%81%a0/",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:10:52+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803295-20261122",
+            "title": "【小倉ＧⅠ５日目12Ｒ】新山　強気に勝負",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%ef%bc%95%e6%97%a5%e7%9b%ae12%ef%bd%92%e3%80%91%e6%96%b0%e5%b1%b1%e3%80%80%e5%bc%b7%e6%b0%97%e3%81%ab%e5%8b%9d%e8%b2%a0/",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:03:27+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803303-20261122",
+            "title": "【小倉ＧⅠ５日目11Ｒ】郡司　集中ＭＡＸ",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%ef%bc%95%e6%97%a5%e7%9b%ae11%ef%bd%92%e3%80%91%e9%83%a1%e5%8f%b8%e3%80%80%e9%9b%86%e4%b8%ad%ef%bd%8d%ef%bd%81%ef%bd%98/",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:01:02+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803298-20261122",
+            "title": "【小倉ＧⅠ４日目】出来事",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%ef%bc%94%e6%97%a5%e7%9b%ae%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:00:04+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50084",
+            "title": "【G1熱ケツ情報・5日目】11Rで賞金6〜8位の3人が激突！ 12Rは大阪SSコンビに石原颯、新山響平が挑む",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50084",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:00:00+09:00"
+        }
+    ]
+}

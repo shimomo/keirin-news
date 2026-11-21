@@ -200,15 +200,6 @@
         {
             "source": "netkeirin",
             "sourceName": "netkeirin",
-            "id": "49946",
-            "title": "【競輪祭】欠場(不参加)、追加、補充選手一覧　※20日21時22更新",
-            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49946",
-            "categories": [],
-            "publishedAt": "2026-11-20T21:22:00+09:00"
-        },
-        {
-            "source": "netkeirin",
-            "sourceName": "netkeirin",
             "id": "50038",
             "title": "【競輪祭女子王座戦結果】佐藤水菜が9連続G1優勝！2着は梅川風子で3連単1,770円/ガールズ決勝",
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50038",
@@ -292,6 +283,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50029",
             "categories": [],
             "publishedAt": "2026-11-20T18:08:00+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18738-20261120",
+            "title": "中村嶺央選手のS級2班特別昇級について",
+            "url": "https://keirincyclist-fc.jp/info/post-18738/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-11-20T18:00:00+09:00"
         },
         {
             "source": "netkeirin",
