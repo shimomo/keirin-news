@@ -2,6 +2,35 @@
     "date": "2026-11-21",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50059",
+            "title": "【前橋競輪・ミッドナイト】前橋では初出走だった滿田光紀「特殊なバンクだったけど⋯」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50059",
+            "categories": [],
+            "publishedAt": "2026-11-21T08:57:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50020",
+            "title": "第68回朝日新聞社杯競輪祭G1（3日目）レポート【一次予選2から注目選手をピックアップ】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50020",
+            "categories": [],
+            "publishedAt": "2026-11-21T08:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611200002399",
+            "title": "【競輪】深谷知広の存在感は競輪界の中でも屈指の輝きを放っている／ヤマコウ",
+            "url": "https://www.nikkansports.com/public_race/keirin/yamakou/news/202611200002399.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-21T05:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611210000013",
