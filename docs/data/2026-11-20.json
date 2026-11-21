@@ -452,7 +452,7 @@
             "source": "kochi",
             "sourceName": "高知競輪",
             "id": "175936-20261120",
-            "title": "緊急メンテナンスに伴う一部サービスの停止について",
+            "title": "【復旧】緊急メンテナンスに伴うサービスについて",
             "url": "https://www.kochi-keirin.jp/news/175936",
             "categories": [
                 "高知けいりんからのお知らせ"
@@ -637,6 +637,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19605",
             "categories": [
                 "レース情報"
+            ],
+            "publishedAt": "2026-11-20T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19606-20261120",
+            "title": "「Dokanto！7」に的中者が出ました！！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19606",
+            "categories": [
+                "投票関係"
             ],
             "publishedAt": "2026-11-20T00:00:00+09:00"
         },

@@ -857,6 +857,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-21T09:57:04+09:00",
-    "failures": []
+    "checkedAt": "2026-11-21T17:45:39+09:00",
+    "failures": [
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "message": "GET https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_int_2_1.html returned HTTP 500."
+        }
+    ]
 }
