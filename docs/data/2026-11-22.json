@@ -2,6 +2,222 @@
     "date": "2026-11-22",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001946",
+            "title": "【競輪】荻原寿嗣が勝手を知るバンクで４場所ぶり決勝進出「焦らずに走りたい」／小田原",
+            "url": "https://www.nikkansports.com/public_race/news/202611220001946.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T18:56:25+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001929",
+            "title": "【競輪】篠田幸希が今年２度目Ｖ＆通算100勝に王手で気合「しっかり仕掛ける」／豊橋",
+            "url": "https://www.nikkansports.com/public_race/news/202611220001929.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T18:55:51+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001768",
+            "title": "【競輪】伝説の「５打席連続敬遠」明徳ベンチで見た宮崎一彰、Ｇ松井監督に期待大／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220001768.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T18:02:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50116",
+            "title": "【競輪祭】岩本俊介 番手戦で連勝「強い後輩に付いて結果を出せるのは感慨深い」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50116",
+            "categories": [],
+            "publishedAt": "2026-11-22T17:47:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001554",
+            "title": "【競輪】ケガ明け復帰戦の栗山百花「焦りはあるけど小さなレースはしたくない」／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220001554.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T17:27:54+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001536",
+            "title": "【競輪】新車で走る宇野紅音が自力勝負を宣言「まくりが出やすいフレームと思う」／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220001536.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T17:27:28+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "511",
+            "title": "高松市営玉野競輪　ミッドナイト競輪　オッズパーク杯＆ガールズケイリン（ＦⅡ）初日予想情報　提供：競輪毎日",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-511.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-22T17:21:42+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001634",
+            "title": "【競輪】野寺楓は６場所連続で決勝進出中「前向きにレースに参戦できる」／玉野ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220001634.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T17:20:56+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20548-20261122",
+            "title": "【12月5日（土）開催】ニュースポーツ体験会！ピックルボール＆モルックに挑戦！",
+            "url": "https://hiroshima-keirin.com/2026/11/22/newsports2026/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-22T17:01:56+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月23日（月・祝）】モーニング競輪「九州佐賀国際空港❝むっぴー❞杯」<ガールズ>1日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-22T17:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50115",
+            "title": "【玉野競輪・ミッドナイト】A級特選インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50115",
+            "categories": [],
+            "publishedAt": "2026-11-22T16:50:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001236",
+            "title": "【競輪】代謝危機でも闘志満々の三登誉哲「１着しか見ていませんよ」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202611220001236.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T16:40:19+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001220",
+            "title": "【競輪】坪内恒が今年７度目Ｖ飾った勢いで参戦、初Ｓ級の来期へ「楽しみです」／西武園",
+            "url": "https://www.nikkansports.com/public_race/news/202611220001220.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T16:35:32+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50114",
+            "title": "【玉野競輪・ミッドナイト】玉野は初という邊見竜馬「状態はいいと思います」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50114",
+            "categories": [],
+            "publishedAt": "2026-11-22T15:43:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001214",
+            "title": "【競輪】岡崎克政がエネルギッシュな走りで準決へ、Ｖ候補にどう立ち向かうか注目／奈良",
+            "url": "https://www.nikkansports.com/public_race/news/202611220001214.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T15:36:07+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20560-20261122",
+            "title": "【12/12～12/14】KEIRIN CALENDAR 2027配布について",
+            "url": "https://hiroshima-keirin.com/2026/11/22/%e3%80%9012-12%ef%bd%9e12-14%e3%80%91keirin-calender-2027%e9%85%8d%e5%b8%83%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/",
+            "categories": [
+                "イベント",
+                "その他"
+            ],
+            "publishedAt": "2026-11-22T14:39:01+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "9858-20261122",
+            "title": "12月31日(木)【先着100名様　年越しカップそば　プレゼント】",
+            "url": "https://www.kochi-keirin.jp/news/9858",
+            "categories": [
+                "イベント情報",
+                "高知けいりんからのお知らせ"
+            ],
+            "publishedAt": "2026-11-22T13:00:56+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "176006-20261122",
+            "title": "12月31日(木)【年末大抽選会】",
+            "url": "https://www.kochi-keirin.jp/event/176006",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-11-22T12:00:42+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "130794-20261122",
+            "title": "12月28日(月）～30日（水）予想会【KEIRINグランプリシリーズ2026】いわき平",
+            "url": "https://www.kochi-keirin.jp/event/130794",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-11-22T11:00:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "116245-20261122",
+            "title": "12月13日(日)未確定車券抽選会【佐世保】",
+            "url": "https://www.kochi-keirin.jp/event/116245",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-11-22T10:00:52+09:00"
+        },
+        {
             "source": "takeo",
             "sourceName": "武雄競輪",
             "id": "204",
@@ -29,6 +245,17 @@
             "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50103",
             "categories": [],
             "publishedAt": "2026-11-22T09:05:00+09:00"
+        },
+        {
+            "source": "kochi",
+            "sourceName": "高知競輪",
+            "id": "159872-20261122",
+            "title": "12月6日(日)　優勝者当てクイズ",
+            "url": "https://www.kochi-keirin.jp/event/159872",
+            "categories": [
+                "イベント情報"
+            ],
+            "publishedAt": "2026-11-22T09:00:00+09:00"
         },
         {
             "source": "netkeirin",
