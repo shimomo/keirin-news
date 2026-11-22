@@ -2,6 +2,46 @@
     "date": "2026-11-23",
     "articles": [
         {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月23日（月・祝）】モーニング競輪「九州佐賀国際空港❝むっぴー❞杯」<ガールズ>1日目（初日！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-23T07:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50066",
+            "title": "【競輪祭予想】決勝進出選手の「準決レース内容」をAIが評価！ライン別に紹介",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50066",
+            "categories": [],
+            "publishedAt": "2026-11-23T06:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50122",
+            "title": "【競輪祭予想】中四国4車か、単騎勢か。運命を変える一走へ！ 高木真備が占う決勝の行方「炎の予想12番勝負」第10戦",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50122",
+            "categories": [],
+            "publishedAt": "2026-11-23T05:25:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220002723",
+            "title": "【競輪】犬伏湧也は力強さが増している、石原颯との連係も新しいステージに…／ヤマコウ",
+            "url": "https://www.nikkansports.com/public_race/keirin/yamakou/news/202611220002723.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-23T05:00:00+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "50140",

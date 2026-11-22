@@ -859,12 +859,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-23T03:02:15+09:00",
+    "checkedAt": "2026-11-23T08:50:19+09:00",
     "failures": [
         {
-            "source": "keirin.jp",
-            "sourceName": "KEIRIN.JP",
-            "message": "GET https://keirin.jp/pc/topicslist?skbn=1&scym=202611&cgcd=&nxtp=1 returned HTTP 502."
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "message": "GET https://tkmtkeirin.blog.fc2.com/?xml returned HTTP 403."
         }
     ]
 }
