@@ -2,6 +2,64 @@
     "date": "2026-11-22",
     "articles": [
         {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "204",
+            "title": "【11/23（月・祝）▶25（水）】モーニング競輪「九州佐賀国際❝むっぴー❞杯」 番組視聴者プレゼント！",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/204",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-11-22T09:50:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50104",
+            "title": "【前橋競輪・ミッドナイト】前川大輔「いい感じで仕掛けられたと思います」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50104",
+            "categories": [],
+            "publishedAt": "2026-11-22T09:10:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50103",
+            "title": "【競輪祭】犬伏湧也が3走連続2着で準決勝へ",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50103",
+            "categories": [],
+            "publishedAt": "2026-11-22T09:05:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50102",
+            "title": "【競輪祭】S級S班からの陥落が決定した嘉永泰斗",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50102",
+            "categories": [],
+            "publishedAt": "2026-11-22T09:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50061",
+            "title": "第68回朝日新聞社杯競輪祭G1（4日目）レポート【ダイヤモンドレースは郡司浩平が1着】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50061",
+            "categories": [],
+            "publishedAt": "2026-11-22T07:30:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220000106",
+            "title": "【競輪】荒井崇博ベテランの存在感　タイトル奪取も近い／ヤマコウ",
+            "url": "https://www.nikkansports.com/public_race/keirin/yamakou/news/202611220000106.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T07:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611220000007",
@@ -56,6 +114,26 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e5%b0%8f%e5%80%89%ef%bd%87%e2%85%b0%ef%bc%94%e6%97%a5%e7%9b%ae%e3%80%91%e5%87%ba%e6%9d%a5%e4%ba%8b/",
             "categories": [],
             "publishedAt": "2026-11-22T00:00:04+09:00"
+        },
+        {
+            "source": "ito",
+            "sourceName": "伊東温泉競輪",
+            "id": "/news/news26112201.html",
+            "title": "ミカリンキッチン出張所が伊東市役所に出店します！",
+            "url": "https://www.itokeirin.com/news/news26112201.html",
+            "categories": [],
+            "publishedAt": "2026-11-22T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "graderace/keirinsai/2026/report_4",
+            "title": "『第68回朝日新聞社杯競輪祭（GI）レポート』　4日目編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_4.html",
+            "categories": [
+                "グレードレースレポート"
+            ],
+            "publishedAt": "2026-11-22T00:00:00+09:00"
         },
         {
             "source": "netkeirin",
