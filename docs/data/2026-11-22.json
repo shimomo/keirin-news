@@ -2,6 +2,171 @@
     "date": "2026-11-22",
     "articles": [
         {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50026",
+            "title": "【競輪祭予想】2R河端朋之はビッグ最終日敗者戦は6連続確定板！/データから見る最終日の注目6選手",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50026",
+            "categories": [],
+            "publishedAt": "2026-11-22T23:50:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50108",
+            "title": "第68回朝日新聞社杯競輪祭G1（準決勝）レポート【決勝進出の9選手コメント】",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50108",
+            "categories": [],
+            "publishedAt": "2026-11-22T23:45:00+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "259232-20261122",
+            "title": "【競輪祭決勝メンバー決定】優勝でつかむか、賞金で届くか　グランプリの顔ぶれが決まる最終決戦へ／11月22日 小倉競輪場",
+            "url": "https://morecadence.jp/keirin/259232",
+            "categories": [
+                "競輪",
+                "road to GP2026",
+                "古性優作",
+                "山口拳矢",
+                "新山響平",
+                "新田祐大",
+                "松浦悠士",
+                "清水裕友",
+                "犬伏湧也",
+                "石原颯",
+                "競輪祭",
+                "菅田壱道"
+            ],
+            "publishedAt": "2026-11-22T23:16:19+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220002714",
+            "title": "【競輪】脇本雄太が今節初勝利、GP前ラストの最終日へ「納得いくレースを」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611220002714.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T23:13:56+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220002708",
+            "title": "【競輪】山口拳矢「だいぶ、うれしい」GP出場懸けて決勝も単騎で一発なるか／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611220002708.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-22T23:09:23+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50136",
+            "title": "【競輪祭】決勝インタビュー／グランプリ出場をかけた最終決戦！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50136",
+            "categories": [],
+            "publishedAt": "2026-11-22T23:08:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49946",
+            "title": "【競輪祭】欠場(不参加)、追加、補充選手一覧　※22日22時27分更新",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49946",
+            "categories": [],
+            "publishedAt": "2026-11-22T22:27:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50134",
+            "title": "【競輪祭】山口拳矢 十八番の単騎捲りで決勝入り「流れが向いているかな」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50134",
+            "categories": [],
+            "publishedAt": "2026-11-22T22:11:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50125",
+            "title": "【競輪祭 予想】決勝メンバー9名が出揃う 郡司・阿部・南はS班陥落濃厚、佐々木・深谷は敗退",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50125",
+            "categories": [],
+            "publishedAt": "2026-11-22T20:48:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50127",
+            "title": "【競輪祭結果】準決勝12Rは古性優作が1着 松本貴治らが落車のアクシデント、3連単は37,850円",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50127",
+            "categories": [],
+            "publishedAt": "2026-11-22T20:43:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50126",
+            "title": "【競輪祭】郡司浩平が決勝進出を逃し…",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50126",
+            "categories": [],
+            "publishedAt": "2026-11-22T20:36:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50123",
+            "title": "【玉野競輪・ミッドナイト】今節のレース展望",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50123",
+            "categories": [],
+            "publishedAt": "2026-11-22T20:13:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001765",
+            "title": "【競輪】辺見竜馬は２班でも有力なＶ候補「ラインで決まればそれが一番」／玉野ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220001765.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T19:26:17+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50120",
+            "title": "【競輪祭】小川勇介「来年は優勝戦に乗れるように」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50120",
+            "categories": [],
+            "publishedAt": "2026-11-22T19:24:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50119",
+            "title": "【競輪祭】脇本雄太が4走目でようやく白星ゲット「1着取れたことは評価したい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50119",
+            "categories": [],
+            "publishedAt": "2026-11-22T19:21:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611220001818",
+            "title": "【競輪】川上いちごは連続完全ＶへGO　競輪祭は太田りゆの走りに刺激／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611220001818.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-22T18:59:38+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611220001946",
