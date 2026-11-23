@@ -2,6 +2,277 @@
     "date": "2026-11-23",
     "articles": [
         {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "259362-20261123",
+            "title": "北日本vs中四国ラインの激闘 だが山口拳矢が2つ目のタイトルを獲得／『第68回朝日新聞社杯競輪祭（G1）』決勝",
+            "url": "https://morecadence.jp/keirin/259362",
+            "categories": [
+                "競輪",
+                "road to GP2026",
+                "古性優作",
+                "山口拳矢",
+                "新山響平",
+                "新田祐大",
+                "松浦悠士",
+                "清水裕友",
+                "犬伏湧也",
+                "石原颯",
+                "競輪祭",
+                "菅田壱道"
+            ],
+            "publishedAt": "2026-11-23T23:36:42+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002324",
+            "title": "【競輪】６日間の総売り上げは142億円に迫るも目標額に届かず　Vは山口拳矢／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611230002324.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-23T23:30:58+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002320",
+            "title": "【競輪】山口優依は翌日の番組見ない「過去のレースが降ってきて眠れない」／玉野ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611230002320.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-23T23:26:24+09:00"
+        },
+        {
+            "source": "keirin-fc",
+            "sourceName": "競輪選手会オフィシャルファンクラブ",
+            "id": "18745-20261123",
+            "title": "第68回朝日新聞社杯競輪祭（GI）山口拳矢が優勝!!",
+            "url": "https://keirincyclist-fc.jp/info/post-18745/",
+            "categories": [
+                "競輪情報"
+            ],
+            "publishedAt": "2026-11-23T23:20:49+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002287",
+            "title": "【競輪】親知らずを４本抜いた池原杏は復帰戦で６着、不完全燃焼に「次こそ」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611230002287.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-23T23:04:52+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50149",
+            "title": "【第68回朝日新聞社杯競輪祭G1】山口拳矢が競輪祭初優勝！「逃さず仕掛けられました」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50149",
+            "categories": [],
+            "publishedAt": "2026-11-23T23:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50167",
+            "title": "【競輪祭】決勝レース後4〜9着インタビュー／新山響平「やることは一つ」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50167",
+            "categories": [],
+            "publishedAt": "2026-11-23T23:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002289",
+            "title": "【競輪】山口拳矢が単騎でぶっちぎりのV　2度目のG1制覇＆GP切符ゲット／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611230002289.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-23T22:59:20+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002284",
+            "title": "【競輪】荒川ひかりが差し切って久々予選１着「流れが良くなってくれれば」／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611230002284.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-23T22:55:07+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002268",
+            "title": "【競輪】太田美穂が復活ムードの逃げ切り勝ち「調子はいい、吹っ切れました」／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611230002268.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-23T22:53:49+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002269",
+            "title": "【競輪】父ヤマコウ「鳥肌が立ちました。おやじながら驚いています」山口拳矢V／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611230002269.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-23T22:53:28+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50065",
+            "title": "競輪祭Vの山口拳矢が4位浮上！ 獲得賞金1億円超えは8名、GP出場ボーダーは1億円超え|  最新競輪賞金高順ベスト30発表",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50065",
+            "categories": [],
+            "publishedAt": "2026-11-23T22:51:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49944",
+            "title": "2027年のS級S班が決定！深谷知広、山口拳矢が3年ぶりに復帰、郡司浩平ら5名陥落",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49944",
+            "categories": [],
+            "publishedAt": "2026-11-23T22:27:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49947",
+            "title": "【KEIRINグランプリ2026】出場予定選手が決定！ 石原颯、犬伏湧也が初出場",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49947",
+            "categories": [],
+            "publishedAt": "2026-11-23T22:18:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230002219",
+            "title": "【競輪】伊藤梨里花が新車で快勝「もっと早く仕掛けたかった」と反省も／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611230002219.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-23T22:15:05+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "115975-20261123",
+            "title": "山口拳矢選手が3年ぶり2度目のGⅠ制覇！！グランプリ出場権を獲得！ 『第68回朝日新聞社杯競輪祭』結果",
+            "url": "https://keirin-marche.jp/watch/race/race628/",
+            "categories": [],
+            "publishedAt": "2026-11-23T22:12:20+09:00"
+        },
+        {
+            "source": "morecadence",
+            "sourceName": "More CADENCE",
+            "id": "259366-20261123",
+            "title": "競輪界最高峰の9人が決定！2027年”S級S班”＆『KEIRINグランプリ2026』出場選手",
+            "url": "https://morecadence.jp/keirin/259366",
+            "categories": [
+                "競輪",
+                "KEIRINグランプリ",
+                "road to GP2026",
+                "古性優作",
+                "吉田拓矢",
+                "山口拳矢",
+                "松浦悠士",
+                "深谷知広",
+                "犬伏湧也",
+                "眞杉匠",
+                "石原颯",
+                "脇本雄太"
+            ],
+            "publishedAt": "2026-11-23T22:04:24+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50161",
+            "title": "【競輪祭】優勝者インタビュー 山口拳矢「自分の力で勝ち取れたのは自信になる」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50161",
+            "categories": [],
+            "publishedAt": "2026-11-23T22:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50160",
+            "title": "【競輪祭】決勝2、3着インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50160",
+            "categories": [],
+            "publishedAt": "2026-11-23T21:56:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50158",
+            "title": "【西武園競輪・ナイター】強くなっている田沼龍弥「落ち着きが出てきました」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50158",
+            "categories": [],
+            "publishedAt": "2026-11-23T21:20:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50157",
+            "title": "【競輪祭】北津留翼が地元G1を振り返る",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50157",
+            "categories": [],
+            "publishedAt": "2026-11-23T21:08:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50154",
+            "title": "【競輪祭結果】単騎・山口拳矢が優勝、GP出場権獲得！ 3連単は17,890円/決勝",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50154",
+            "categories": [],
+            "publishedAt": "2026-11-23T20:37:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611230001975",
+            "title": "【競輪】嘉永泰斗が今節を白星締め　Ｓ班陥落したが「来年以降につながれば」／小倉G1",
+            "url": "https://www.nikkansports.com/public_race/news/202611230001975.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-23T20:18:01+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50152",
+            "title": "【競輪祭】深谷知広 3年ぶりのグランプリへ「本当に最後のチャンスになる」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50152",
+            "categories": [],
+            "publishedAt": "2026-11-23T19:05:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50151",
+            "title": "【競輪祭】中野慎詞が悔しいシリーズを振り返る「決勝で北日本の先頭を走りたかった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50151",
+            "categories": [],
+            "publishedAt": "2026-11-23T19:00:00+09:00"
+        },
+        {
             "source": "shizuoka",
             "sourceName": "静岡競輪",
             "id": "4211-20261123",
@@ -195,6 +466,28 @@
             "id": "19617-20261123",
             "title": "沢田　桂太郎選手が11/23～25川崎競輪で特別昇班に挑戦！",
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19617",
+            "categories": [
+                "選手"
+            ],
+            "publishedAt": "2026-11-23T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19618-20261123",
+            "title": "KEIRINグランプリ2026出場予定選手の決定について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19618",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-23T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19619-20261123",
+            "title": "2027年S級S班選手の決定について",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19619",
             "categories": [
                 "選手"
             ],
