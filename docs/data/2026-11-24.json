@@ -2,6 +2,162 @@
     "date": "2026-11-24",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002251",
+            "title": "【競輪】久保田智之が好内容の突っ張り先行も、差されて２着に「悔しい」／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002251.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-24T23:45:59+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002245",
+            "title": "【競輪】上吹越俊一が後方からタテ足発揮し決勝切符「最近は伸びてるんだよ」／玉野ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002245.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-24T23:44:39+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002214",
+            "title": "【競輪】高本美穂が直線伸びて３着で決勝進出「直線勝負に懸けました」／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002214.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-24T22:41:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002206",
+            "title": "【競輪】「簡単ではないことはわかっている」渡口まりあが決勝への意気込み語る／玉野ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002206.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-24T22:40:35+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50190",
+            "title": "【玉野競輪・ミッドナイト】7R・A級準決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50190",
+            "categories": [],
+            "publishedAt": "2026-11-24T22:22:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50189",
+            "title": "【玉野競輪・ミッドナイト】6R・A級準決勝インタビュー！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50189",
+            "categories": [],
+            "publishedAt": "2026-11-24T22:15:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002080",
+            "title": "【競輪】4Rに出走予定だった南蓮が病気のため当日欠場、同レースは中止に／四日市ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002080.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-24T20:48:09+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002063",
+            "title": "【競輪】5R1番車で出場予定だった辺見竜馬が発熱で当日欠場／玉野ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002063.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-24T20:42:33+09:00"
+        },
+        {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "39060-20261124",
+            "title": "【12/13（日）】四日市けいりんファミリーイベント",
+            "url": "https://yokkaichikeirin.com/39060/",
+            "categories": [
+                "イベント",
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-24T20:00:55+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50188",
+            "title": "【西武園競輪・ナイター】中野楚樂が余裕の5連勝「佐世保へ行く前に決めたい」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50188",
+            "categories": [],
+            "publishedAt": "2026-11-24T19:32:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240001586",
+            "title": "【競輪】新人の田中衛太が師匠の前で白星発進「あんまり緊張はしていないです」／静岡",
+            "url": "https://www.nikkansports.com/public_race/news/202611240001586.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-24T18:20:15+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "49882",
+            "title": "【KEIRINグランプリ2026】前人未到の「年間4億円」なるか!? 絶対王者・古性優作が3度目の頂点へ/出場選手紹介",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=49882",
+            "categories": [],
+            "publishedAt": "2026-11-24T18:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50185",
+            "title": "【動画公開】いきなりG1は難しい!? 予想しやすいレースはどれ？ レースごとに異なる面白さとは",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50185",
+            "categories": [],
+            "publishedAt": "2026-11-24T18:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240001538",
+            "title": "【競輪】今藤康裕が中ゼロ日で気合の参戦「状態を上げるために出場を決めました」／福井",
+            "url": "https://www.nikkansports.com/public_race/news/202611240001538.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-24T17:54:25+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月25日（水）】モーニング競輪「九州佐賀国際空港❝むっぴー❞杯」<ガールズ>３日目（決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-24T17:30:00+09:00"
+        },
+        {
             "source": "hiroshima",
             "sourceName": "広島競輪",
             "id": "20623-20261124",
@@ -33,17 +189,6 @@
                 "レース情報"
             ],
             "publishedAt": "2026-11-24T13:30:15+09:00"
-        },
-        {
-            "source": "takeo",
-            "sourceName": "武雄競輪",
-            "id": "87",
-            "title": "【11月25日（水）】モーニング競輪「九州佐賀国際空港❝むっぴー❞杯」<ガールズ>３日目（決勝！）出走表＆予想情報&ライブ放送",
-            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
-            "categories": [
-                "RACE"
-            ],
-            "publishedAt": "2026-11-24T13:20:00+09:00"
         },
         {
             "source": "netkeirin",
@@ -196,6 +341,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19621",
             "categories": [
                 "お知らせ"
+            ],
+            "publishedAt": "2026-11-24T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19622-20261124",
+            "title": "「Dokanto！4two」に的中者が出ました！！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19622",
+            "categories": [
+                "投票関係"
             ],
             "publishedAt": "2026-11-24T00:00:00+09:00"
         },

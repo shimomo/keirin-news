@@ -1,0 +1,36 @@
+{
+    "date": "2026-11-25",
+    "articles": [
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611250000007",
+            "title": "【競輪】「勝って終わりたい！」卒記チャンプ沢田桂太郎が特昇へあと１勝／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611250000007.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-25T00:48:14+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240002248",
+            "title": "【競輪】川上いちごは２場所連続完全Ｖに王手　２走ともにレースを支配／川崎ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611240002248.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-25T00:18:43+09:00"
+        },
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "id": "803892-20261125",
+            "title": "【福井ＦⅠ初日12Ｒ】山口富　師匠も奮起",
+            "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%a6%8f%e4%ba%95%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a512%ef%bd%92%e3%80%91%e5%b1%b1%e5%8f%a3%e5%af%8c%e3%80%80%e5%b8%ab%e5%8c%a0%e3%82%82%e5%a5%ae%e8%b5%b7/",
+            "categories": [],
+            "publishedAt": "2026-11-25T00:02:31+09:00"
+        }
+    ]
+}
