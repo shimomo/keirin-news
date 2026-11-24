@@ -2,6 +2,119 @@
     "date": "2026-11-24",
     "articles": [
         {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20623-20261124",
+            "title": "【11/24】地元・吉岡竜太選手が奈良競輪FⅡで優勝！！",
+            "url": "https://hiroshima-keirin.com/2026/11/24/%e3%80%9011-24%e3%80%91%e5%9c%b0%e5%85%83%e3%83%bb%e5%90%89%e5%b2%a1%e7%ab%9c%e5%a4%aa%e9%81%b8%e6%89%8b%e3%81%8c%e5%a5%88%e8%89%af%e7%ab%b6%e8%bc%aaf%e2%85%b1%e3%81%a7%e5%84%aa%e5%8b%9d%ef%bc%81/",
+            "categories": [
+                "レース"
+            ],
+            "publishedAt": "2026-11-24T13:55:09+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611240000874",
+            "title": "【競輪】渡辺諒馬が目標のライン決着を決めて満足げ「結果も良かったですね」／武雄",
+            "url": "https://www.nikkansports.com/public_race/news/202611240000874.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-24T13:51:20+09:00"
+        },
+        {
+            "source": "takamatsu",
+            "sourceName": "高松競輪",
+            "id": "511",
+            "title": "高松市営玉野競輪　ミッドナイト競輪　オッズパーク杯＆ガールズケイリン（ＦⅡ）２日目予想情報　提供：競輪毎日",
+            "url": "https://tkmtkeirin.blog.fc2.com/blog-entry-511.html",
+            "categories": [
+                "レース情報"
+            ],
+            "publishedAt": "2026-11-24T13:30:15+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月25日（水）】モーニング競輪「九州佐賀国際空港❝むっぴー❞杯」<ガールズ>３日目（決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-24T13:20:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50180",
+            "title": "【競輪賞金ランキング】競輪祭優勝の山口拳矢が4位浮上 松浦悠士も6位へ",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50180",
+            "categories": [],
+            "publishedAt": "2026-11-24T12:00:00+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/info/2026/11/147-279f.html",
+            "title": "1月4日～7日の開催についてのご案内",
+            "url": "https://blog.tachikawakeirin.jp/info/2026/11/147-279f.html",
+            "categories": [
+                "トップ固定表示"
+            ],
+            "publishedAt": "2026-11-24T11:54:01+09:00"
+        },
+        {
+            "source": "tachikawa",
+            "sourceName": "立川競輪",
+            "id": "/info/2026/11/122830-8d2a.html",
+            "title": "12月28日～30日の開催についてのご案内",
+            "url": "https://blog.tachikawakeirin.jp/info/2026/11/122830-8d2a.html",
+            "categories": [
+                "トップ固定表示"
+            ],
+            "publishedAt": "2026-11-24T11:53:40+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "21903-20261124",
+            "title": "11/28　尾崎睦選手 ガールズグランプリ2026壮行会！",
+            "url": "https://www.shonanbank.com/event/20261128-3/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-24T11:34:06+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50179",
+            "title": "【競輪祭・総売上】141億8891万1300円 目標額に届かず",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50179",
+            "categories": [],
+            "publishedAt": "2026-11-24T11:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50181",
+            "title": "【競輪祭】AIはこう見た 決勝戦のレース評価/小倉G1",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50181",
+            "categories": [],
+            "publishedAt": "2026-11-24T10:15:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50178",
+            "title": "【競輪予想】静岡競輪で岡村潤がG3決勝進出の勢いで地元白星狙う 本日のイチオシは本命党におススメの静岡11R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50178",
+            "categories": [],
+            "publishedAt": "2026-11-24T09:00:00+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611230002352",
@@ -74,6 +187,28 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e5%b1%b1%e5%8f%a3%e3%80%80%ef%bc%92%e5%ba%a6%e7%9b%ae%e3%81%ae%ef%bd%87%e2%85%b0%e5%88%b6%e8%a6%87%e3%80%80%e5%b0%8f%e5%80%89%e7%ab%b6%e8%bc%aa%e3%80%8c%e7%ac%ac68%e5%9b%9e%e7%ab%b6%e8%bc%aa%e7%a5%ad/",
             "categories": [],
             "publishedAt": "2026-11-24T00:01:42+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19621-20261124",
+            "title": "2027年競輪カレンダー1,000名様プレゼント！！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19621",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-24T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "graderace/keirinsai/2026/report_6",
+            "title": "『第68回朝日新聞社杯競輪祭（GI）レポート』　最終日編",
+            "url": "https://keirin.jp/pc/dfw/portal/guest/report/graderace/keirinsai/2026/report_6.html",
+            "categories": [
+                "グレードレースレポート"
+            ],
+            "publishedAt": "2026-11-24T00:00:00+09:00"
         }
     ]
 }
