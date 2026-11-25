@@ -2,6 +2,133 @@
     "date": "2026-11-25",
     "articles": [
         {
+            "source": "mukomachi",
+            "sourceName": "京都向日町競輪",
+            "id": "68859-20261125",
+            "title": "サイクルパーク京都　冬休み・年末年始　営業時間について",
+            "url": "https://kyoto-mukomachikeirin.com/68859/",
+            "categories": [
+                "サイクルパーク"
+            ],
+            "publishedAt": "2026-11-25T09:46:19+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50192",
+            "title": "【玉野競輪・ガールズ】ガールズ決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50192",
+            "categories": [],
+            "publishedAt": "2026-11-25T09:45:00+09:00"
+        },
+        {
+            "source": "seibuen",
+            "sourceName": "西武園競輪",
+            "id": "16996-20261125",
+            "title": "＜11月23日～25日＞西武園ﾅｲﾀｰ競輪 第37回楽天Kﾄﾞﾘｰﾑｽ杯 F2「決勝出場選手」",
+            "url": "https://www.keirin-saitama.jp/seibuen/topics/1125_finalist/",
+            "categories": [],
+            "publishedAt": "2026-11-25T09:01:08+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50191",
+            "title": "【競輪予想】静岡競輪で岡村潤が地元の決勝進出狙う 本日のイチオシは本命党におススメの福井10R",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50191",
+            "categories": [],
+            "publishedAt": "2026-11-25T09:00:00+09:00"
+        },
+        {
+            "source": "keirin-marche",
+            "sourceName": "けいりんマルシェ",
+            "id": "116021-20261125",
+            "title": "師匠は“普通の優しいお父さん” 20歳の二世レーサー・丸山留依選手（静岡・127期）",
+            "url": "https://keirin-marche.jp/enjoy/interview/introduction64/",
+            "categories": [],
+            "publishedAt": "2026-11-25T08:03:45+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "87",
+            "title": "【11月25日（水）】モーニング競輪「九州佐賀国際空港❝むっぴー❞杯」<ガールズ>３日目（決勝！）出走表＆予想情報&ライブ放送",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/87",
+            "categories": [
+                "RACE"
+            ],
+            "publishedAt": "2026-11-25T07:30:00+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8478-20261125",
+            "title": "車券推理の極意　2026小倉競輪祭「決勝」",
+            "url": "https://keirin-web.com/commentary-analysis/secret/8478/",
+            "categories": [
+                "レース予想の極意",
+                "解説＆分析"
+            ],
+            "publishedAt": "2026-11-25T04:33:13+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8477-20261125",
+            "title": "第131回生・第132回生 第1回トーナメント競走",
+            "url": "https://keirin-web.com/story/8477/",
+            "categories": [
+                "養成所物語"
+            ],
+            "publishedAt": "2026-11-25T04:01:38+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8446-20261125",
+            "title": "車券推理の極意　2026小倉競輪祭「ガールズ決勝」",
+            "url": "https://keirin-web.com/commentary-analysis/secret/8446/",
+            "categories": [
+                "レース予想の極意",
+                "解説＆分析"
+            ],
+            "publishedAt": "2026-11-25T03:26:11+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8441-20261125",
+            "title": "編集部コラム　KEIRIN ON MY MIND　",
+            "url": "https://keirin-web.com/special-issue/8441/",
+            "categories": [
+                "特集"
+            ],
+            "publishedAt": "2026-11-25T03:19:25+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8417-20261125",
+            "title": "2026宇都宮ジャパンカップサイクルロードレース",
+            "url": "https://keirin-web.com/subsidized-project/8417/",
+            "categories": [
+                "競輪補助事業"
+            ],
+            "publishedAt": "2026-11-25T02:51:22+09:00"
+        },
+        {
+            "source": "keirin-web",
+            "sourceName": "月刊競輪WEB",
+            "id": "8414-20261125",
+            "title": "今週の注目オアシはこの選手だ!!",
+            "url": "https://keirin-web.com/special-issue/tatekawa-kikkou/8414/",
+            "categories": [
+                "特集",
+                "立川吉幸コラム"
+            ],
+            "publishedAt": "2026-11-25T02:29:53+09:00"
+        },
+        {
             "source": "nikkansports",
             "sourceName": "日刊スポーツ",
             "id": "202611250000007",
@@ -31,6 +158,17 @@
             "url": "https://keirinsponichi.jp/keirin_news/%e3%80%90%e7%a6%8f%e4%ba%95%ef%bd%86%e2%85%b0%e5%88%9d%e6%97%a512%ef%bd%92%e3%80%91%e5%b1%b1%e5%8f%a3%e5%af%8c%e3%80%80%e5%b8%ab%e5%8c%a0%e3%82%82%e5%a5%ae%e8%b5%b7/",
             "categories": [],
             "publishedAt": "2026-11-25T00:02:31+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19625-20261125",
+            "title": "【月刊競輪WEB】宇都宮ジャパンカップサイクルロードレースなど、新着記事配信中！",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19625",
+            "categories": [
+                "月刊競輪"
+            ],
+            "publishedAt": "2026-11-25T00:00:00+09:00"
         }
     ]
 }
