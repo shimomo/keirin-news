@@ -2,6 +2,46 @@
     "date": "2026-11-25",
     "articles": [
         {
+            "source": "yokkaichi",
+            "sourceName": "四日市競輪",
+            "id": "39482-20261125",
+            "title": "１２月イベントスケジュール(１１/２５更新)",
+            "url": "https://yokkaichikeirin.com/39482/",
+            "categories": [
+                "イベント"
+            ],
+            "publishedAt": "2026-11-25T23:43:36+09:00"
+        },
+        {
+            "source": "seibuen",
+            "sourceName": "西武園競輪",
+            "id": "16992-20261125",
+            "title": "＜12月4日～6日＞西武園ﾅｲﾀｰ競輪 第18回東京ｽﾎﾟｰﾂ杯 F1「ｲﾍﾞﾝﾄ･ﾌｧﾝｻｰﾋﾞｽ」",
+            "url": "https://www.keirin-saitama.jp/seibuen/topics/1204-06_fanservice/",
+            "categories": [],
+            "publishedAt": "2026-11-25T21:00:09+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50214",
+            "title": "松山競輪場で78万9120円車券が飛び出す/九州スポーツ杯×ラブリン杯2日目(10R)",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50214",
+            "categories": [],
+            "publishedAt": "2026-11-25T20:58:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611250001985",
+            "title": "【競輪】新村穣が２周先行で地元の岸田剛を攻略「長い距離を踏む練習をしている」／福井",
+            "url": "https://www.nikkansports.com/public_race/news/202611250001985.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-25T19:44:06+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "50213",
