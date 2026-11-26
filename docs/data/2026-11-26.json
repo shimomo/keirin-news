@@ -2,6 +2,68 @@
     "date": "2026-11-26",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611260002414",
+            "title": "【競輪】水沢秀哉が突っ張り先行で完勝「新車は流れていく感じがありました」／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611260002414.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-26T23:39:16+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611260002410",
+            "title": "【競輪】松本詩乃、３着も表情は晴れ晴れ「しっかりと前に出られた。良かった」／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611260002410.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-26T23:23:35+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50230",
+            "title": "【松戸競輪・ミッドナイト】戦法を迷う荒木貴大「自力をやめたくないけど、周りの人は…」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50230",
+            "categories": [],
+            "publishedAt": "2026-11-26T23:22:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611260002369",
+            "title": "【競輪】村田奈穂が初戦をまくり快勝「行きたいところで行けた」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611260002369.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-26T23:03:21+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611260002366",
+            "title": "【競輪】北津留千羽が７カ月ぶりの予選白星ゲット「うまくまくり切れた」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611260002366.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-26T22:57:59+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50229",
+            "title": "【松戸競輪・ガールズ】前回初決勝の高崎千賀 好循環に入った「練習も楽しくなってきた」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50229",
+            "categories": [],
+            "publishedAt": "2026-11-26T22:38:00+09:00"
+        },
+        {
             "source": "hiratsuka",
             "sourceName": "平塚競輪",
             "id": "13661-20261126",
