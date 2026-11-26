@@ -379,17 +379,6 @@
             "publishedAt": "2026-11-16T00:01:06+09:00"
         },
         {
-            "source": "kawasaki",
-            "sourceName": "川崎競輪",
-            "id": "/race/kawasaki_winner.html",
-            "title": "川崎競輪場　歴代優勝者情報を更新しました。",
-            "url": "https://www.kawasakikeirin.com/race/kawasaki_winner.html",
-            "categories": [
-                "info"
-            ],
-            "publishedAt": "2026-11-16T00:00:00+09:00"
-        },
-        {
             "source": "keirin.jp",
             "sourceName": "KEIRIN.JP",
             "id": "19591-20261116",
