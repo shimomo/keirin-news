@@ -2,6 +2,219 @@
     "date": "2026-11-27",
     "articles": [
         {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270002412",
+            "title": "【競輪】２場所連続優勝を狙う永礼美瑠「初日より足にも余裕があった」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611270002412.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-27T22:48:24+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270002411",
+            "title": "【競輪】長沢彩が滑り込みで決勝進出「地元だし頑張りたいなと思っていた」／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611270002411.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-27T22:47:31+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50256",
+            "title": "【松戸競輪・ガールズ】夜型の松本詩乃、ミッドナイトで本領発揮のVだ",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50256",
+            "categories": [],
+            "publishedAt": "2026-11-27T22:28:00+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20664-20261127",
+            "title": "『KEIRINグランプリ2026』出場予定選手決定！松浦悠士選手が出場へ",
+            "url": "https://hiroshima-keirin.com/2026/11/27/%e3%80%8ekeirin%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa2026%e3%80%8f%e5%87%ba%e5%a0%b4%e4%ba%88%e5%ae%9a%e9%81%b8%e6%89%8b%e6%b1%ba%e5%ae%9a%ef%bc%81%e6%9d%be%e6%b5%a6%e6%82%a0%e5%a3%ab%e9%81%b8/",
+            "categories": [
+                "レース"
+            ],
+            "publishedAt": "2026-11-27T22:10:52+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270002105",
+            "title": "【競輪】渡部遥と斎藤宗徳が急病のため当日欠場／久留米ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611270002105.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-27T20:18:15+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "13725-20261127",
+            "title": "選手インタビュー（2日目）を更新しました。",
+            "url": "https://www.shonanbank.com/news/2024p1-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-27T20:13:45+09:00"
+        },
+        {
+            "source": "hiratsuka",
+            "sourceName": "平塚競輪",
+            "id": "13661-20261127",
+            "title": "出走表PDF（2日目）を更新しました",
+            "url": "https://www.shonanbank.com/news/20260619-3/",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-27T19:32:20+09:00"
+        },
+        {
+            "source": "hiroshima",
+            "sourceName": "広島競輪",
+            "id": "20672-20261127",
+            "title": "【広島競輪】11/30～12/2　『前検日コメントならウィンチケット杯』開催！←キャンペーン情報はこちら",
+            "url": "https://hiroshima-keirin.com/2026/11/27/%e3%80%90%e5%ba%83%e5%b3%b6%e7%ab%b6%e8%bc%aa%e3%80%9111-30%ef%bd%9e12-2%e3%80%80%e3%80%8e%e5%89%8d%e6%a4%9c%e6%97%a5%e3%82%b3%e3%83%a1%e3%83%b3%e3%83%88%e3%81%aa%e3%82%89%e3%82%a6%e3%82%a3%e3%83%b3/",
+            "categories": [
+                "レース"
+            ],
+            "publishedAt": "2026-11-27T19:08:39+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50239",
+            "title": "28日に九州地区プロ大会が開催 S班・嘉永泰斗、荒井崇博らエントリー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50239",
+            "categories": [],
+            "publishedAt": "2026-11-27T19:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270001725",
+            "title": "【競輪】宮道良輔が初戦逃げ切り勝ち「辛抱できて良かった。このいい流れを準決でも」／佐世保",
+            "url": "https://www.nikkansports.com/public_race/news/202611270001725.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-27T18:35:56+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50238",
+            "title": "【地区プロ競技大会結果・関東】森田一郎がケイリンV！ 雨谷一樹はスプリント3連覇",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50238",
+            "categories": [],
+            "publishedAt": "2026-11-27T18:01:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50243",
+            "title": "【KEIRINグランプリ2026】3度目の正直なるか!? 強豪関東のリーダー・吉田拓矢が悲願のGP制覇へ /出場選手紹介",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50243",
+            "categories": [],
+            "publishedAt": "2026-11-27T18:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50249",
+            "title": "【玉野競輪】今節のレース展望",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50249",
+            "categories": [],
+            "publishedAt": "2026-11-27T17:57:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270001424",
+            "title": "【競輪】大瀬戸潤一郎が技ありの１着スタート「何とかなる状態だと思う」／平塚",
+            "url": "https://www.nikkansports.com/public_race/news/202611270001424.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-27T16:53:03+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270001432",
+            "title": "【競輪】小玉拓真は今期７度の優勝の荒稼ぎ「足的には今が一番強い」／小倉",
+            "url": "https://www.nikkansports.com/public_race/news/202611270001432.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-27T16:52:05+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50247",
+            "title": "【小倉競輪・ナイター】今期A級2班に昇班した利川寛太、一皮剥けた走りは出来るのか!?",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50247",
+            "categories": [],
+            "publishedAt": "2026-11-27T16:09:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50245",
+            "title": "競走中の失格行為の取扱いが見直しに 11月30日初日のレースより適用/JKA発表",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50245",
+            "categories": [],
+            "publishedAt": "2026-11-27T16:00:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50244",
+            "title": "129期・沢田桂太郎がA級2班へ特別昇班！",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50244",
+            "categories": [],
+            "publishedAt": "2026-11-27T15:00:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611270001047",
+            "title": "【競輪】真鍋顕汰が手応え深めつつ完全Ｖ王手「道中はメチャクチャ楽」／小松島",
+            "url": "https://www.nikkansports.com/public_race/news/202611270001047.html",
+            "categories": [
+                "競輪"
+            ],
+            "publishedAt": "2026-11-27T14:06:44+09:00"
+        },
+        {
+            "source": "shizuoka",
+            "sourceName": "静岡競輪",
+            "id": "4607-20261127",
+            "title": "静岡駅の無料送迎バスについて【１１月２７日更新】",
+            "url": "https://www.shizuoka38.jp/information/4607",
+            "categories": [
+                "お知らせ"
+            ],
+            "publishedAt": "2026-11-27T14:00:57+09:00"
+        },
+        {
+            "source": "omiya",
+            "sourceName": "大宮競輪",
+            "id": "15742-20261127",
+            "title": "＜12月5日・6日＞森田一郎選手・太田りゆ選手「Road to GRANDPRIX 」壮行会",
+            "url": "https://www.keirin-saitama.jp/omiya/topics/20261205_06/",
+            "categories": [],
+            "publishedAt": "2026-11-27T13:56:17+09:00"
+        },
+        {
             "source": "netkeirin",
             "sourceName": "netkeirin",
             "id": "50242",
@@ -137,6 +350,17 @@
             "url": "https://keirin.jp/pc/topicsdetail?nnum=19635",
             "categories": [
                 "選手"
+            ],
+            "publishedAt": "2026-11-27T00:00:00+09:00"
+        },
+        {
+            "source": "keirin.jp",
+            "sourceName": "KEIRIN.JP",
+            "id": "19638-20261127",
+            "title": "競走中に失格となった行為の取扱いについて",
+            "url": "https://keirin.jp/pc/topicsdetail?nnum=19638",
+            "categories": [
+                "制度"
             ],
             "publishedAt": "2026-11-27T00:00:00+09:00"
         }
