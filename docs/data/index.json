@@ -1,5 +1,6 @@
 {
     "dates": [
+        "2026-11-27",
         "2026-11-26",
         "2026-11-25",
         "2026-11-24",
@@ -862,6 +863,12 @@
         "2021-03-26",
         "2021-03-25"
     ],
-    "checkedAt": "2026-11-27T07:35:33+09:00",
-    "failures": []
+    "checkedAt": "2026-11-27T13:32:34+09:00",
+    "failures": [
+        {
+            "source": "keirinsponichi",
+            "sourceName": "競輪スポニチ",
+            "message": "GET https://keirinsponichi.jp/wp-json/wp/v2/keirin_news?per_page=100&page=1&orderby=date&order=desc&_embed=wp%3Afeaturedmedia%2Cwp%3Aterm&_fields=id%2Cdate_gmt%2Clink%2Ctitle%2Ccontent%2Cexcerpt%2C_links%2C_embedded&after=2026-11-25T04%3A32%3A33%2B00%3A00 returned HTTP 503."
+        }
+    ]
 }
