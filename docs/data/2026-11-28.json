@@ -1,0 +1,87 @@
+{
+    "date": "2026-11-28",
+    "articles": [
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "357",
+            "title": "【11/28.29開催！】オッズパーク武雄１０周年記念たけ丸オータムフェスタ2026",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/357",
+            "categories": [
+                "EVENT"
+            ],
+            "publishedAt": "2026-11-28T07:40:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "361",
+            "title": "【11/28（土）】九州地区プロ自転車競技大会 開催情報",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/361",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-11-28T07:35:00+09:00"
+        },
+        {
+            "source": "takeo",
+            "sourceName": "武雄競輪",
+            "id": "362",
+            "title": "【11/28（土）・29（日）】武雄競輪場/オータムフェスタ2026駐車場について",
+            "url": "https://www.keirin.city.takeo.lg.jp/news/archives/362",
+            "categories": [
+                "INFO"
+            ],
+            "publishedAt": "2026-11-28T07:30:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50259",
+            "title": "【松戸競輪・ミッドナイト】A級決勝インタビュー",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50259",
+            "categories": [],
+            "publishedAt": "2026-11-28T07:26:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50258",
+            "title": "【松戸競輪・ミッドナイト】阿部兼士が捲って3連単なんと48万円！ 本人も「やってしまった」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50258",
+            "categories": [],
+            "publishedAt": "2026-11-28T07:18:00+09:00"
+        },
+        {
+            "source": "netkeirin",
+            "sourceName": "netkeirin",
+            "id": "50257",
+            "title": "【松戸競輪・ガールズ】見せ場をつくった刈込奈那「点数を上げないとだし頑張る」",
+            "url": "https://keirin.netkeiba.com/news/news_detail.html?id=50257",
+            "categories": [],
+            "publishedAt": "2026-11-28T07:14:00+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611280000005",
+            "title": "【競輪】腰痛克服の鈴木庸之が復調モード「準決は足が軽かった。いい感じ」／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611280000005.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-28T01:12:04+09:00"
+        },
+        {
+            "source": "nikkansports",
+            "sourceName": "日刊スポーツ",
+            "id": "202611280000001",
+            "title": "【競輪】地元の刈込奈那は主導権奪取への思いは強い「先行したい」／松戸ミッド",
+            "url": "https://www.nikkansports.com/public_race/keirin/mid_cal/news/202611280000001.html",
+            "categories": [
+                "ミッドナイト競輪"
+            ],
+            "publishedAt": "2026-11-28T00:53:57+09:00"
+        }
+    ]
+}
